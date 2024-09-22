@@ -1,0 +1,2 @@
+-   _Chỉ có 2 nguyên nhân chính ở nội tiết là: CƯỜNG GIÁP và ĐTĐ_
+-   Xem 2 phần trên!
