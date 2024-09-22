@@ -1,0 +1,35 @@
+- Thiếu máu là vấn đề quan trọng cần điều chỉnh trước PT
+	- Thiếu Hgb sẽ làm khó lành vết thương
+	- **PT lớn Hgb > 10g/dL** (dành cho PT như UT dạ dày, PT Whipple)
+	- Thiếu máu mạn tính thì mức yếu cầu không cần đến mức 10
+- Rối loạn đông máu:
+	- Bất thường đông cầm máu trước mổ là bắt buộc
+	- Một số tình huống tối khẩn là không cần đợi KQ đông cầm máu:
+		- Vết thương chạm ĐMC bụng
+		- Thoát vị bẹn nghẹt vào sốc nhiễm trùng nhiễm độc
+	- Tiểu cầu: có giảm SL tiểu cầu – MỔ NGAY KHI MÀ CÓ TIỂU CẦU TRUYỀN, không đợi sau 2-3h sau vì lúc đó tiểu cầu cũng sẽ mất tiếp
+		- _Giảm chất lượng tiểu cầu do thuốc Aspirin … => trì hoãn khoảng 3-5 ngày_
+	- RL đông máu do các yếu tố đông máu:
+		- _Chích vit K cho BN tắc mật_ _=> 3-5 ngày sau BN mới về được bình thường_.  
+		_Vậy mổ cấp cứu thì chích Vit K không có ý nghĩa mà phải truyền huyết tương tươi đông lạnh_
+- Dinh dưỡng: **Albumin là quan trọng, tối thiểu là 35 g/L**.
+- Bệnh lý kèm theo trước mổ
+	- Tim mạch:
+		- _Đang có RL nhịp hoặc máy tạo nhịp => KHÔNG DÙNG dao điện ĐƠN CỰC__=> chuyển sang dao khác hoặc LƯỠNG CỰC_
+		- BN Suy tim nặng hoặc đang RL huyết động (sốc) CHỐNG CHỈ ĐỊNH của PT nội soi
+	- HÔ hấp
+		- _COPD và Hen PQ là hay gặp: Tập VLTL trước và sau mổ_
+		- _Cả 2 bệnh trên vẫn là **CCĐ tương đối** của PT nội soi_
+	- Thận:
+		- Suy thận cấp: Phục hồi chức năng thận càng sớm càng tốt
+		- Thuốc sử dụng
+		- BN bị suy thận mạn đang chạy thận => nên vẫn xem họ như người bình thường => Sắp xếp lịch mổ phù hợp với lịch chạy thận thôi!
+		- Chống chỉ định tương đối với chụp CT-scan cho BN đang suy thận. **_eGFR < 30ml/p là chống chỉ định tương đối của chụp CT-scan_**
+	- ĐTĐ
+		- Vết thương sẽ lành kém hơn
+		- Nhiễm trùng nặng hơn sẽ cần KS mạnh hơn
+		- Chú ý đường huyết trước mổ => tránh quá cao để gây toan chuyển hóa.
+		- Điều chỉnh nhanh bằng Insuin tác dụng nhanh BTTD 
+	- Cường giáp
+		- Có thể vào cơn bão giáp nếu mà không được kiểm soát
+		- Phải chuẩn bị sẵn thuốc cho cơn bão giáp nếu BN vào cuộc mổ
