@@ -1,0 +1,24 @@
+- Tình huống BN lo lắng chưa chắc là bệnh
+- Lo âu
+	- LO LẮNG QUÁ MỨC KHÔNG KIỂM SOÁT ĐƯỢC, KÉO DÀI
+	- 1 ĐỐI TƯỢNG VẪN TÍNH
+	- Đi kèm với triệu chứng cơ thể: tương tự khi thi vấn đáp
+	- Khiến người ta đau khổ và làm giảm chức năng học tập và làm việc
+- Cơn hoảng loạn: 4/13 TRIỆU chứng, phần này thấy anh lướt: thi TN mà tưởng như ==chết tới nơi== (đi kèm với nỗi sợ)
+- _Lo với sợ khác nhau:_
+	- _Lo là những cái gì dự đoán, NGHĨ NHỮNG CÁI GÌ CÓ THỂ XẢY RA – căng thẳng cơ_
+	- _Sợ là những cái gì THỰC TẾ HIỆN TẠI ĐANG CÓ - cách ứng phó_
+- Chẩn đoán theo đúng cái tên
+	- Lo âu lan tỏa: >6m, lo tùm lum
+	- Con Hoảng loạn: 1 cơn,
+	- Lo âu chia ly: con nít, 
+	- Lo âu xã hội: lo về việc người khác phán xét mình
+	- Sợ chuyên biệt: sợ ma
+	- RL hoảng loạn
+- Điều trị
+	- Nguyên nhân
+		- Cường giáp
+	- Tâm lý trị liệu: CBT (trị liệu nhận thức - hành vi), nâng đỡ, định hướng nội thị
+	- Hóa dược 4 thuốc chính _(SSRI, SNRI, Buspirone, BZD) => BZD chỉ xài ngắn hạn_
+		- SSRI: tránh luosetine (Tăng lo Âu nhiều)
+		- SNRI: CCĐ: THA

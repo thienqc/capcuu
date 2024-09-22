@@ -1,0 +1,22 @@
+- Triệu chứng
+	- _Triệu chứng chủ đạo là triệu chứng khí sắc_
+- 3 giai đoạn
+	- Trầm cảm: 2w
+	- Hưng cảm: 1w
+	- Hưng cảm nhẹ: 4d
+- Chẩn đoán:
+	- Phải loại trừ thực thể và sử dụng chất
+	- Trầm cảm chủ yếu, lưỡng cực I, lưỡng cực II
+- Điều trị
+	- Nguyên nhân
+	- Trầm cảm chủ yếu: Hóa dược (SSRI, SNRI, Mitarzepine, Trazodone) + Tâm lý trị liệu
+		- _Phải nhớ tên thuốc SSRI và SNRI (5 thuốc thường gặp)_
+		- _SSRI: Paroxetine, Sertraline, Citalopram, Escitalopram, Fluoxetine, Fluvoxamine_
+		- _SNRI:_ venlafaxine, desvenlafaxine, levomilnacipran, duloxetine
+		- Mirtazapine
+		- Trazodone
+	- RL lưỡng cực
+		- Tâm lý trị liệu + Hóa trị liệu
+		- ==Thuốc ổn định khí sắc==: Valproate, Carbamezepine (chống động kinh), ~~Quetiapine~~
+		- Thuốc chống loạn thần: Quetiapine
+		- Thuốc chống trầm cảm nếu có trầm cảm

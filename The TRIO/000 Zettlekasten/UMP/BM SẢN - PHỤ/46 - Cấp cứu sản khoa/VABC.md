@@ -1,0 +1,5 @@
+- **CCĐ tuyệt đối là tiền căn vỡ tử cung**
+- Xử trí trong quá trình VABC:
+	- Oxytocin có thể được sử dụng để khởi phát chuyển dạ, tăng co
+	- CHỐNG CHỈ ĐỊNH Misoprostol trong việc làm chín mùi CTC
+	- Dấu hiệu luôn có trong vỡ TC: Nhịp tim thai giảm kéo dài và nhịp chậm

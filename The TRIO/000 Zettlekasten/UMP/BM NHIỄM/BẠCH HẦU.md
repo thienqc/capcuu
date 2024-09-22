@@ -1,0 +1,20 @@
+- Bệnh lây, cấp tính – trực trùng C. diphtheriae
+- 2 thể: Thể hô hấp và thể da
+- Gây bệnh qua ngoại độc tố => vào máu => các cơ quan
+- Đối tượng là trẻ chưa có miễn dịch
+- Các thể LS: bạch hầu hô hấp có 4 thể
+	- Thể mũi
+	- Thể họng
+	- _Thể thanh quản: Giả mạc lan tới thanh quản_
+	- Thể ác tính: sốt rất cao, giả mạc rất nhiều, hạch cổ bạnh!!, biến chứng tim
+- Biến chứng: Suy hô hấp (giả mạc), ngoại độc tố gắn vào cơ quan đích (TIM, thận, TK)
+- Điều trị
+	- Cách ly, BÁO DỊCH
+	- _KHáng độc tố SAD càng sớm càng tốt: Dùng ngay cả chưa có chẩn đoán xác định_
+	- _Kháng sinh PNC, Erythromycin hoặc Azithromycin_
+	- Theo dõi và phát hiện biến chứng
+	- Chống bội nhiễm
+	- Dinh dưỡng
+- Dự phòng chủ động (trước TX) và thụ động (sau TX)
+	- Chủ động: Tiêm ngừa vaccine
+	- KS dự phòng sau khi tiếp xúc

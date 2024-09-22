@@ -1,0 +1,102 @@
+### Lậu
+- YTNC:
+	- Nhiều bạn tình, bạn tình mới, bạn tình nhiễm STD, quan hệ đồng tính
+	- Sàng lọc:
+		- Nữ <25t: mỗi năm
+		- Nữ >25t: có YTNC: mỗi năm
+		- Đồng tính, nghiện, đuỹ: 3-6 tháng
+- LS
+	- Dịch mủ từ niệu đạo, tuyến Skene, CTC, âm đạo, hậu môn
+	- Huyết trắng vàng xanh từ CTC
+	- Nhiễm trùng tuyến Bartholin => áp xe, nhiễm trùng tái phát => rạch mủ
+	- Lậu hầu họng: oral sex
+	- “giọt sương ban mai”
+- CLS
+	- Cấy/NAAT tìm lậu từ kênh CTC (nữ), niệu đạo (nam) ^55ezxx
+	- STD khác: HIV, Chlamydia, Giang mai
+	- Lậu tái nhiễm, thất bại điều trị: cấy + KSĐ
+- Điều trị
+	- Lậu cầu niệu dục không biến chứng:
+		- Ceftriazone 500mg TB LDN or Gentamycin 240mg TB LDN 
+		- PLUS Azithromycin 2g (u) LDN
+		- OR Cefixime 800mg (u) LDN
+	- Lậu hầu họng không biến chứng
+		- Ceftriaxone 500mg TB LDN
+	- AND Doxycycline 100mg (u) x2 lần/ngày x7 ngày (chưa loại trừ Chlamydia)
+- Bạn tình
+	- Không QHTD trong vòng 7 ngày sau điều trị và hết các triệu chứng và cho đến khi bạn tình điều trị xong
+	- Cefixime 800mg (u) LDN
+	- Doxycycline 100mg (u) x2 lần/ngày x7 ngày (Chlamydia)
+### ChlamydiA
+- Tầm soát Chlamydia mỗi năm ở phụ nữ có QHTD <25t
+- LS
+	- Không triệu chứng
+	- Viêm CTC cấp: huyết trắng bất thường, ra huyết âm đạo bất thường, CTC nhầy mủ, lộ tuyến dễ chảy máu
+	- Di chứng viêm sinh dục trên đó Chlamydia: viêm vòi fallope (TNTC, tắc nghẽn, ứ dịch), HC Fitz-Huge-Curtis (dính trên gan)
+- CLS
+	- NAAT dịch kênh CTC
+- Điều trị
+	- Azithromycin 1g (U) LDN
+	- or Doxycycline 100 mg (u) x2 lần/ngày x7 ngày
+	- Or Doxycycline 200 mg (u) x1 lần/ngày x7 ngày
+- Bạn tình: không QHTD cho tới khi các bạn tình đã điều trị
+### Giang mai
+- LS
+	- **Giang mai nguyên phát**: (1w-3m)
+		- Săng
+		- hach cùng bên săng chắc di động, không đau
+	- **Giang mai kì II** (4-8w)
+		- nổi ban ở da, sẩn màu nâu hoặc đỏ ở lòng bàn tay, chân
+		- Nổi hạch, sốt, đau đầu, sụt cân, đau cơ, rụng tóc loang lỗ
+	- **Giang mai tiềm ẩn**
+		- (Không triệu chứng)
+		- Sớm: <1y
+		- Muộn: >1y
+		- Không rõ thời gian
+	- **Giang mai kì III**
+		- Tổn thương tim mạch, thần kinh
+- CLS
+	- Non-treponema:
+		- VDRL
+		- RPR
+	- Treponema
+		- FTA-ABS
+		- TP-PA
+		- MHA-TP
+	- chọc dò tuỳ sống (VDRL)
+	- Có triệu chứng: TK, mắt, GM Giang kinh, GM III hoạt động, điều trị thất bại, HIV (+)
+- Điều trị
+	- GM NP, GM TP, GM tiềm ẩn sớm đới với BN KHÔNG có thai: `benzathine penicillin G 2.4M đơn vị TB LDN`
+	- GM tiềm ẩn muộn, GM tiềm ẩn không rõ thời gian: `penicilin G 2.4M đv TB/tuần x3 tuần`
+- Điều trị bạn tình: khi GM NP, GM kì II, GM tiềm ẩn sớm
+
+
+
+### Giang mai bẩm sinh
+- YTNC: mẹ bị nhiễm GM sớm
+- LS:
+	- Sẩy thai, thai lưu
+	- Chết thai
+	- Sinh non, nhẹ cân
+	- Biểu hiện GM bẩm sinh
+- CLS
+	- Chọc ối
+- Tầm soát
+	- Mọi thai phụ
+	- (1): lần khám thai đầu tiên
+	- (2): đầu TCN III
+	- Lúc chuyển dạ
+	- (O): khi chưa tầm soát/nguy cơ cao nhiễm GM
+
+
+### HSV
+- LS
+	- Nhiều mụn nước ở vùng sinh dục, hậu môn vỡ => vết loét
+	- Nhiễm lần đầu: sốt, đau nhức toàn thân, nổi hạch (nhiễm siêu vi)
+	- Tái phát: nhẹ, khuynh hướng tự hết
+- CLS
+	- Virus huyết thanh (NAAT hoặc cấy) mụn rộp sinh dục
+- Điều trị
+	- Acyclovir 400mg (U) x3 lần/ngày x10 ngày
+	- Valacilovri 500mg (U) x2 lần/ngày x10 ngày
+	- Famciclovir 250 mg (U) x3 lần/ngày x10 ngày

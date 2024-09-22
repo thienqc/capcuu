@@ -1,0 +1,14 @@
+- Tái phát với tái nhiễm thì cần có cấy nước tiểu để xem lần nhiễm trùng trước và lần này có cùng tác nhân ko?
+- Nếu NTT trên (viêm đài bể thận cấp) thì HC niệu đạo cấp có thể xuất hiện trước hoặc đồng thời với sốt đau hông lưng hoặc không xuất hiện.
+- Những nguyên nhân gây tăng BC/nước tiểu khác mà không phải NTT, ví dụ: viêm ống thận mô kẽ
+- Tiểu gắt tiểu buốt tựa tựa nhau. Trên 1 BN nữ đột ngột xuất hiện tiểu gắt thì nghĩ nhiều nhất là viêm BQ cấp, nhưng không loại trừ chấn thương niệu dục, thậm chí là viêm âm đạo,..
+- NTT/BN nam hoặc những trường hợp NTT tái phát nhiều lần thì phải lưu ý tìm các ytnc (tắc nghẽn đường tiểu), vì KS có thể điều trị dứt điểm lần này nhưng nếu không phát hiện YTNC sẽ gây NTT tái phát. NTT tái phát ngoài ảnh hưởng chất lượng cuộc sống còn tăng khả năng kháng thuốc BN, NTT mạn tính, biến chứng mạn,..
+- Có yếu tố nào để xếp vào NTT phức tạp ko?
+- Coi thêm chỉ định cấy nước tiểu
+- Chỉ định nhập viện
+- Những KS nào dùng đc hay CCĐ đvs pnct?
+- Nguy cơ nhiễm khuẩn Gram âm đa kháng:
+	- Đang nằm viện
+	- Đã sử dụng KS trước đó
+	- Đến vùng tỉ lệ VK đa kháng cao
+- NTT có triệu chứng thì có điều trị, NTT ko triệu chứng chỉ có lợi khi điều trị đvs những đối tượng: pnct, trước khi đặt dụng cụ đường niệu, phẫu thuật, và 1 số gợi ý nhưng chưa đc đồng thuận (ĐTĐ, bất thường cấu trúc và chức năng đường niệu,..)
