@@ -1,0 +1,12 @@
+## Vấn đề vú
+- Hiện tượng sữa về: Chưa cho con bú, ngày 2 hậu sản
+- Cương tức tuyến vú: Thời gian chưa cho con bú trong thời gian tương đối dài (6h), tiết sữa trên
+- Viêm vú không nhiễm trùng / nhiễm trùng
+- Abcess vú:
+	- khối phập phù, vỡ ra luôn => dẫn lưu
+	- Ceftri?
+- Nguyên tắc xử trí:
+	- Cho bú đúng
+	- Vắt sữa thừa và sữa của 2 bên
+	- Làm trống bầu vú bằng nhiều cách
+	- Khi vú đã hết sữa mà còn đau, còn sốt -> tới viêm vú nhiễm trùng trở lên ⇒ Kháng sinh.
