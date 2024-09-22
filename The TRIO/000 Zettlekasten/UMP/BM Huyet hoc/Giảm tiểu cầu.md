@@ -1,0 +1,12 @@
+- Thống nhất định nghĩa ==giảm là khi dưới 100K==
+- Nguyên nhân 4 nhóm: bắt giữ, pha loãng, giảm SX và tăng phá húy (Giảm SX và tăng phá hủy chiếm đa số)
+- 80% trong XHGTC là do miễn dịch
+	- Trong trường hợp nặng:
+		- B1: Truyền tiểu cầu: Không cải thiện số lượng tiểu cầu, chỉ là phương cứu cánh. Dùng trong tình huống TC < 5K và có xuất huyết (xuất huyết nhiều nơi, xuất huyết rải rác, xuất huyết nguy hiểm tính mạng)
+		- B2: Sau khi ổn định
+			- Cort
+	- Cơ chế chính: **2 nguyên nhân**
+		- Kháng thể chống kháng nguyên trên bề mặt tiểu cầu => phức hợp bị bắt tại lách (cũ 20 năm rồi)
+		- KT trong máu => tấn công mẫu tiểu cầu trong tủy xương
+		- (Mới đây) có vai trò TB LYM T và TB tiền viêm (không cần quan tâm)
+- Tiêu chuẩn chẩn đoán XHGTC do MD là chẩn doán LOẠI TRỪ
