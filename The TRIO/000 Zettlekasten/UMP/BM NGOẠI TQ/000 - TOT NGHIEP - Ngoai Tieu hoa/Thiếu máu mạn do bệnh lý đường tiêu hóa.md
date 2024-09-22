@@ -1,0 +1,6 @@
+Nguyên nhân:
+- Chảy máu rỉ rả hay ồ ạt do các ổ loét, …
+- Tại vị trí chuyển hóa của hồng cầu: dạ dày (thiếu B12), lách (tăng tiêu hủy HC), …
+=> Tập trung vào mất máu không thấy đc đại thể do ống tiêu hóa
+	1.    Có thiếu máu ko?
+	2.    Có do mất máu qua đường tiêu hóa ko? -> Nội soi tiêu hóa trên dưới, tìm máu ẩn trong phân

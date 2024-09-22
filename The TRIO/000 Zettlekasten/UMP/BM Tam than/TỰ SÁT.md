@@ -1,0 +1,11 @@
+- ĐẶC điểm: 3 mức độ
+	- Ý tưởng về sự chết chóc
+	- Ý tưởng về tự sát: suy nghĩ => lên kế hoạch
+	- Hành vi tự sát
+- Chú ý tiền căn bệnh lý tâm thần hay các bệnh lý nội khoa, sang chấn tâm lý, tiền căn tự sát,.. gia đình có người tự sát
+- Xử trí:
+	- Nhập viện
+	- Chăm sóc cấp 1: Giám sát trong tầm mắt, đảm bảo an toàn trong khoa phòng, giám sát việc BN sử dụng thuốc. Đối với bệnh cơ thể không uống thuốc cũng là một hình thức tự sát.
+	- Hóa dược: tùy thuộc chẩn đoán
+	- Choáng điện: chờ thuốc tâm thần có hiệu quả
+

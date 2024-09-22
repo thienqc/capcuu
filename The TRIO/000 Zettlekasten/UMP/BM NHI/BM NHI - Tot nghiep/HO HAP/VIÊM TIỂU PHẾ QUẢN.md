@@ -1,0 +1,26 @@
+- _Thường là ==< 24 tháng==, NẾU >3Y thì không có viêm tiểu phế quản_
+- _Có thể có đáp ứng với thuốc giãn phế quản vì có cơ chế phụ là co thắt cơ trơn phế quản!!!_
+- Cơ chế gây tắc nghẽn: tắc đàm nhớt + /- co thắt cơ trơn phế quản
+- Bệnh lý nhiễm trùng có dịch tễ và nguồn lây
+- Đặc điểm diễn tiến:
+	- Ngày đầu là TC hô hấp trên
+	- 3-5 trở nặng lên
+	- ổn định sau 7-10 ngày.
+- Chẩn đoán dựa vào: dịch tễ, bệnh sử, tiền căn, khám, phân độ nặng (có mất nước không), đánh giá YTNC nặng
+- Chỉ định nhập viện:
+	- Có dấu hiệu nguy hiểm toàn thân
+	- Có dấu hiệu cần thở oxy (Thở co lõm ngực NẶNG)
+	- Theo độ tuổi, mạch nhanh + thở nhanh + xẹp phổi
+	- Có dấu hiệu nhiễm trùng nhiễm độc
+	- Có dấu mất nước
+	- *Không thể chăm sóc tại nhà* : không phải là nặng
+- Chỉ định KS trong VTPQ
+	- _VTPQ nặng: chấp nhận dùng kháng sinh bao vây dù chưa có dấu hiệu của vi khuẩn_: thà giết nhầm còn hơn bỏ sót
+	- Nhẹ - TB: có dấu hiệu bội nhiễm, đồng nhiễm, hoặc nhiễm chỗ khác (LS không cải thiện sau 4-5 ngày, sốt cao > 38.7oC, có dấu hiệu tổn thương nhu mô trên XQ, XN máu gợi ý nhiễm khuẩn, CRP tăng cao, WBC tăng ưu thế NEU
+		- _Chú ý có viêm tai giữa hay không?? => Kháng sinh_
+		- Chỉ định CLS khi mà LS không điển hình, LS nặng, diễn triến không thuận lợi, Triệu chứng gợi ý bệnh kèm theo
+- **Chỉ định thuốc DPQ**:
+	- KHó thở do VPTQ TB-nặng: Salbutamol ==1.5==mg  
+	NGHE PHỔI Có rale tắc nghẽn => PKD thử  
+	Nếu mà chỉ có rale của viêm (rale ẩm) => không PKD
+	- Nếu cần phân biệt với hen thì test với Salbutamol ==2.5==mg PKD luôn

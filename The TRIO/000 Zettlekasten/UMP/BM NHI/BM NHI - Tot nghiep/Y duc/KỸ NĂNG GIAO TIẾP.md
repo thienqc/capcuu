@@ -1,0 +1,16 @@
+- Các bước
+	- Chào hỏi
+	- Quan sát
+	- Ngôn ngữ đơn giản, dễ hiểu
+	- Đặt câu hỏi đóng mở hợp lý
+	- Lắng nghe
+	- Khen ngợi, động viên
+	- Đồng cảm, trấn an
+	- Tóm tắt thông
+- Kỹ thuật AIDET:
+	- A: thiết lập quan hệ
+	- I: Tự giới thiệu
+	- D: thông tin về thời gain
+	- E: giải thích điểm cần tư vấn
+	- T: Cảm ơn
+

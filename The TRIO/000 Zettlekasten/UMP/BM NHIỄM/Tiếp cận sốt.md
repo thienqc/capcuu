@@ -1,0 +1,27 @@
+- VĐ LS là xử trí sốt (thường là nhiễm trùng)
+- Chẩn đoán nguyên nhân gây sốt, NT thương gặp
+- Phân tích và xử trí sốt theo nguyên nhân
+- Lọc ra dấu hiệu bệnh nặng (Suy cơ quan, tử ban, RL tri giác; Dấu hiệu gợi ý NN nặng: VMN mủ, co giật, đau bụng, phát ban…; Dấu hiệu ngoại khoa cần cấp cứu)   tìm nguyên nhân gây sốt 
+	- **DTH**, tiền căn – LS – CLS
+	- Những bệnh không đầy đủ tam giác: Uốn ván không có CLS
+	- Không phải NT nào cũng có sốt: UV
+	- Sốt rét, SXH nơi lui tới, có ai bị giống BN không 
+	- Bệnh nền: Suy dinh dưỡng, béo phì, ĐTĐ, xơ gan, dùng thuốc ức chế miễn dịch, cắt lách…)
+- Một số NN:
+	- Nhiễm trùng (CK, VR, Nấm, KST)
+	- Không nhiễm: tự miễn, Ung thư, thuốc
+- Xử trí:
+	- Khoa nhận: CC, phòng khám, khoa phòng
+	- PK
+	- Khoa phòng: Hạ sốt, XN, điều trị đặc hiệu và XN bổ sung nếu cần
+- Điều trị đặc hiệu + triệu chứng, biến chứng + Xử trí khác (CS điều dưỡng, CĐ ăn, VLTL)
+	- Điều trị tại khoa khám bệnh/phòng nhận bệnh ban đầu: bênh nào? Mức độ?
+		- Cho toa về, điều trị ngoại trú
+		- Nhập viện: Khoa thường (phòng bệnh nhẹ hay nặng), khoa HSCC, có nằm cách li không? (COVID, VNMC, …)
+		- Chuyển viện ngay
+		- Sơ cứu, sau đó chuyển viện
+	- Tại khoa phòng BV: điều trị triệu chứng -> tìm NN
+		- Cho XN, chờ KQ, xử trí sau khi có XN
+		- Điều trị đặc hiệu ngay
+		- Vừa điều trị đặc hiệu vừa hồi sức
+		- CHú ý: cơ địa BN

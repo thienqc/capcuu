@@ -1,0 +1,7 @@
+- Trung bình sau 1 tháng không đóng được là tồn tại ống ĐM)
+- Điều trị
+	- **Sinh non mới dùng thuốc, đóng trước 2 tuần tuổi**
+		- Indomethacine hay Ibuprofen có hiệu quả ở trẻ sinh non
+	- Suy tim: digoxin, lợi tiểu
+	- ĐÓNg dụng cụ ưu tiên và thành công cao: PDA type **A-B-C**, d < **10mm**, **chưa đảo shunt**
+	- Phẫu thuật: PDA không đóng được bằng dụng cụ

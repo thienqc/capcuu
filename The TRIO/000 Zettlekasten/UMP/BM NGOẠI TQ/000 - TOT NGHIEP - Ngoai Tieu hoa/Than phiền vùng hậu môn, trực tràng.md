@@ -1,0 +1,7 @@
+- Trực tràng 15cm cuối và ống hậu môn
+- Cần tìm các hình ảnh để phân biệt rò hậu môn hay chỉ là tình trạng viêm nang lông, nhọt thôi?
+- Phân biệt trĩ và sa trực tràng ?
+- Mục tiêu : tiếp cận đc tình huống than phiền HM-TT -> đưa ra đc CĐSB
+	- Trĩ : ko đau trừ khi bị Trĩ nội huyết khối hoặc trĩ ngoại thắt nghẹt. và đau là đau liên tục +/- tăng lên khi đi cầu (thường là trong lúc đi cầu)
+	- Nứt HM : rất đau khi đi cầu
+- Chẩn đoán đc rồi thì tiếp cận điều trị dễ dàng

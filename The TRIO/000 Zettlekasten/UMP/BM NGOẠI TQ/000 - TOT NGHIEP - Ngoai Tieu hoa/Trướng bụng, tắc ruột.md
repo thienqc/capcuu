@@ -1,0 +1,4 @@
+- Các tình huống: tắc ruột non hoặc tắc ruột già
+- Tiếp cận 1 tình huống nôn ói: thường bỏ qua nguyên nhân từ hệ TKTW (tăng áp lực nội sọ,…). Còn các tình huống tắc nghẽn ống tiêu hóa gồm:
+	- Tắc đường thoát dạ dày: tắc thực quản, tắc dạ dày
+	- Tắc ruột: đoạn cao (ruột non), đoạn thấp (ruột già)

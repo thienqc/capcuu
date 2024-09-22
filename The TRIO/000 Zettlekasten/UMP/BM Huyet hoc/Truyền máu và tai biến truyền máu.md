@@ -1,0 +1,21 @@
+- học 3 sản phẩm: ==HCL==, ==tiểu cầu đậm đặc==, ==huyết tương tươi đông lạnh==
+	- Chỉ định đúng từng thành phần máu
+	- Chống chỉ định của từng sản phẩm => thông điệp lượng giá chọn Chế phẩm máu
+	- Công thức tính lượng bổ sung
+- Tai biến truyền máu
+	- Cấp/muộn là hợp lý nhất
+	- Cấp 24 sau truyền máu
+		- Nhẹ (==ngưng== thay bằng NaCl – theo dõi – Antihistamin – truyền lại bịch máu) - TB nặng (Cũng theo dõi + có gửi bịch máu đi + ổn thì truyền bịch máu mới) – Đe dọa tính mạng (5 tai biến)
+			- Tán huyết nội mạch cấp: Ngưng truyền máu + bảo vệ hô hấp tuần hoàn + Truyền TCDĐ hoặc Huyết thanh tươi (nếu có DIC)
+			- Phản ứng quá mẫn do truyền máu: Ngưng truyền + điều trị theo sốc phản vệ
+			- Tổn thương phổi cấp sau truyền máu: Ngưng truyền, KHÔNG điều trị đặc hiệu +/- Cort chưa có bằng chứng rõ
+			- _Quá tải tuần hoàn: Ngưng tuyền + oxy + Furosemide + NC cao thì truyền chậm 1-4ml/kg/h_
+			- Nhiễm trùng huyết: Ngưng truyền +/- điều trị sốc NT + KS tĩnh mạch
+	- Muộn hơn 24 sau truyền máu
+		- Không lây
+			- Tán huyết muộn
+			- XHGTC muộn
+			- Bệnh mô ghép chống chủ
+			- Quá tải sắt
+		- Lây:
+			- HIV, HTLV, HCV, HBV, GM, sốt rét, CMV

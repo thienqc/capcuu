@@ -1,0 +1,3 @@
+- Thoát vị bẹn: Chẩn đoán và điều trị
+- Chẩn đoán: Tinh hoàn ẩn, xoắn tinh hoàn, viêm tinh hoàn, …
+- Chỉ định của các phương pháp phẫu thuật điều trị thoát vị bẹn

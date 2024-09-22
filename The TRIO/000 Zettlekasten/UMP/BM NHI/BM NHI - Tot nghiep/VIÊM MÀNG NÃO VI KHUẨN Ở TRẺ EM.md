@@ -1,0 +1,51 @@
+- Cơ bản (không hỏi lý thuyết suôn)
+	- Cấu tạo màng não không thi
+	- Tác nhân: chỉ cần biết tác nhân theo tuổi để điều trị theo tuổi
+- Phần thi
+	- Biện luận chẩn đoán
+		- Biện luận viêm não hay màng não
+	- Điều trị
+		- Xuất hiện trong thuốc điều trị theo các tác nhân theo tuổi
+		- Phế cầu, não mô cầu, Hib, ==GBS, Listeria, E. coli==
+		- Phân biệt với tác nhân vô khuẩn
+- Nếu như cho tình huống đã tiêm ngừa hết rồi => tác nhân nào đã tiêm ngừa đưa vào chẩn đoán phân biệt, 2 tác nhân còn lại đưa lên (GBS, Listeria), phân biệt với tác nhân vô khuẩn
+- TH cho bé: X tuổi nhập viện vì  
+	- triệu chứng cơ năng: Sơ sinh (triệu chứng vay mượn, sốt, bỏ bú, tiêu chảy, lừ đừ, vàng dâ…) + lớn (HC nhiễm trùng + HC màng não: đau đầu, nôn ói-nôn vọt, sợ ánh sáng + táo bón) …  
+	- Triệu chứng thực thể: Sơ sinh thì không có gì xem thêm có thóp phồng không? Trẻ lớn cổ gượng, dấu màng não  
+
+Yếu tố nguy cơ
+## Biện luận chẩn đoán
+- Lâm sàng: ==HC nhiễm trùng + HC màng não +- HC tăng áp lực nội sọ==
+- Cận lâm sàng:
+	- Hình ảnh học: (Đặc biệt giúp loại trừ các chống chỉ định)
+		- Có thể loại trừ tăng áp lực nội sọ trước => rồi chọc DNT sau
+		- Nhanh nhất, phù hợp cơ địa: 
+			- Sơ sinh: siêu âm thóp
+			- Trẻ lớn: CT scan sọ
+			- MRI: lâu, gây mê
+	- Cấy máu, DNT (Phần TB chú ý)
+	- CTM
+		- Tìm nhiễm trùng
+	- Sinh hóa
+- Trẻ sơ sinh có triệu chứng vay mượn triệu chứng của bệnh tiêu hóa: tiêu chảy + thóp phồng + bỏ bú
+	- CLS cần bổ sung CLS của viêm ruột
+	- ??? Viêm ruột hoại tử??
+	- Chẩn đoán
+		- NTH: Cấy máu
+		- Viêm ruột: cấy phân, soi phân
+		- VMN: DNT
+		- Hạ đường huyết: ĐHMM
+## Điều trị
+- Kháng sinh: **_Ampicillin + Gentamycin + Cefotaxime (sơ sinh)_**
+	- Kháng sinh không chờ KQ vi sinh
+	- Quyết định dùng KS trước dựa vào tác nhân vi sinh theo độ tuổi
+		- Chọn kháng sinh phù hợp tác nhân phù hợp
+- Triệu chứng và biến chứng
+	- Hạ sốt
+	- Phòng ngừa, chống tăng áp lực NS
+		- hạn chế dịch
+		- NaCl
+		- Manitol
+	- Dinh dưỡng
+	- SiADH
+	- Chống có giật
