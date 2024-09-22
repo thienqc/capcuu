@@ -1,0 +1,9 @@
+- Cấu trúc đi từ ngoài vào trong
+- Hệ thống van tim: Van nhĩ thất và Van tổ chim (ĐM)
+	- Tiếng Tim – đóng van tim – Tim bên T đóng sớm hơn bên P
+- CO = HR x SV
+	- HR: Hệ TK tự chủ, Hormone, Mức độ luyện tập, Tuổi
+	- SV: kích thước tim, Mức độ tập luyện, Giới, Sự co bóp, thời gian co bóp, tiền tải và hậu tải
+- Huyết áp: = Co x SVR (sức cản ngoại biên)
+	- SVR: Lòng mạch ~ co thắt mạch, phì đại thành mạch
+	- Hormone: RRA, Stress (cường giao cảm),
