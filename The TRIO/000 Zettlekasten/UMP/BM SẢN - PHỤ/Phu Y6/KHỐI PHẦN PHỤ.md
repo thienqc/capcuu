@@ -1,0 +1,44 @@
+## U buồng trứng
+- quy luật đơn giản, quy luật cải biên, IOTA ADNEX- muốn chính xác phải có cái CA-125
+- Từ ORAD 3 trở lên là mời hội chẩn chuyên khoa và chỉ định MRI
+- Nang cơ năng - nang thực thể 
+- Khi nào mổ?
+## Abcess phần phụ
+Abcess phần phụ: khối u phần phụ không tân lập
+PHU KHOA mà SỐT => là abcess phần phụ
+- YTNC của AXPP:
+	- Đặc điểm QHTD
+	- Tuổi
+	- Tiền căn viêm vùng chậu
+	- Biện pháp tránh thai: Cu-IUD
+	- Thủ thuật sản phụ khoa
+- Phải loại trừ viêm ruột thừa: Do VRT là điều trị ngoại
+- _Tiêu chuẩn chẩn đoán_: Sốt + Đau hạ vị + khám lắc tử cung đau, chạm phần phụ đau => Làm XN thêm tiêu chuẩn phụ: Bạch cầu, CRP, VS…
+	- Tiêu chuẩn chính: Đau khi lắc CTC/Đau tử cung/Đau phần phụ
+	- Tiêu chuẩn phụ: Sốt >38.3 (To miệng); khí hư từ âm đạo hoặc CTC; nhiều BC hiện diện trên soi phết dịch âm đạo; tốc độ lắng máu; tăng CRP; CÓ bằng chứng Nhiễm lậu hoặc Chlamydia
+- Tiêu chuẩn thất bại điều trị: đánh giá sau 48h kháng sinh
+	- Sốt không giảm hoặc tăng
+	- Đau vùng chậu không giảm hoặc tăng
+	- Khối áp xe lớn hơn
+	- BC máu không giảm hoặc tăng nhiều hơn
+	- Có dấu hiệu nhiễm trùng huyết
+- Xử trí:
+	- Nhớ phác đồ - nhớ tên thôi chứ không cần nhớ liều!
+		- **Cefoxitin 2g TM x4 + Doxycylin 100mg uống/TM mỗi 12h**
+		- Có thể thay cefoxitin bằng cefotetan liều tương tự
+		- Phác đồ thay thế: Amox-Sulbactam 3g x 4 TM + Doxycycline 100mg (u/TM) mỗi 12h
+	- Theo dõi:
+		- Dấu hiệu sinh tồn, tình trạng nhiễm trùng, mức độ đau bụng
+		- Không khuyến cao khám âm đạo nhiều
+		- Công thức máu và CRP
+		- Siêu âm bụng được thực hiện mỗi 3 ngày và sẽ thưa hơn nếu tình trạng LS cải thiện
+		- Sau 24-48h theo dõi nếu triệu chứng LS không cải thiện có thể đổi kháng sinh
+	- **Thủ thuật dẫn lưu tối thiểu**:
+		- Phá vỡ ổ abcess và dẫn lưu
+		- Chỉ định phẫu thuật khẩn cấp
+			- Nghi ngờ khối áp xe vỡ
+			- Nhiễm trùng huyết kèm khối áp xe lớn
+			- Ở những PN được điều trị PT, thuốc KS cũng được bắt đầu càng sớm càng tốt, trước hoặc trong quá trình can thiệp phẫu thuật khẩn cấp
+	- Chỉ định cắt tai vòi
+		- Hiếm muộn
+		- Điều trị nội khoa thất bại
