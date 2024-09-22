@@ -1,0 +1,41 @@
+
+- 90% Ho ra máu là từ ĐM phế quản
+- Cơ chế: 2 chính 1 phụ (bài trước)
+	- RL chức năng tuần hoàn ĐMPQ
+	- Tổn thương mạch máu
+	- Thấm HC qua màng PN-MM
+- Xác định Ho ra máu
+	- Khong lẫn thức ăn
+	- bọt khí: máu từ đường hô hấp dứoi
+- Phân độ theo BM Lao – bệnh phổi: **CÓ CẦN BẢO VẸ ĐƯỜNG THỞ KHÔNG?**
+	- Ít là < 50ml/==24h==
+	- Trung bình: 50-200ml/==24h==, thường có tiền triệu không có thay đổi huyết động học => cần can thiệp xử trí để không diễn tiến thàng HRM nặng
+	{HRM thường chết do suy hô hấp, cục máu đông}
+	- Nặng: không nhẹ -TB thì rất nặng
+	- Rất nặng: là HRM sét đánh, HRM tắc nghẽn (>100ml), có RL huyết động => tử vong ngay trong vài phút đến vài giờ
+- Chẩn đoán
+	- Có tiền triệu
+	- CLS: CTM, ĐMTB, X quang ngực, CT-scan ngực
+- **NGUYÊN NHÂN**
+	- Nhớ theo BATTLE CAMP đi: không quên Lao – Dãn phế quản - UT – thuyên tắc phổi – RL đông máu
+	- Các nguyên nhân khác: Bệnh lý huyết học và sử dụng thuốc, Bệnh lý tim mạch
+	- Lao phổi
+		- AFB đàm, dịch tiêu hóa
+			- AFB đàm (+) -> trong đàm có con vi khuẩn kháng cồn acid
+		- Gene ==Xpert== không làm cho đàm có lẫn máu vì làm nghẹt kim
+			- NEVER ~~PCR LAO~~  (300k): mẫu dò ngắn -> quá nhạy
+	- Ung thư phổi
+	- Dãn PQ: kháng sinh dự phòng, cầm máu
+	- U nấm phổi Aspergillus
+		- Gioongs như cục lục lạc -> thuốc kháng nấm k có tác dunjg
+		- Điều trị: thuyên tắc ĐM phế quản *Hoặc* cắt luôn
+- **Xử trí**
+	- Bảo vệ đường thở, nằm nghỉ tại giường – đầu thấp – nằm nghiêng bên phổi bệnh
+	- Chống ngạt và cầm máu: Thuốc chích ở mức độ TB trở lên
+		- Giảm ho
+		- Cầm máu: Vit K, Adrenochrome, aicd tranexamic, …, thuốc sandostatin (Octreoitide)
+	- Điều trị nguyên nhân
+		- LAO: Công thức điều trị LAO PHổi theo phác đồ
+		- 2RHZ/4RHZE
+	- Điều trị xâm lấn: Bao gồm cầm máu qua nội soi và PT cắt phổi chọn lọc. KT cầm máu như liệu pháp AS laser, dao đốt điện
+
