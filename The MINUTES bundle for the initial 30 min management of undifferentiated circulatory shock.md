@@ -35,7 +35,7 @@ Do đó, nhóm chuyên gia đề xuất rằng dùng ==vận mạch và/hoặc t
 	- não: tri giác
 	- thận: lượng nước tiểu
 	- ==da== (★): giảm nhiệt độ/tưới máu ngoại biên, [CRT](./100%20Reference%20notes/CRT.md) kéo dài, [Shock index](./100%20Reference%20notes/Shock%20index.md) >=0.7-0.8
-- [?] Hạ HA: thường gặp nhưng không được coi là điều kiện tiên quyết để xác định sốc [^8]
+- Hạ HA: thường gặp nhưng không được coi là điều kiện tiên quyết để xác định sốc [^8]
 
 Co mạch bù trừ, đặc biệt ở những bệnh nhân trẻ, có thể duy trì huyết áp động mạch trong phạm vi bình thường mặc dù tình trạng giảm tưới máu hệ thống nghiêm trọng.
 

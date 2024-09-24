@@ -1,3 +1,6 @@
+- 2024-09-24 at 20h46 · [240924](../Daily/240924.md)
+- 2024-09-24 at 15h33 · [The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock](../The%20MINUTES%20bundle%20for%20the%20initial%2030%20min%20management%20of%20undifferentiated%20circulatory%20shock.md)
+- 2024-09-22 at 14h57 · [Đợt cấp COPD](../%C4%90%E1%BB%A3t%20c%E1%BA%A5p%20COPD.md)
 - 2024-09-02 at 20h43 · [Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín](../Ti%E1%BA%BFp%20c%E1%BA%ADn%20R%E1%BB%91i%20lo%E1%BA%A1n%20%C4%91i%E1%BB%87n%20gi%E1%BA%A3i%20(H%E1%BA%A1%20natri%20+%20T%C4%83ng%20natri%20+%20H%E1%BA%A1%20&%20t%C4%83ng%20kali)%20%E1%BB%9F%20BN%20n%E1%BA%B7ng%20-%20Bs%20T%C3%ADn.md)
 - 2024-09-02 at 20h02 · [240902](../Daily/240902.md)
 - 2024-08-23 at 13h39 · [Toa về](../100%20Reference%20notes/Toa%20v%E1%BB%81.md)
@@ -20,6 +23,3 @@
 - 2024-08-07 at 23h15 · [240807](../Daily/240807.md)
 - 2024-08-07 at 22h29 · [Các phương pháp cung cấp oxy cho BN nặng](../C%C3%A1c%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20cung%20c%E1%BA%A5p%20oxy%20cho%20BN%20n%E1%BA%B7ng.md)
 - 2024-08-04 at 20h50 · [Khí máu động mạch](../100%20Reference%20notes/Kh%C3%AD%20m%C3%A1u%20%C4%91%E1%BB%99ng%20m%E1%BA%A1ch.md)
-- 2024-08-01 at 22h47 · [GCS](../The%20TRIO/GCS.md)
-- 2024-08-01 at 22h28 · [240801](../Daily/240801.md)
-- 2024-07-31 at 23h26 · [Cài đặt máy thở](../C%C3%A0i%20%C4%91%E1%BA%B7t%20m%C3%A1y%20th%E1%BB%9F.md)
