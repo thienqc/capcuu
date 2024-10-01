@@ -128,6 +128,43 @@ NaCl 0.9% 500ml (pha thuốc)
 KCL 500mg 3A pha NaCl 0.9% 500ml, TTM LXXX g/ph
 
 ---
+## NMCT
+### STEMI
+- Dưới 12h (PCI)
+	- Aspirin 320mg PO
+	- Heparin 70 UI/kg Bolus
+	- Ticargrelor 180mg PO
+	- Lipitor 80mg PO
+- Dưới 12h (tiêu sợi huyết)
+	- Aspirin 320mg PO
+	- Heparin 70 UI/kg Bolus + truyền 12UI/kg/h x 24-48h
+	- Ticargrelor 180mg PO
+	- Lipitor 80mg PO
+- Trên 12h (PCI=Đau ngực không đáp ứng điều trị, rối loạn nhịp, rối loạn huyết động)
+	- Aspirin 320mg PO
+	- Heparin 70 UI/kg Bolus
+	- Ticargrelor 180mg PO
+	- Lipitor 80mg PO
+- Trên 12h (các TH còn lại)
+	- Aspirin 320mg PO
+	- Lovenox 1mg/kg SC (tiêm dưới da)
+	- Ticargrelor 180mg PO (tiếp theo 90mg/x 2 lần/ngày trong 12 tháng)
+	- Lipitor 80mg PO
+### NSTEMI
+- PCI
+	- Aspirin 320mg PO
+	- Heparin 70 UI/kg Bolus + truyền 12UI/kg/h x 24-48h
+	- Ticargrelor 180mg PO
+	- Lipitor 80mg PO
+- Không PCI
+	- Aspirin 320mg PO
+	- Lovenox 1mg/kg SC
+	- Ticargrelor 180mg PO (tiếp theo 90mg/x 2 lần/ngày trong 12 tháng)
+	- Lipitor 80mg PO
+
+
+
+---
 ## Chóng mặt (khoa NTK)
 [Zentanil](Zentanil.md) 500mg/5ml 2 lọ: 1A x2 TMC sáng-chiều
 [Be-Stedy](Be-Stedy.md) 24mg 1v x2 (u) sáng - chiều

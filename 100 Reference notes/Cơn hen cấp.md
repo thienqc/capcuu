@@ -38,7 +38,6 @@
 
 
 
-
 ![Cơn hen cấp (cấp cứu).jpeg](../200%20FILES/201%20Image/image/C%C6%A1n%20hen%20c%E1%BA%A5p%20(c%E1%BA%A5p%20c%E1%BB%A9u).jpeg)
 
 ![Cơn hen cấp-1710775065692.jpeg](../200%20FILES/201%20Image/image/C%C6%A1n%20hen%20c%E1%BA%A5p-1710775065692.jpeg)
