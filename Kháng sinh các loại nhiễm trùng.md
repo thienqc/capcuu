@@ -32,6 +32,10 @@ Sử dụng kháng sinh IV trong BV trong 3 tháng gần đây
   
 ![Kháng sinh các loại nhiễm trùng-20241111225321650.webp](./200%20FILES/201%20Image/Kh%C3%A1ng%20sinh%20c%C3%A1c%20lo%E1%BA%A1i%20nhi%E1%BB%85m%20tr%C3%B9ng-20241111225321650.webp)  
   
+Cipro --   Levo   -- Moxi  
+ BV   -- đa kháng -- không  
+  
+  
 ## Nhiễm trùng thần kinh trung ương  
 - Vancomycin (liều tải 25-35 mg/kg)  
 - Ceftriaxon 2g/d  
