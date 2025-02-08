@@ -1,3 +1,0 @@
-- Bóng tim ở trẻ sơ sinh to hơn. Còn tuyến ức à trung thất to hơn
-- Phân biệt đông đặc hoặc xẹp phổi
-- Hình ảnh X quang điển hình của từng loại nguyên nhân

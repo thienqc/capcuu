@@ -1,1 +1,0 @@
-[Suy thượng thận cấp - BS. Nhân](./Suy%20th%C6%B0%E1%BB%A3ng%20th%E1%BA%ADn%20c%E1%BA%A5p%20-%20BS.%20Nh%C3%A2n.md)

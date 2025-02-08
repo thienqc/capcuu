@@ -1,1 +1,0 @@
-[Predicting_septic_shock_in_patients_with_sepsis_at_emergency_department.pdf - Google Drive](https://drive.google.com/file/d/12vcKq3gg3a_dV8G92z61KYXhdKyvarhB/view)
