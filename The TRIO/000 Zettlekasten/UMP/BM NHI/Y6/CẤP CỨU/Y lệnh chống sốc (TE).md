@@ -1,0 +1,9 @@
+- Nhập cấp cứu
+- nằm đầu cao 30°
+- oxy canula 3 L/ph
+- Lactate ringer 600ml bolus 15 phút
+- Ceftriaxone 1g 3 lọ x1 TMC
+- ciprofloxacin 450mg 1 chai x2 TTM XXX giọt/ph
+- chăm sóc cấp 1
+- theo dõi mạch, huyết áp, CRT, SpO2 sau truyền dịch
+- theo dõi KMĐM, lacetate mỗi 6 giờ

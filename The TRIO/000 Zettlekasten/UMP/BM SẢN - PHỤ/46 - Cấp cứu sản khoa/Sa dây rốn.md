@@ -1,0 +1,6 @@
+- Sa trong tình huống ối còn hay ối vỡ
+- Sa dây rốn trong ngôi chỏm là cấp cứu thượng khẩn. Ngôi khác thì nguy cơ nghẹt dây rốn ít hơn – sa dây rốn trong tình trạng bọc ối thì cả 2 tTH này đều trong tình trạng đe dọa
+- Xử trí dựa trên
+	- Tình trạng sinh tồn thai
+	- Tuổi thai
+	- Điều kiện sinh ngã âm đạo

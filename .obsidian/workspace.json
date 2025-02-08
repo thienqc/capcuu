@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "c7fdd96dbbad1193",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3de80f65530d98c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f425c7cdada9f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RS - 001 Airway.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RS - 001 Airway"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "902b166bd5104923",
+    "type": "split",
+    "children": [
+      {
+        "id": "b359fb8fec33c345",
+        "type": "tabs",
+        "dimension": 79.93981945837513,
+        "children": [
+          {
+            "id": "edb7e91c91f0e010",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "402f0d2820339ed0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "779709065cbde8fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"shock\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f51738bda1dc2d14",
+        "type": "tabs",
+        "dimension": 20.060180541624874,
+        "children": [
+          {
+            "id": "e27c7d007465a11d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 MOC/MOC.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "MOC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5
+  },
+  "right": {
+    "id": "7f751dc339b87c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "9768da1ecee93d5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b3ebbd1436958b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RS - 001 Airway.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RS - 001 Airway"
+            }
+          },
+          {
+            "id": "b4065b1be4287ce8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a0d152bb0c1eb793",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "e4629eb12a8ea8ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RS - 001 Airway.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RS - 001 Airway"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c1f47da5a4632509",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f02034c68955e6d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224428,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": true,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "floating": {
+    "id": "ad011804db1b5c49",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0817f0a8579ac0aa",
+        "type": "window",
+        "children": [
+          {
+            "id": "6594ed76c69a6268",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "43c4b47580e93610",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://publish.obsidian.md/git-doc/Getting+Started",
+                    "title": "Getting Started - Git Documentation - Obsidian Publish",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Getting Started - Git Documentation - Obsidian Publish"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "43c4b47580e93610",
+  "lastOpenFiles": [
+    "RS - 001 Airway.md",
+    "200 FILES/201 Image/RS - 001 Airway-20250208181615619.webp",
+    "200 FILES/201 Image/RS - 001 Airway-20250208181606135.webp",
+    "200 FILES/201 Image/RS - 001 Airway-20250208181554253.webp",
+    "200 FILES/201 Image/RS - 001 Airway-20250208181540606.webp",
+    "200 FILES/201 Image/RS - 001 Airway-20250208181523486.webp",
+    "200 FILES/201 Image/RS - 001 Airway-20250208181511386.webp",
+    "The TRIO/Nội khí quản.md",
+    "000 MOC/CC/001 - Airway.md",
+    "The TRIO/GSC.md",
+    "100 Reference notes/Nội khí quản.md",
+    "100 Reference notes/Khó thở cấp.md",
+    "Daily/240801.md",
+    "000 MOC/CC/004 - Brain Resuscitation.md",
+    "000 MOC/MOC ĐỘT QUỴ.md",
+    "000 MOC/CC/005 - Adult Resuscitation.md",
+    "CPR.md",
+    "000 MOC/CC/007 - Procedural Sedation and Analgesia.md",
+    "000 MOC/CC/006 - Pain.md",
+    "100 Reference notes/Thuốc Giảm đau.md",
+    "100 Reference notes/Quản lí đau trong chấn thương.md",
+    "000 MOC/CC/000 Emergency Medicine Concepts and Clinical Practice.md",
+    "000 MOC/CC/003 - Shock.md",
+    "000 MOC/CC/002 - Mechanical Ventilation and Noninvasive Ventilatory Support.md",
+    "Daily/250208.md",
+    "The TRIO/000 Zettlekasten/UMP/BM NỘI/HÔ HẤP/SUY HÔ HẤP CẤP.md",
+    "100 Reference notes/tiếp cận ABCDE.md",
+    "Tắc nghẽn đường thở trung tâm - Central airway obstruction (CAO).md",
+    "200 FILES/201 Image/Quản lí tắc nghẽn đường thở trung tâm 2025 từ CHEST-20250208125840211.webp",
+    "400 Changelog/_inbox.md",
+    "Daily/240811.md",
+    "100 Reference notes/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại.md",
+    "200 FILES/201 Image/Airway-20250208113335126.webp",
+    "200 FILES/201 Image/240724-20240724222148844.webp",
+    "200 FILES/201 Image/250131-20250208113105347.webp",
+    "000 MOC/CC",
+    "200 FILES/Các PP theo dõi huyết động CK1 2021.pdf",
+    "200 FILES/202 PDF/Adult medical emergencies/Cardiac arrhythmias/Sinus bradycardia - UpToDate.pdf",
+    "200 FILES/201 Image/Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902204120200.webp.0.pdnSave",
+    "200 FILES/201 Image/Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203854084.webp.0.pdnSave",
+    "200 FILES/201 Image/Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203902978.webp.0.pdnSave",
+    "200 FILES/201 Image/Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203948645.webp.0.pdnSave",
+    "200 FILES/202 PDF/Khau vet thuong/Basic principles of wound management - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult medical emergencies/Acid peptic disease/Causes of upper gastrointestinal bleeding in adults - UpToDate.pdf",
+    "200 FILES/202 PDF/Ha duong huyet/Hypoglycemia in adults without diabetes mellitus_ Clinical manifestations, causes, and diagnosis - UpToDate.pdf",
+    "Khó thở cấp.canvas"
+  ]
+}

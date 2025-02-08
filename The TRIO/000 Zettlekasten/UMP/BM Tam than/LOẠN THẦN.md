@@ -1,0 +1,33 @@
+- 5 nhóm triệu chứng
+	- **Dương tính**: hoang tưởng; ảo giác; bóp méo và cường điệu về ngôn ngữ; hành vi kích động, căng trương lực, vô tổ chức..
+	- **Âm tính**: cảm xúc phẳng lặng, chứng mất nói, mất động lực, thờ ơ, suy giảm chú ý... (giảm sút các chức năng bình thường)
+	- **Nhận thức**: có thể chồng chéo với triệu chứng âm tính
+	- **Gây hấn và thù nghịch**: chồng chéo với các triệu chứng dương tính.
+	- **Trầm cảm – hưng cảm**
+- Chẩn đoán:
+	- Loạn thần cấp: 1/4 TC: 1d-<1m, liên tục
+	- Rối loạn dạng phân liệt: 1m-<6m: 2/5 TC
+	- Tâm thần phân liệt: >6 tháng, liên tục, 2/5
+	- Rối loạn cảm xúc phân liệt: 2/5 triệu chứng + giai đoạn khí sắc chủ yếu (phải nặng)
+	- Loạn thần do chất: cần sa, ma tuý (phải có bằng chứng sử dụng chất), không tính “ảo giác” do chất (tác dụng của chất)
+	- Rối loạn hoang tưởng: khi **chỉ có** hoang tưởng mà không có triệu chứng nguyên phát nào khác cả
+- Điều trị
+	- Nguyên nhân
+	- Chống loạn thần
+		- Thế hệ 1 (ưu thế trên triệu chứng dương tính): Haloperidol
+		- Thế hệ 2 (cả triệu chứng dương và âm tính)
+		- TDP thường là RL vận động ngoại tháp.
+			- TDP nổi bật
+			- _Risperisone RL ngoại tháp_
+			- _Olanzapine: Tăng cân, an thần_
+			- _Quetiapine: An thần + hạ Huyết ÁP tư thế_
+			- _Amisupride: Bồn chồn, bứt rứt + Giảm CN thần kinh_
+			- _Ziprasidone: QT kéo dài_
+			- _Clozapine: Viêm cơ tim, giảm ngưỡng động kinh, Giảm BC hạt_: ==khi kháng trị, không first choice==
+	- Chăm sóc cơ thể: vệ sinh, dinh dưỡng, bệnh lý nội ngoại khoa khác
+	- Chăm sóc tâm lý – tâm thần:
+		- Không phản đối: hoang tưởng
+		- Kích động:
+			- Lời nói => cách li => cố định => sử dụng thuốc
+		- Triệu chứng âm tính: tăng vận động
+		- Căng trương lực

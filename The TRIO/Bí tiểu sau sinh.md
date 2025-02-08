@@ -1,0 +1,22 @@
+- Định nghĩa
+	- Sản phụ chưa tiểu sau sinh >= 6h VÀ
+	- V nước tiểu tồn lưu bàng quang > 150ml
+- YTNC:
+	- Giảm đau sản khoa
+	- Chuyển dạ kéo dài, sanh khó, mổ sinh chủ động
+- Chẩn đoán bí tiểu:
+	- Đi tiểu phải rặn, tiểu không tự chủ, tiểu ngắt quãng, lượng nước tiểu ít (<200ml/lần).
+	- Cầu bàng quang.
+- Dự phòng
+	- Tập tiểu sớm: Sau sanh 2-3h, tập đi tiểu 1 lần
+- Điều trị: Thông tiểu giải áp/lưu thông tiểu
+	- Bí tiểu lần đầu, V nt ra < 1000mL => giải áp thôi
+	- Bí tiểu lần đầu, V nt ra > 1000mL => Sonde tiểu lưu 24-48h -> cho BQ nghỉ ngơi -> Sau đó hướng dẫn BN tập tiểu
+		- Không nằm tiểu mà ngồi đúng tư thế sinh lý
+		- Bật nước (tâm lý)
+		- Dội nước lạnh vào bụng
+- Nguyên nhân:
+	- Đa phần là cơ năng
+	- Thực thể
+		- Sưng nề TSM: Kháng viêm
+		- Tổn thương đường niệu dục

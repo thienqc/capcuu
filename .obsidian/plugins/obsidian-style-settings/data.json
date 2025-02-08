@@ -1,0 +1,14 @@
+{
+  "minimal-style@@trim-cols": true,
+  "minimal-style@@row-lines": true,
+  "minimal-style@@col-lines": false,
+  "minimal-style@@table-lines": false,
+  "minimal-style@@col-alt": false,
+  "minimal-style@@table-numbers": true,
+  "minimal-style@@table-nowrap": false,
+  "minimal-style@@image-blend-light": false,
+  "minimal-style@@image-muted": 1,
+  "minimal-style@@link-unresolved-opacity": 0.7,
+  "minimal-style@@link-unresolved-color@@light": "#777777",
+  "minimal-style@@link-unresolved-color@@dark": "#777777"
+}

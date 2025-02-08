@@ -1,0 +1,58 @@
+- Tiếp cận vàng da
+	- Viêm gan cấp hay mạn là: TG 6 tháng.
+	- Viêm gan là có tổn thương TB gan => AST và ALT (LS là 40 UI/L. _Tăng cao là tăng hơn 10 lần trở lên => là 400 UI/L_)
+	- Viêm gan cấp
+		- Thuốc
+		- Rượu/độc chất
+		- Siêu vi: trên lâm sàng thì sẽ thấy ALT sẽ nổi trội hơn AST
+		- Tự miễn
+		- Chuyển hóa
+- Phân tích các XN
+	- VG cấp là tăng men gan trên 10 lần ULN
+	- Viêm gan cấp do siêu vi: ALT > AST
+	- Bilirubin: VGSV là tăng cả 2 thành phần
+		- Bilirubin 85-340 µmol/l, TT # GT (ưu thế GT >85%, TT >50%)
+	- YT khác là đánh giá chức năng gan
+	- Dấu ấn huyết thanh
+		- HAV cấp: anti HAV IgM
+		- _HBV cấp: HBsAg, anti-HBc. ĐỢT BÙNG PHÁT HAY CẤP LÀ DỰA VÀO TIỀN CĂN => (THẦY NÓI MÉ MÉ ĐỀ)_
+		- _HCV: anti-HCV ~ Xuất hiện sau nhiễm 8-12 tuần, có thể lặp lại lần 2 (Đặc biệt ở đối tượng nguy cơ cao)  
+		Nếu BN nguy cơ cao, XN anti HCV (-) => khoan vội loại HCV đi mà cần lặp lại XN lần 2_
+		- HDV: HBsAg, anti HDV IgM, antiHBc IgM (+/-)
+		- HEV: anti-HEV IgM
+	- Siêu âm dùng để loại trừ tắc mật
+- Nguyên tắc điều trị
+	- _Đối với viêm gan siêu vi cấp là không có điều trị đặc hiệu_
+		- Người bệnh nghỉ ngơi, hạn chế thức khuya, làm việc nặng cho đến khi hết vàng da
+		- Chế độ ăn ít béo nhiều chất bột đường giúp bệnh nhân đỡ đầy bụng. Khuyến khích BN ăn nhiều vào buổi sáng
+		- Không được uống rượu bia hay dùng những chấy được cho là thuốc hoặc thảo dược điều trị gan không theo chỉ định của thầy thuốc
+		- KHông dùng thuốc ảnh hưởng hay gây độc cho gan
+		- Cort không thúc đẩy tốc độ hồi phục hoặc hỗ trợ miễn dịch trong viêm gan siêu vi
+	- _Nếu BN có biểu hiện suy gan => Phải điều trị đặc hiệu. CHỈ ĐỊNH ĐIỀU TRỊ ĐẶC HIỆU THEO PHÁC ĐỒ BYT 2019_
+		- Viêm gan siêu vi thể tối cấp
+		- Viêm gan siêu vi B cấp kèm theo ít nhất **_2 trong 3 tiêu chí sau_**: _bệnh não gan – BiliTP >5 - INR >1.5_
+		- Bệnh _kéo dài > 4 tuần với Bili có xu hướng tăng_
+- Theo dõi diễn tiến bệnh
+	- CHỉ định nhập viện
+		- Dấu hiệu LS nặng: Biến chứng suy gan cấp, bệnh lý nặng đi kèm
+		- Vàng da
+		- Men gan, Bili, TQ thay đổi nặng
+		- Bệnh gan sẵn có
+		- Nhà xa, lo lắng
+		- Hay uống rượu, uống thuốc gia truyền
+	- Theo dõi lúc nhập viện:
+		- Tri giác, tổng trạng, sinh hiệu
+		- Vàng da, xuất huyết, chiều cao gan
+		- _XN sau 3-5 ngày_
+- Phòng ngừa
+	- Phòng ngừa HAV: Phòng ngừa thụ động sau tiếp xúc => ứng dụng chưa thấy  
+	Có thể chích ngừa vaccine tạo kháng thể  
+	HAV thường gặp ở trẻ nhỏ và không có biến chứng và cái gì
+	- HBV:
+		- _Thụ động: Vacine là 0-1-6. Engerix B_
+		- CHủ động:
+		- HBIg 0.5 ml tiêm liều duy nhất cho trẻ ngay sau sinh với mẹ có nguy cơ
+		- Tiêm luôn tiêm chủng HBV ngay sau sinh (trong vòng 12h sau sinh)
+		- Tiêm cả 2 cùng thời điểm, KHÁC ỐNG CHÍCH, KHÁC VỊ TRÍ
+
+![[Buổi 11 - Hệ tiêu hóa-1687421401351.jpeg]]

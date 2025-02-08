@@ -1,0 +1,43 @@
+- Ung thư dạ dày ở châu ÂU nằm ngoài top 10 nhưng ở Châu Á thì là top 3
+- Các yếu tố nguy cơ mắc bệnh K dạ dày: là ghi nhận chứ không giúp ích chẩn đoán và điều trị. => Liên quan khả năng tái phát
+	- 10% YTNC gia đình (gene)
+	- Hút thuốc lá
+	- _Hp._
+	- Tuổi > 45
+- Các tình huống thường gặp (Tình huống lâm sàng) của K dạ dày
+	- Đau thượng vị là thường gặp nhất
+		- > 45 tuổi, đau thượng vị kéo dài âm ỉ
+		- > 45 tuổi, đau tái phát mỗi tháng  
+		=> Cần phải NS dạ dày tá tràng
+	- Giai đoạn tiến triển: triệu chứng rầm rộ như hẹp môn vị, xuất huyết tiêu hóa
+	- Giai đoạn di căn xa:
+		- Hạch di căn hạch là thường gặp nhất
+		- Di căn xa mà luôn có là PM: Di căn PM => Phải thăm khám HM-TT Mảng Blummer
+		- PM trước sau đó tới GAN, PHỔI à hạch bạch huyết (Hạch thượng đòn T)
+		- Nữ còn có di căn buồng trứng: à Bướu buồng trứng 2 bên thì phải nghĩ đến U Krukenburg
+		- PHẢI KHÁM HẠCH NÁCH TRÁI
+![[Buổi 11 - Hệ tiêu hóa-1687421565355.jpeg]]
+- Chẩn đoán:
+	- _Khám hạch bẹn không? Nhưng mà câu hỏi sẽ hỏi cái nào thường gặp nhất_
+	- Tiếp cận: Đau thượng vị + YTNC cao (Có biến chứng) => Phải làm NS dạ dày tá tràng nhưng không quên đánh giá các biến chứng như thiếu máu
+	- Cận lâm sàng
+		- Nội soi + sinh thiết => Chẩn đoán xác định
+		- Mục đích siêu âm qua ngã nội soi- để đánh giá T và N => giai đoạn SỚM  
+		Chống chỉ định của EUS là HẸP MÔN VỊ.
+		- Chẩn đoán CT-scan bụng chậu => Đánh giá giai đoạn MUỘN THÔI.  
+		Dù giai đoạn nào vẫn làm CT bụng chậu vì đánh giá được gan
+		- Đánh gá di căn:
+			- Nội soi ổ bụng chẩn đoán: di căn phúc mạc và các tạng ổ bụng
+			- Phổi: Ct-scan ngực có cản quang
+			- Gan: CT bụng
+			- PET-CT là đau xương mới làm, có triệu chứng não mới làm
+- Diễn tiến:
+	- Xâm lấn theo 3 con đường:
+		- Đường dọc
+		- Đường bạch huyết
+		- Đường mạch máu => di căn về gan là thường gặp nhất => Nên nếu mà có K dạ dày => **Tầm soát K gan**
+	- Nếu Xâm lấn 1 phần gan => mà thùy bên t là phần nhỏ nhỏ => vẫn là 4b => vẫn PT được
+- Nguyên tắc điều trị trong K dạ dày ~ Theo guideline của châu Á
+	- Nếu chưa giai đoạn tiến triển xa thì phẫu thuật đều là pp điều trị tối ưu4
+	- Có di căn xa mà không có triệu chứng => hóa trị thôi
+	- **_PT triệt để: cắt dạ dày tiêu chuẩn (Cắt toàn bộ dạ dày, bán phần xa, bán phần gần) và nạo hạch D2_**

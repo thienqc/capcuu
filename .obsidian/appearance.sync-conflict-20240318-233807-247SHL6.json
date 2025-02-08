@@ -1,0 +1,11 @@
+{
+  "accentColor": "#007db3",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "MCL Wide Views"
+  ],
+  "theme": "moonstone"
+}

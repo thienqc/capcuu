@@ -1,0 +1,51 @@
+- Phân vùng
+### Viêm tụy cấp
+- Chẩn đoán
+	- 2/3 tiêu chuẩn theo Atlanta 2013:
+		- Đau bụng kiểu tụy ^23dev6
+			- Đau thượng vị lan sau lưng, liên tục, peak sau 30 min
+			- Giảm khi cúi người / nằm nghiêng trái
+			- Đau kèm nôn, sau nôn không giảm đau
+		- Amylase/Lipase
+		- Hình ảnh học
+	- Mức độ:
+		- Nhẹ/_TB-Nặng (Có suy tạng thoáng qua hoặc Biến chứng tại chỗ)_/Nặng
+	![[Buổi 9 - Hệ tiêu hóa (Nội-nhi)-1687418935690.jpeg|444]]
+	- Yếu tố gợi ý tiên lượng nặng (cho những ngày tiếp theo):
+		- SIRS
+		- BISAP
+		- Hct
+		- Creatinin
+		- V nước tiểu
+	![[Buổi 9 - Hệ tiêu hóa (Nội-nhi)-1687418943581.jpeg|444]]
+	- Nguyên nhân: `I GET SMASHED` – (3 nguyên nhân: sỏi, tăng TG, Rượu)
+	- Biến chứng
+		- **_Biến chứng tại chỗ_**: TỤ dịch cấp quanh tụy, Hoại tử tụy, Hoại tử tạo vách
+		- Biến chứng toàn thân (Khởi phát bệnh nền trở nặng,...)
+- Điều trị
+	- NHịn ăn tạm thời – khởi đầu lại sớm sau khi ổn định
+	- _==Bù dịch và điện giải==_: là bước quan trọng để cứu sống BN
+		- Ưu tiên LR (không dùng trong tăng Ca máu)
+		- ==Lượng thường 250-500ml== – tốc độ. Lưu ý vấn đề quá tải  
+		Lượng cân nhắc theo độ nặng
+		- **_RL huyết động: LR 20ml/kg x 30p_**
+	- Giảm đau:
+		- Opioid: _Meperidine 50 mg x 3-4_ tùy vào triệu chứng đau
+	- Oxy: SpO2 <90% => >95%
+	- Kháng sinh:
+		- _Khi có biểu hiện nhiễm trùng: Hoại tử nhiễm trùng trên hình ảnh của CT-scan/ chọc hút dịch tụy cấy ra VK, PCT tăng (không dùng tăng BC với CRP vì đây chỉ thể hiện PƯ Viêm)_
+		- TẠI TUỴ: Ưu tiên: Carbapenem, Quinolone, và Metronidazole
+			- Meropenem 500mg x4
+			- Imipenem 500mg x 4
+			- FQ/Cepha3 + Metronidazole
+			- Thời gian thường từ 10-14 ngày
+	- Điều trị nguyên nhân: 3 nguyên nhân
+		- Sỏi: Chỉ định ERCP cấp cứu và chương trình.  
+		Cắt túi mật sau 7 ngày
+			- ERCP sớm trong 24h nếu có viêm đường mật
+			- ERCP cấp cứu không được chỉ định ở BN VTC tiên lượng nặng nhưng không có viêm đường mật hoặc tắc ống mật chung
+		- Rượu: Không có điều trị nguyên nhân đặc hiệu
+		- Tăng TG:
+			- GIK, lọc huyết tương
+			- BN ăn được thêm Fibrate
+			- Chú ý vấn đề giảm TG ngừa tái phát

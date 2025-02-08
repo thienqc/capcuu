@@ -1,0 +1,65 @@
+### Chẩn đoán
+- Lâm sàng: Nôn ra máu, tiêu ra máu, triệu chứng kèm gợi ý nguyên nhân
+- CLS: CTM, HCt  
+(Hct không phản ánh đồng thời và chính xác mức độ mất máu đặc biệt trong giai đoạn 24h đầu)
+- Phân độ: theo trường Hoa Kỳ ~ Nhẹ - TB – Nặng – Rất nặng (I-II-III-IV)
+	- Dựa vào Hct và Hgb là chính yếu
+	- _Nếu có bất tương xứng giữa LS và CLS nên theo LS. Vì CLS có thể bị ảnh hưởng bởi bệnh cảnh nền nên cần cân nhắc._                                                 
+	![[Buổi 9 - Hệ tiêu hóa (Nội-nhi)-1687419155743.jpeg|444]]
+	- Nguyên nhân
+		- XHTH trên:
+			- Viêm loét DD-TT
+			- Vỡ dãn TM TQ
+			- Viêm trợt dạ dày
+			- HC Malory Wess
+			- Budd Chiari
+		- XHTH dưới
+			- Trĩ
+			- Polyp đại trực tràng
+			- Túi thừa đại tràng
+			- Bệnh viêm loét ruột mạn tính
+			- Bệnh hậu môn trực tràng khác
+			- Ung thư đại trực tràng
+	- Nguy cơ: Nội soi => Forrest: Đánh giá mức độ XH
+		- Đánh giá độ dãn TM thực quản:
+			- Độ I, II, III (Kích thước và nối với nhau và DẤU CHẤM SON)
+				- Độ 1 - Nhỏ: Các búi giãn tĩnh mạch thực quản thẳng và nhỏ.
+				- Độ 2 - Trung bình: Các búi giãn tĩnh mạch có kích thước tương đối lớn, có hình dáng xâu chuỗi và chiếm diện tích khoảng trên 1/3 trong lòng thực quản. Khi bơm hơi, các búi giãn không bị xẹp.
+				- Độ 3 - Lớn: Các búi giãn tĩnh mạch có kích thước lớn, có hình dáng giống khối u và chiếm diện tích trên 1⁄3 trong lòng thực quản.
+		- 1. Đánh giá nguy cơ tái phát và Đánh giá mức độ vỡ giãn
+		- Nếu có 2 sang thương => coi biểu hiện của nguyên nhân nào?
+			- LS gợi ý nguyên nhân nào
+			- Sang thương ưu thế nghĩ chỗ nào?
+	- Biến chứng: Sốc mất máu, VPNKNP (ở BN báng bụng), Suy đa cơ quan
+### Điều trị
+- Hồi sức nội khoa
+	- Bù dịch
+	- Truyền máu trong mức độ nặng. Hb < 7g/dL thì truyền. Mục tiêu chung là Hb 7-9 g/dL. Để Hb cao 9-10 g/dL khi BN có bệnh nền cần cung cấp máu cho chuyển hóa cao.
+- Theo nguyên nhân chính yếu
+	- Do vỡ dãn TM TQ:
+		- **_NS trong vòng ==12h== ~ ngay khi ổn định huyết động_**
+			- Thực quản: Cột thắt
+			- Phình vị: Chích keo
+		- _Thuốc vững bền mạch 3-5 ngày_
+			- Telipressin 2mg Tiêm cách quãng mỗi 4h. có thể tiêm 1mg/4h sau khi ổn định XHTH
+			- Somatostatin 250mcg/h – TTM + Bolus 250mcg
+			- Ocriotide 50mcg TTM/h + Bolus 50mcg
+		- _PN ở BN xơ gan: Ceftriaxone (cepha III) và lactulose để dự phòng bệnh não gan_
+			- Kháng sinh phòng ngừa: Kháng sinh phòng ngừa trong 7 ngày
+				- Norfloxacine uống 400mg x 2
+				- Ciprofloxacine TM 400mg x 2
+				- Ceftriaxone TM 1g (nếu Child-Pugh B/C)
+	- Không do TALTM cửa
+		- **_PPI liều bolus 80mg và 8mg BTĐ 72h_** tính từ lúc can thiệp nội soi => (Esomeprazol, Pantomeprazole, Omeprazole)
+		- _Nội soi: ==12-24h==_:
+			- _Nặng, đang diễn tiến, huyết động ổn => đi soi sớm_
+			- Nhẹ thì có thể kéo
+			- Phương pháp: PP CHÍNH là bắt buộc
+				- Chính: Kẹp clip, nhiệt động, vòng thắt (ko còn)
+				- Phụ: Chích Adrenalin pha loãng, phun bột cầm máu (hemospay)
+- Dự phòng tiên phát
+	- _Nếu mà có dãn TM TQ lớn, hoặc dãn nhỏ + có dấu son: Phải kết hợp thắt + BB_
+	- Nếu dãn TM TQ nhỏ: có thể chọn ức chế beta hoặc thắt
+- Dự phòng thứ phát:
+	- _Khởi động BB dự phòng ngay sau ngưng thuốc bền mạch_
+	- 3-6 tháng sau, đánh giá nguy cơ Vỡ dãn TMTQ => quyết định dự phòng cột thắt

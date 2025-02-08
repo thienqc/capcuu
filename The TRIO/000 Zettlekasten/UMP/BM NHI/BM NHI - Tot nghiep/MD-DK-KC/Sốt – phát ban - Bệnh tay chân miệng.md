@@ -1,0 +1,48 @@
+- 2 tác nhân chính EV71, Cocksackie A16
+- Đường lây truyền: tiêu hóa (chính là phân miệng)
+- Thải qua phân trong 10 ngày đầu là nhiều nhất (đôi khi kéo dài 12 tuần) => thường cách ly 10 ngày
+- Tấn công bạch huyết là ở hầu họng => vào máu => da niêm và thần kinh trung ương
+	- Dạ: mụn nước
+	- TK: phải NV
+		- 4 vị trí tổn thương: Thân não (hệ lưới thân não, trung tâm ói, trung khu hô hấp …), neuron sừng trước tủy (**Liệt mềm không đối xứng**), tiểu não (Rung chi, rung thân, đi loạng choạng), hạ đồi (RL điều hòa nhiệt: sốt cao, tăng thân nhiệt không đáp ứng hạ sốt)
+- Bảng 10 triệu chứng bệnh tay chân miệng (HỌC THUỘC, nhận diện có biến chứng)
+	- Sốt >= 39 độ hoặc kéo dài >= 48h
+	- Nôn ói
+	- Hôn mê
+	- Kích động/cáu gắt
+	- Run cơ
+	- Yếu chi
+	- Mất điều hòa thân trụ
+	- “Mắt lang thang” – Rung giật nhãn cầu
+	- Khó thở/thở nhanh
+	- Ban da/đốm da
+![[Sốt – phát ban - Bệnh tay chân miệng-1687332902353.jpeg]]
+- Bảng phân độ tay chân miệng
+	- Chú ý phân độ từ ==NẶNG => NHẸ==
+	- Không nhảy độ, chỉ là diễn tiến nhanh không bắt kịp
+	- KEYWORD:
+		- Độ IV: Ngưng thở, Suy hô hấp, OAP, Sốc
+		- Độ III: M > 170, HA tăng theo tuổi (100-110-115 # 1-2 tuổi), vã mồ hôi, kiểu thở bất thường/thở nhanh, GCS <10đ
+		- Độ II:
+			- 2b nhóm 2: Dấu thần kinh (run tay chân, đi loạng choạng,…) – Sốt cao khó hạ, M > 150 l/p
+			- giật 2b nhóm 1: Giật mình lúc khám, mình BS (>=2 cơn trong 30p); Giật mình 1 lần + ngủ gà/M>130
+			- 2a: giật mình 1 lần, sốt > 39oC hoặc >= 48h, quấy khóc vô cớ, nôn ói nhiều
+![[Sốt – phát ban - Bệnh tay chân miệng-1687332948274.jpeg]]
+![[Sốt – phát ban - Bệnh tay chân miệng-1687332959696.jpeg]] ^ntaejv
+- Chỉ định nhập viện
+	- Theo bảng nguyên nhân
+	- Chú ý **độ I** sẽ nhập viện nếu không có điều kiện theo dõi sát sao và người nhà lo lắng nhiều!
+- Điều trị: 
+	- Chi tiết điều trị là độ I, IIA, IIB nhóm 1 thôi. Còn các phân độ còn lại chỉ cần biết nguyên tắc điều trị.
+	- Có sốt + yếu tố Sinh hiệu ~ => Hạ sốt trước rồi đánh giá lại để phân độ (nếu nằm ở ngưỡng). TH 1 điểm cắt => được dùng M theo nhiệt độ (Ko ra khó tới vậy)
+	- Keyword:
+		- Độ I: Hạ sốt bằng para hoặc ibuprofen
+		- Độ IIa: Hạ sốt bằng PARA + Ibuprofen 5-10mg/kg/lần x 3-4 lần (max 40mg/kg/ngày)
+			- Phenobarbital 5-7 mg/kg/ngày (u) nếu trẻ QUẤY KHÓC VÔ CỚ
+		- Độ IIb
+			- Phòng cấp cứu + oxy + hạ sốt + đầu cao
+			- Phenobarbital 10-20 mg/kg/lần x 2-3 lần /ngày (khi cần)
+			- Nhóm 2: IVIg liều 1g/kg TTM chậm trong 6-8h – đánh giá lại sau 24h – nếu còn 2b => liều 2
+			- Nhóm 1: IVIg liều trên khi TRIỆU CHỨNG KHÔNG GIẢM SAU 6H
+![[Sốt – phát ban - Bệnh tay chân miệng-1687333049640.jpeg]] ^oxcvhz
+- NÔN ÓI NHIỀU: tạm thời có thể dùng gt của SXH 3l/h hoặc 4l/6h. => Để dùng cho đánh giá bệnh tay chân miệng. (Tuy nhiên tình huống lâm sàng sẽ không dùng con số đó tuyệt đối/ thường thấy nôn ói mà còn tươi tỉnh thì không nhiều)

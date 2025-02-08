@@ -1,0 +1,15 @@
+## CÚM
+- CÚM thì thường tự khỏi nhưng có thể đưa đến biến chứng nặng gây tử vong đặc biệt ở cơ địa có nguy cơ cao
+- PHÂN ĐỘ cúm mùa: ở VN có Cúm A/H1N1, A/H3N2 và cúm B
+	- Cúm nhẹ - không biến chứng: HC cúm đơn thuần (sốt, ho, sổ mũi, đau đầu, đau cơ)
+	- **Cúm nặng – có biến chứng => là điều trị đặc hiệu**
+		- _Các cơ địa dễ cúm nặng_:
+			- Người **lớn tuổi > 65 tuổi**, viện dưỡng lão, bệnh nội khoa mạn tính
+			- **Trẻ em hoặc người lớn có bệnh mạn tính** về tim mạch, phổi, thận, bệnh Hb, thiếu máu, suy giảm miễn dịch (thuốc, HIV), bệnh giảm khả năng khạc đàm, suy dinh dưỡng mạn
+			- Người **từng nhập vì cúm**: cúm không có MD suốt đời, khả năng bảo vệ 4-12w, cần chích ngừa 1-2 lần/năm 
+			- **TE sử dụng Aspirin** lâu dài, nguy cơ hội chứng Reye
+			- Béo phì **BMI >=40**
+			- **Phụ nữ mang thai TCN 2,3 mùa dịch cúm**
+		- Thuốc điều trị đặc hiệu: Tamiflu
+			- Có biến chứng / có YTNC
+			- Cúm nặng, cúm gia cầm (cúm A/H5N1) cần hỗ trợ hô hấp thì dùng thuốc kháng siêu vi

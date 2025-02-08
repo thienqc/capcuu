@@ -1,0 +1,15 @@
+{
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "200 FILES/201 Image",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "hidden",
+  "mobileToolbarCommands": [
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo"
+  ]
+}

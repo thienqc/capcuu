@@ -1,0 +1,20 @@
+{
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "200 FILES/201 Image",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "hidden",
+  "mobilePullAction": "command-palette:open",
+  "mobileToolbarCommands": [
+    "switcher:open",
+    "editor:insert-wikilink",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo"
+  ],
+  "defaultViewMode": "preview",
+  "mobileQuickRibbonItem": "omnisearch:Omnisearch"
+}

@@ -1,0 +1,13 @@
+- Khiếm khuyết vách liên thất
+- Phân chia 4 nhóm
+- Mức độ so với ĐK ĐMC
+### Điều trị thông liên thất
+- Điều trị suy tim, VP, …
+- _Chỉ định phẫu thuật (TL cao)_
+	- Suy tim
+	- VP tái đi tái lại
+	- Tăng áp phổi PVR/SVR < 0.5
+	- Sa van động mạch chủ gây hở van
+	- Thất P 2 buồng
+	- Viêm nội tâm mạc nhiễm trùng
+- _Chỉ định đóng bằng dụng cụ:_ THông liên _thất cơ bè và Thông liên thất phần màng kT nhỏ_ không tự đóng được, thông liên thất tồn lưu sau phẫu thuật

@@ -1,0 +1,17 @@
+{
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "200 FILES/201 Image",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "hidden",
+  "mobileQuickRibbonItem": "omnisearch:Omnisearch",
+  "pdfExportSettings": {
+    "pageSize": "A3",
+    "landscape": true,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "relative"
+}

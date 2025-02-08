@@ -1,0 +1,13 @@
+- BN có sốc không? Nguyên nhân là gì?
+- `DO2 = Q x [(Hbx 13.4 x SaO2) + (PaO2x 0.0003)] x 10`
+- Triệu chứng
+	- Triệu chứng sớm: NHịp tim tăng, thở nhanh, mạch ngoại biên nhỏ nhẹ, CRT < 2s, Kiềm dư thấp, thiể niệu
+	- Triệu chứng muộn: GIảm tri giác, mạch trung tâm yếu, TỤT HA
+	- TỤT HA LÀ ĐỘ NHẠY THẤP – ĐỘ ĐẶC HIỆU CAO
+- Phân loại:
+	- Sốc tim 15%
+	- Sốc giảm thể tích 16%
+	- Sốc phân bố: Là tỉ lệ cao nhất vì Sốc nhiễm trùng là cao nhất (62%), không mất ra ngoài mà là dịch di chuyển qua lại các khoang trong cơ thể
+	- Sốc tắc nghẽn: Chèn ép tim, Co thắt màng ngoài tim dù bệnh lý ở tim thì nằm ở phần này
+	![[Buổi 16 - RL đa cơ quan-1687423977533.jpeg]]
+- Tình huống – nhận diện triệu chứng của sốc hoặc nhận diện được cơ chế của sốc – Đề nghị CLS cho một BN sốc

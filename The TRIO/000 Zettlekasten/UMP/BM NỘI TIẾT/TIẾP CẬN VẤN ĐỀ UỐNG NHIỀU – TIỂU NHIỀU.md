@@ -1,0 +1,27 @@
+-   Chỉ hỏi 2 bệnh là ĐTĐ và Đái tháo nhạt
+-   _Tiêu chuẩn chẩn đoán đái tháo nhạt_
+	- Lâm sàng:
+		- _Tiểu > 3L/ngày, có khi lên đến 40 lit/ngày, tiểu đêm, tiểu trong_
+		- _Cảm giác khác và uống nhiều_
+		- _Các triệu chứng của nguyên nhân gây bệnh như trong u vùng dưới đồi tuyến yên có biểu hiện tăng tiết hoặc suy các tuyến. Khi phối hợp cả thiếu ACTH và ADH thì triệu chứng đái tháo nhạt có thể bị che lấp (do glucocorticoid có tác dụng giúp thận thải nước tự do)._
+	- _Cận lâm sàng:_
+		- _Natri máu bình thường hoặc tăng_
+		- _Tỉ trọng nước tiểu thấp_
+		- _Áp lực thẩm thấu máu bình thường/cao (290-300 mOsm/kg)_
+		- _Áp lực thẩm thấu niệu thấp không tương ứng_
+		- _==Nghiệm pháp nhịn nước== không đáp ứng_
+	- _Nguyên nhân:_
+		- _Đái tháo nhạt trung ương_
+		- _Đái tháo đường_
+		- _HC cuồng uống_
+		- _Đái tháo nhạt do thận_
+-   _**Test nhịn nước**:_
+	- tiến hành cho người bệnh có đái nhiều nhược trương, nồng độ natri và độ thẩm thấu huyết tương bình thường
+	- Ngừng các thuốc ảnh hưởng ADH: Caffein, rượu, thuốc lá ít nhất 24h hay các yếu tố KT ADH như: nôn, Hạ HA cò được theo dõi
+	- Sáng hôm sau: làm nghiệm pháp. Theo dõi từng giờ một, cân nặng, độ thẩm thấu huyết tương, nồng độ Na huyết tương, độ thẩm thấu và thể tích nước tiểu
+	- Yêu cầu nhịn uống nước tới khi CN cơ thể giảm 5%, _Nồng độ Na và độ thẩm thấu huyết tương đạt tới giới hạn cao của bình thường (145-295) hoặc độ thẩm thấu niệu đo hàng giờ ổn định (biến thiên < 5% trong 3h)_
+	- _=> Đánh giá kết quả_
+		- _Nếu độ thẩm thấu nước tiểu không đạt 300 trước khi thông số đạt được_ _à loại uống nhiều tiên phát (HC cuồng uống)_
+		- _Đái tháo nhạt không hoàn toàn: độ thẩm thấu nước tiểu > độ thẩm thấu huyết tương nhưng nước tiểu vẫn còn cô đặc dưới mức tối đa_
+		- _Đái tháo nhạt hoàn toàn: độ thẩm thấu nước tiểu sẽ duy trì thấp hơn độ thẩm thấu huyết tương_
+-   **_Chẩn đoán Đái tháo nhạt trung ương: nghiệm pháp Natri ưu trương, đo nồng độ ADH_**

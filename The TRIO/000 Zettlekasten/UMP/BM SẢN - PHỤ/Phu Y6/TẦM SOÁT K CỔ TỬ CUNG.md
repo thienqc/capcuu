@@ -1,0 +1,23 @@
+- Vùng chuyển tiếp TZ
+	- Lộ tuyến là ảnh hưởng sinh lý bởi nội tiết hậu quả là di chuyển của TZ ra ngoài
+	- Nang Naboth: ở dưới là TB tuyến (hình trụ) do sự di chuyển của TB TZ đi sát ra ngoài được bao bởi TB lát ở sát ngoài. TB tuyến à tiết dịch mà không thoát ra ngoài do TB che đi => Nang
+	- Soi CTC thấy
+		- TB lát là hồng nhạt, trắng trắng vì nhiều lớp TB
+		- TB tuyến là hồng sậm
+- HPV
+	- tác động vào vùng chuyển tiếp
+	- Không gây ra K CTC mà gắn vào TB => bất hoạt gen p53 (gene điều hòa sửa chữa) => TB tăng sinh
+	- Two-hit 
+- Chấp nhận HPV đơn độc là tầm soát K CTC
+	- TB học chỉ làm khi nơi không có điều kiện là HPV test
+	- Cotesting cho KQ bình thường thì vẫn là 3 năm làm lại
+	- Không còn ngưng làm ở 65 tuổi nữa và dựa vào kỳ vọng sống trên 25 năm
+- CIN 1 => Theo dõi
+- CIN 2 => Đưa vào bảng đánh giá nguy cơ:
+	- > 60 %: Soi /can thiệp
+	- 25-59%: Soi/ theo dõi
+	- < 25%: Cân nhắc kiểm tra lại HPV
+- **Ngưng tầm soát: theo khuyến cáo cũ**:
+	- Trên 65 tuổi nếu không có tiền sử CIN 2, 3, AIS, hay UT CTC và Co-testing âm tính 2 lần liên tiếp trong 10 năm gần đây
+	- PN đã cắt TC toàn phần và không có tiền sử CIN 2, CIN 3
+	- ACOG 2012: PN cắt tử cung toàn phần và có tiền sử CIN 2 trở lên hoặc UT: tiếp tục TS UT CTC bằng XN TB học mỗi 3 năm trong 20 năm (chứng cứ B)
