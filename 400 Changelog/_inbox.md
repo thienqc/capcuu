@@ -15,3 +15,6 @@
 - [Hướng dẫn thực hành lâm sàng của Hiệp hội Y học Chăm sóc Tích cực Châu Âu về liệu pháp truyền dịch ở bệnh nhân người lớn bị bệnh nặng. Phần 1: lựa chọn dịch hồi sức](https://drive.google.com/file/d/1NnW8T6saldGUhDTK7hSNfuyaLARbewot/view)
 - [Cách phòng ngừa suy hô hấp sau khi rút nội khí quản](https://drive.google.com/file/d/11Vf6Eoel7wiQRsMh16qeXaJlfxUGvTsP/view)
 
+`250210`
+- [ESUR chất cản quang](https://www.slideshare.net/slideshow/contrastmedia-v/131204678)
+- 

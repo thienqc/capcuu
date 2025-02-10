@@ -95,6 +95,7 @@ Nếu có CCĐ thì cũng phải **cho kháng sinh trước**, sau đó �
 | Bạch cầu &lt;100     | (thường) VMN do lao, siêu vi                                            |
 | Bạch cầu 100-1000    | lao, vi trùng, nấm, siêu vi<br>càng gần 1000 thì càng do vi trùng |  
 #### Sinh hoá
+
 **Protein**
 | Loại                         | Giá trị                                                            |
 |:------------------------------|:---------------------------------------------------------------------|
@@ -221,7 +222,7 @@ Nếu k xác định tác nhân: tuỳ lâm sàng và kq DNT
 - Sơ sinh: >= 2w
 - Nhũ nhi, trẻ lớn: 10-14d
 
-#### Vai trò của Dexamethasone:
+#### Vai trò của [[Dexamethasone]]:
 - Giảm tỉ lệ điếc/Hib
 - Không có vai trò/vi khuẩn khác
 - Ở nơi có chủng ngừa Hib cao => Dexamethasone còn tranh cãi
