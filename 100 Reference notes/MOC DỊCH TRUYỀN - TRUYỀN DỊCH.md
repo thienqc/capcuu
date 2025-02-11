@@ -19,3 +19,8 @@ tags:
 [Liệu pháp truyền dịch (Sử dụng dịch truyền) ở bệnh nhân nặng - Fluid therapy - Bs Tín - 05/2024 - YouTube](https://www.youtube.com/watch?v=DO_QX-vJUHI&t=4226s)
 
 - [b] [2024 Edition Fluid Therapy Book - Dr. Pandya.pdf - Google Drive](https://drive.google.com/file/d/1T58Pg9Ri8tmkx-0UNWhqQ52yYO2rmScZ/view)
+
+ [Hướng dẫn thực hành lâm sàng của Hiệp hội Y học Chăm sóc Tích cực Châu Âu về liệu pháp truyền dịch ở bệnh nhân người lớn bị bệnh nặng. Phần 1: lựa chọn dịch hồi sức](https://drive.google.com/file/d/1NnW8T6saldGUhDTK7hSNfuyaLARbewot/view)
+  - Ưu tiên dịch tinh thể > albumin
+	  - Xơ gan: ưu tiên Albumin
+  - Ưu tiên dịch cân bằng > NaCl
