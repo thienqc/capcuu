@@ -245,8 +245,7 @@
       "command-palette:Open command palette": true,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": true,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "b8f425c7cdada9f1",
