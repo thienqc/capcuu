@@ -5,9 +5,8 @@
   "obsidian-text-format",
   "dataview",
   "obsidian-style-settings",
-  "obsidian-vault-changelog",
   "oz-clear-unused-images",
   "image-converter",
   "obsidian-linter",
-  "obsidian-git"
+  "tray"
 ]

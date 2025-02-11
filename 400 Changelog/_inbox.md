@@ -12,9 +12,4 @@
 - [Áp dụng thông khí không xâm lấn trong điều trị đợt cấp của bệnh phổi tắc nghẽn mãn tính bằng cách sử dụng thực hành lâm sàng liên ngành dựa trên bằng chứng](https://drive.google.com/file/d/11xlzcHPG7p1LYrRVrBpysF-Kv1PslKkF/view)
 - [Tăng thông khí ở bệnh nhân TBI người lớn: Cách tiếp cận](https://drive.google.com/file/d/17DSZL8VByGy44HoCHJiGA2eVxLEKckxr/view)
 - [Mối liên hệ giữa cơn đau, thuốc giảm đau, và chứng mê sảng ở người lớn bệnh nặng. Đánh giá có hệ thống và phân tích tổng hợp 2025 trên ICM](https://drive.google.com/file/d/1hrOs8utkvPddoQPaAMIqY9hkU69Rbdle/view)
-- [Hướng dẫn thực hành lâm sàng của Hiệp hội Y học Chăm sóc Tích cực Châu Âu về liệu pháp truyền dịch ở bệnh nhân người lớn bị bệnh nặng. Phần 1: lựa chọn dịch hồi sức](https://drive.google.com/file/d/1NnW8T6saldGUhDTK7hSNfuyaLARbewot/view)
 - [Cách phòng ngừa suy hô hấp sau khi rút nội khí quản](https://drive.google.com/file/d/11Vf6Eoel7wiQRsMh16qeXaJlfxUGvTsP/view)
-
-`250210`
-- [ESUR chất cản quang](https://www.slideshare.net/slideshow/contrastmedia-v/131204678)
-- 
