@@ -1,5 +1,5 @@
 # Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín
-[Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín - YouTube](https://www.youtube.com/watch?v=dBkri4B2RHw)
+[[Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín - YouTube](https://www.youtube.com/watch?v=dBkri4B2RHw|Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín - YouTube]]
 
 ![[Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902204329997.webp]]
 ![[Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902200527808.webp]]

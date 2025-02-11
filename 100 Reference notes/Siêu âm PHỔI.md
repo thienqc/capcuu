@@ -17,14 +17,14 @@ aliases:
 - Thể trạng: BN béo phì thì khó khảo sát (Độ xuyên thấu của sóng siêu âm bị giới hạn, nhất là ở những cấu trúc sâu bên trong cơ thể.)
 
 ## Vị trí đặt đầu dò
-![[Siêu âm PHỔI-1710428518270.jpeg]]
+![[../200 FILES/201 Image/image/Siêu âm PHỔI-1710428518270.webp]]
 
 ## Dấu hiệu bình thường
 ### Batwing Sign (cánh dơi)
 - Là 2 xương sườn tạo thành vết đen
 - Đảm bảo đầu dò nằm giữa 2 xương sườn
 
-![[Siêu âm PHỔI-1710428608422.jpeg]]
+![[../200 FILES/201 Image/image/Siêu âm PHỔI-1710428608422.webp]]
 
 ### Lung Sliding (phổi trượt)
 - Màng phổi thành - màng phổi tạng trượt lên nhau
@@ -37,9 +37,9 @@ aliases:
 - Ocean = Lớp cơ
 - Beach = phổi trượt
 
-![[Siêu âm PHỔI-1710428715463.jpeg]]
+![[../200 FILES/201 Image/image/Siêu âm PHỔI-1710428715463.webp]]
 
-![[Siêu âm PHỔI-1710428812761.jpeg]]
+![[../200 FILES/201 Image/image/Siêu âm PHỔI-1710428812761.webp]]
 
 ### A-line
 ![](https://pocus101.b-cdn.net/wp-content/uploads/2020/10/A-lines-with-Lung-Sliding-Labeled.gif)
@@ -50,7 +50,7 @@ aliases:
 - Vì đầu dò hướng về phía đầu BN => cơ hoành sẽ nằm ở bên trái trên hình siêu âm
 
 
-![[Siêu âm PHỔI-1710429239813.jpeg]]
+![[../200 FILES/201 Image/image/Siêu âm PHỔI-1710429239813.webp]]
 
 #### Curtain Sign (kéo rèm)
 - Ở vị trí R3/L3
@@ -102,7 +102,7 @@ aliases:
 | [[COPD]]/[[Hen]]       | – Bilateral A-lines<br>– Reduced lung sliding                                                                                                                                                                                                                                                                        |
 | [[Thuyên tắc phổi]]    | – Bilateral A-Lines<br>– Deep Vein Thrombosis in Upper or Lower Extremities<br>– Right Ventricular Enlargement (massive/submassive PE)                                                                                                                                                                               |
 ## BLUE protocol
-![[BLUE protocol.jpeg]]
+![[../200 FILES/201 Image/image/BLUE protocol.webp]]
 
 - Chẩn đoán nguyên nhân [[100 Reference notes/Khó thở cấp]]
 
@@ -116,7 +116,7 @@ aliases:
 
 
 ---
-[ARM | Free Full-Text | Lung Ultrasound in Critical Care and Emergency Medicine: Clinical Review (mdpi.com)](https://www.mdpi.com/2543-6031/91/3/17?s=09)
+[[mdpi.com)](https://www.mdpi.com/2543-6031/91/3/17?s=09|ARM | Free Full-Text | Lung Ultrasound in Critical Care and Emergency Medicine: Clinical Review (mdpi.com)]]
 
 ![[Siêu âm PHỔI-20240602180603693.webp]]
 ![[Siêu âm PHỔI-20240602180609150.webp]]

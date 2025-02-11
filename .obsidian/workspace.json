@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b3de80f65530d98c",
+        "id": "7922b8f94e1c7b7c",
         "type": "tabs",
         "children": [
           {
-            "id": "b8f425c7cdada9f1",
+            "id": "a56eb7cf00607153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Reference notes/MOC DỊCH TRUYỀN - TRUYỀN DỊCH.md",
+                "file": "100 Reference notes/BEFAST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC DỊCH TRUYỀN - TRUYỀN DỊCH"
-            }
-          },
-          {
-            "id": "aac5db8c4e7cfb64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "400 Changelog/_inbox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_inbox"
+              "title": "BEFAST"
             }
           }
         ],
@@ -79,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"shock\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5,
-    "collapsed": true
+    "width": 714.5
   },
   "right": {
     "id": "7f751dc339b87c09",
@@ -167,10 +152,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "100 Reference notes/MOC DỊCH TRUYỀN - TRUYỀN DỊCH.md"
+                "file": "100 Reference notes/BEFAST.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for MOC DỊCH TRUYỀN - TRUYỀN DỊCH"
+              "title": "File properties for BEFAST"
             }
           },
           {
@@ -201,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 Reference notes/MOC DỊCH TRUYỀN - TRUYỀN DỊCH.md",
+                "file": "100 Reference notes/BEFAST.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,20 +209,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224428,
+                  "scale": 0.713275462622443,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MOC DỊCH TRUYỀN - TRUYỀN DỊCH"
+              "title": "Graph of BEFAST"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 417.5,
-    "collapsed": true
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,44 +232,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b8f425c7cdada9f1",
+  "active": "a56eb7cf00607153",
   "lastOpenFiles": [
-    "400 Changelog/_inbox.md",
-    "100 Reference notes/Chất cản quang.md",
-    "100 Reference notes/MOC DỊCH TRUYỀN - TRUYỀN DỊCH.md",
-    "Daily/250210.md",
-    "RS - 001 Airway.md",
-    "200 FILES/201 Image/RS - 001 Airway-20250208181615619.webp",
-    "200 FILES/201 Image/RS - 001 Airway-20250208181606135.webp",
-    "200 FILES/201 Image/RS - 001 Airway-20250208181554253.webp",
-    "200 FILES/201 Image/RS - 001 Airway-20250208181540606.webp",
-    "200 FILES/201 Image/RS - 001 Airway-20250208181523486.webp",
-    "200 FILES/201 Image/RS - 001 Airway-20250208181511386.webp",
-    "The TRIO/Nội khí quản.md",
-    "000 MOC/CC/001 - Airway.md",
-    "The TRIO/GSC.md",
-    "100 Reference notes/Nội khí quản.md",
-    "100 Reference notes/Khó thở cấp.md",
-    "Daily/240801.md",
-    "000 MOC/CC/004 - Brain Resuscitation.md",
-    "000 MOC/MOC ĐỘT QUỴ.md",
-    "000 MOC/CC/005 - Adult Resuscitation.md",
-    "CPR.md",
-    "000 MOC/CC/007 - Procedural Sedation and Analgesia.md",
-    "000 MOC/CC/006 - Pain.md",
-    "100 Reference notes/Thuốc Giảm đau.md",
-    "100 Reference notes/Quản lí đau trong chấn thương.md",
-    "000 MOC/CC/000 Emergency Medicine Concepts and Clinical Practice.md",
-    "000 MOC/CC/003 - Shock.md",
-    "000 MOC/CC/002 - Mechanical Ventilation and Noninvasive Ventilatory Support.md",
-    "Daily/250208.md",
-    "The TRIO/000 Zettlekasten/UMP/BM NỘI/HÔ HẤP/SUY HÔ HẤP CẤP.md",
-    "100 Reference notes/tiếp cận ABCDE.md",
-    "Tắc nghẽn đường thở trung tâm - Central airway obstruction (CAO).md",
-    "200 FILES/201 Image/Quản lí tắc nghẽn đường thở trung tâm 2025 từ CHEST-20250208125840211.webp",
-    "200 FILES/201 Image/Airway-20250208113335126.webp",
-    "200 FILES/201 Image/240724-20240724222148844.webp",
-    "200 FILES/201 Image/250131-20250208113105347.webp",
+    "100 Reference notes/Approach to the adult with nontraumatic chest pain in the emergency department - UpToDate.md",
+    "100 Reference notes/Approach to diagnosis and evaluation of acute decompensated heart failure in adults.md",
+    "2023 ESC Guidelines for the management of acute coronary syndromes.md",
+    "The TRIO/000 Zettlekasten/UMP/BM NHI/a Đề cương NHI.md",
+    "The TRIO/200 Files/image/Pasted image 20230327213235.png",
+    "The TRIO/000 Zettlekasten/UMP/BM NHIỄM/BẠCH HẦU.md",
+    "The TRIO/000 Zettlekasten/UMP/BM YHGĐ/Tot nghiep/Các khuyến cáo tầm soát ung thư.md",
+    "The TRIO/000 Zettlekasten/Buổi 16 - RL đa cơ quan.md",
+    "The TRIO/000 Zettlekasten/Buổi 15 - Hệ thận niệu - RL đa cơ quan (Nhi-Nhiễm).md",
+    "The TRIO/000 Zettlekasten/Buổi 7 - Hệ Tim mạch (Nội).md",
+    "The TRIO/000 Zettlekasten/Buổi 10 - Hệ tiêu hóa (Ngoại).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 3 (5.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 4 (6.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 5 (7.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 6 (10.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 7 (11.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 8 (12.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 9 (13.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 10 (14.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 11 (17.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 12 (18.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 13 (19.7).md",
+    "The TRIO/000 Zettlekasten/UMP/BM NHI/Thận nhi 2023.md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/3 tuần tốt nghiệp Y17.md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 1 (3.7).md",
+    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 2 (4.7).md",
+    "The TRIO/Y ĐỨC.md",
+    "The TRIO/200 Files/image/image/Buổi 4 - CXK - Hệ sinh sản-1687393548713.jpeg",
+    "The TRIO/200 Files/image/image/BẤT THƯỜNG CẶN LẮNG NƯỚC TIỂU-1690700522826.jpeg",
+    "The TRIO/200 Files/image/image/BẤT THƯỜNG CẶN LẮNG NƯỚC TIỂU-1690700492232.jpeg",
+    "The TRIO/200 Files/image/image/BÀN TAY-1690940187458.jpeg",
+    "The TRIO/200 Files/image/image/BÀN TAY-1690939850439.jpeg",
+    "The TRIO/200 Files/image/image/Azir.jpeg",
+    "The TRIO/200 Files/image/image/AUB-1687875128570.jpeg",
+    "The TRIO/200 Files/image/image/Antidote.jpeg",
+    "200 FILES/201 Image/image/TIẾP CẬN CẤP CỨU ĐAU NGỰC-1716690569561.webp",
+    "The TRIO/200 Files/image/~$0 Note điều trị suy tim Y16.docx",
     "000 MOC/CC",
     "200 FILES/Các PP theo dõi huyết động CK1 2021.pdf",
     "200 FILES/202 PDF/Adult medical emergencies/Cardiac arrhythmias/Sinus bradycardia - UpToDate.pdf",
@@ -295,7 +280,6 @@
     "200 FILES/201 Image/Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203948645.webp.0.pdnSave",
     "200 FILES/202 PDF/Khau vet thuong/Basic principles of wound management - UpToDate.pdf",
     "200 FILES/202 PDF/Adult medical emergencies/Acid peptic disease/Causes of upper gastrointestinal bleeding in adults - UpToDate.pdf",
-    "200 FILES/202 PDF/Ha duong huyet/Hypoglycemia in adults without diabetes mellitus_ Clinical manifestations, causes, and diagnosis - UpToDate.pdf",
     "Khó thở cấp.canvas"
   ]
 }

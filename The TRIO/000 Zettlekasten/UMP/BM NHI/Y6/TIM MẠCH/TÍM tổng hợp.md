@@ -291,7 +291,7 @@ Xử trí: oxy liều cao gây đóng ống động mạch nhưng đang truyền
 
 lưu ý: PGE1 dùng ở sơ sinh. Còn 3 tháng rồi thì không dùng nữa vì ống động mạch xơ hóa rồi.
 
-![](file:///C:/Users/thien/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
+![[file:///C:/Users/thien/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png]]
 
 # ĐIỀU TRỊ SUY TIM
 

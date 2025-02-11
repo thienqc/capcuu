@@ -5,7 +5,7 @@
 Nghi ngờ sỏi thận ở những bệnh nhân bị [[đau quặn thận]] hoặc đau sườn, có hoặc không có tiểu máu.
 
 
-![[Sỏi thận ở người lớn-1713797922392.jpeg]]
+![[../200 FILES/201 Image/image/Sỏi thận ở người lớn-1713797922392.webp]]
 
 	`CT: computed tomography; BMI: body mass index.
 	* If further diagnosis is required following ultrasound, additional options include magnetic resonance urography and, for pregnant patients in the second or third but not first trimester, a low-dose, noncontrast CT under guidance of an obstetrician.
@@ -27,7 +27,7 @@ Một bảng chuyển hóa cơ bản và phân tích nước tiểu nên đượ
 
 Bệnh nhân bị cơn đau quặn thận cấp tính được kiểm soát bằng thuốc giảm đau và bù nước cho đến khi sỏi đào thải ra ngoài.
 
-![[Sỏi thận ở người lớn-1713798148897.jpeg]]
+![[../200 FILES/201 Image/image/Sỏi thận ở người lớn-1713798148897.webp]]
 	`eGFR: estimated glomerular filtration rate; NSAID: nonsteroidal antiinflammatory drug.
 	For most patients with acute renal colic, we suggest NSAIDs rather than opioids as the initial choice for pain control. We reserve opioids for patients who have contraindications to NSAIDs, have severe kidney function impairment (ie, eGFR <30 mL/min/1.73 m2), or do not achieve adequate pain relief with NSAIDs. Refer to UpToDate content on pain control for patients with nephrolithiasis.`
 
@@ -90,7 +90,7 @@ Imaging of the kidneys, ureters, and bladder should be performed to ([algorithm 
 
 For most nonpregnant patients, we prefer noncontrast, low-radiation-dose computed tomography (CT) of the abdomen and pelvis; it has high diagnostic accuracy, reliably detects hydronephrosis, and describes stone size and location for treatment planning.
 
-Pregnancy should be excluded prior to imaging; ultrasound of the kidneys and bladder is the preferred modality for pregnant patients. (See ["Kidney stones in adults: Diagnosis and acute management of suspected nephrolithiasis", section on 'Diagnostic imaging'](https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Diagnostic+imaging&topicRef=141448&anchor=H3784670783&source=kpp#H3784670783).)
+Pregnancy should be excluded prior to imaging; ultrasound of the kidneys and bladder is the preferred modality for pregnant patients. (See [[https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Diagnostic+imaging&topicRef=141448&anchor=H3784670783&source=kpp#H3784670783]].)
 
 Graphics
 
@@ -98,11 +98,11 @@ Graphics
 
 ## Further evaluation and triage
 
-A basic metabolic panel and a urinalysis should be performed. (See ["Kidney stones in adults: Diagnosis and acute management of suspected nephrolithiasis", section on 'Laboratory testing'](https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Laboratory+testing&topicRef=141448&anchor=H1428148229&source=kpp#H1428148229).)
+A basic metabolic panel and a urinalysis should be performed. (See [[https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Laboratory+testing&topicRef=141448&anchor=H1428148229&source=kpp#H1428148229]].)
 
 Patients with acute renal colic are managed with pain medication and hydration until the stone passes ([algorithm 2](https://www.uptodate.com/contents/image?imageKey=NEPH%2F83630&topicKey=KPP%2F141448&source=kpp&accordionTitle=Further%20evaluation%20and%20triage)).
 
-Hospitalization is required for those who cannot tolerate oral intake or who have uncontrollable pain or fever; other patients can be managed at home. (See ["Kidney stones in adults: Diagnosis and acute management of suspected nephrolithiasis", section on 'Triage of patients'](https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Triage+of+patients&topicRef=141448&anchor=H2706279847&source=kpp#H2706279847).)
+Hospitalization is required for those who cannot tolerate oral intake or who have uncontrollable pain or fever; other patients can be managed at home. (See [[https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Triage+of+patients&topicRef=141448&anchor=H2706279847&source=kpp#H2706279847]].)
 
 Urgent urologic consultation is warranted in patients with:
 
@@ -130,7 +130,7 @@ We reserve opioids for patients with:
 
 - Inadequate pain relief with NSAIDs
 
-(See ["Kidney stones in adults: Diagnosis and acute management of suspected nephrolithiasis", section on 'Pain control'](https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Pain+control&topicRef=141448&anchor=H3222381478&source=kpp#H3222381478).)
+(See [[https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Pain+control&topicRef=141448&anchor=H3222381478&source=kpp#H3222381478]].)
 
 Stone passage
 
@@ -144,7 +144,7 @@ Size and location of the stone determine management ([algorithm 2](https://www.u
 
 All patients should be monitored for fever and other symptoms of urinary tract infection (UTI). UTI is a medical emergency in this setting; patients should be referred to the emergency department and/or have immediate urologic consultation.
 
-(See ["Kidney stones in adults: Diagnosis and acute management of suspected nephrolithiasis", section on 'Stone passage'](https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Stone+passage&topicRef=141448&anchor=H2782975218&source=kpp#H2782975218).)
+(See [[https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Stone+passage&topicRef=141448&anchor=H2782975218&source=kpp#H2782975218]].)
 
 Graphics
 
@@ -154,11 +154,11 @@ Graphics
 
 Clinicians should confirm stone passage as resolution of pain is not necessarily consistent with stone passage.
 
-- Patients are instructed to strain their urine for several days and bring in any passed stone for analysis. (See ["Patient education: Kidney stones in adults (The Basics)"](https://www.uptodate.com/contents/kidney-stones-in-adults-the-basics?topicRef=141448&source=kpp).)
+- Patients are instructed to strain their urine for several days and bring in any passed stone for analysis. (See [[The Basics)"](https://www.uptodate.com/contents/kidney-stones-in-adults-the-basics?topicRef=141448&source=kpp|"Patient education: Kidney stones in adults (The Basics)"]].)
 
 - Patients who have not passed a stone after four weeks should have an imaging study to confirm stone passage. If the stone has not passed, patients are referred to urology for further management.
 
-(See ["Kidney stones in adults: Diagnosis and acute management of suspected nephrolithiasis", section on 'Confirming stone passage'](https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Confirming+stone+passage&topicRef=141448&anchor=H950601638&source=kpp#H950601638).)
+(See [[https://www.uptodate.com/contents/kidney-stones-in-adults-diagnosis-and-acute-management-of-suspected-nephrolithiasis?sectionName=Confirming+stone+passage&topicRef=141448&anchor=H950601638&source=kpp#H950601638]].)
 
 ## Subsequent evaluation and management
 

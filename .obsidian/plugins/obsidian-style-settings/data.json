@@ -9,6 +9,6 @@
   "minimal-style@@image-blend-light": false,
   "minimal-style@@image-muted": 1,
   "minimal-style@@link-unresolved-opacity": 0.7,
-  "minimal-style@@link-unresolved-color@@light": "#777777",
-  "minimal-style@@link-unresolved-color@@dark": "#777777"
+  "minimal-style@@link-unresolved-color@@light": "#150D8E",
+  "minimal-style@@link-unresolved-color@@dark": "#3932A1"
 }

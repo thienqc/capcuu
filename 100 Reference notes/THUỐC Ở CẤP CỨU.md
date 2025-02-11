@@ -5,7 +5,7 @@ aliases:
 # THUỐC Ở CẤP CỨU
 
 
-[Khoa Dược - Tờ HDSD thuốc (google.com)](https://sites.google.com/view/khoaduocbvthuduc/t%E1%BB%9D-hdsd-thu%E1%BB%91c?authuser=0)
+[[google.com)](https://sites.google.com/view/khoaduocbvthuduc/tờ-hdsd-thuốc?authuser=0|Khoa Dược - Tờ HDSD thuốc (google.com)]]
 
 - [[Mobic]]
 - [[Dimedrol]]

@@ -3,7 +3,7 @@
 
 
 ---
-[EFM.pdf (ump.edu.vn)](https://atcs.ump.edu.vn/upload/images/pdfs/Upload/EFM.pdf)
+[[ump.edu.vn)](https://atcs.ump.edu.vn/upload/images/pdfs/Upload/EFM.pdf|EFM.pdf (ump.edu.vn)]]
 Trình tự đọc CTG
 - (1) Xác định các tính chất của CƠN CO TỬ CUNG
 	- Tần số của cơn co

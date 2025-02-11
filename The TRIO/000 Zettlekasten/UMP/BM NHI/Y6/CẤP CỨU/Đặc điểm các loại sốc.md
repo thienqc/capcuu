@@ -14,6 +14,6 @@ cssclasses:
 
 > Trong trường hợp không thể xác định được nguyên nhân sốc thì nên ==xác dịnh đặc điểm huyết động== vì trong giai đoạn hồi sức ban đầu các biện pháp hỗ trợ huyết động không tùy thuộc vào nguyên nhân sốc.
 
-![[Đặc điểm các loại sốc-1716739357553.jpeg]]
+![[../../../../../../200 FILES/201 Image/image/Đặc điểm các loại sốc-1716739357553.webp]]
 
 [[Tiep can soc.excalidraw]]

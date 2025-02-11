@@ -16,7 +16,7 @@ $$
 
 => pH tỉ lệ thuận với $HCO_3^-$, tỉ lệ nghịch với $pCO_2$
 
-[Rối loạn cân bằng toan kiềm theo các cách tiếp cận mới (youtube.com)](https://www.youtube.com/watch?v=Xxc4ERozHE4)
+[[youtube.com)](https://www.youtube.com/watch?v=Xxc4ERozHE4|Rối loạn cân bằng toan kiềm theo các cách tiếp cận mới (youtube.com)]]
 
 
 [[Kĩ thuật lấy khí máu động mạch]]

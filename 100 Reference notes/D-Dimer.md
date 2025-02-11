@@ -1,5 +1,5 @@
 # D-Dimer
-[D Dimer - StatPearls - Giá sách NCBI (nih.gov)](https://www.ncbi.nlm.nih.gov/books/NBK431064/)
+[[nih.gov)](https://www.ncbi.nlm.nih.gov/books/NBK431064/|D Dimer - StatPearls - Giá sách NCBI (nih.gov)]]
 
 D-dimer là sản phẩm phụ của quá trình đông máu và phân hủy có thể được đo thông qua phân tích mẫu máu. D-dimer được giải phóng khi cục máu đông bắt đầu bị phá vỡ.
 

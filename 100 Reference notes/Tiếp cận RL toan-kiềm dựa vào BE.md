@@ -1,5 +1,5 @@
 # TIẾP CẬN TOAN-KIỀM DỰA VÀO BE
-Nguồn: [Acid–base equilibrium: The best clinical approach. Colombian Journal of Anesthesiology, 43(3), 219–224 | 10.1016/j.rcae.2015.05.002](https://sci-hub.st/10.1016/j.rcae.2015.05.002)
+Nguồn: [[3), 219–224 | 10.1016/j.rcae.2015.05.002](https://sci-hub.st/10.1016/j.rcae.2015.05.002|Acid–base equilibrium: The best clinical approach. Colombian Journal of Anesthesiology, 43(3), 219–224 | 10.1016/j.rcae.2015.05.002]]
 
 | Thông số | Giá trị bình thường |
 | -------- | ------------------- |
@@ -13,7 +13,7 @@ $$SBE = 0.9278 *[HCO3 - 24.4 +[14.83*(pH-7.4)]]$$
 
 [[Copenhagen approach]]
 
-![[Tiếp cận RL toan-kiềm dựa vào BE-1712158251897.jpeg]]
+![[../200 FILES/201 Image/image/Tiếp cận RL toan-kiềm dựa vào BE-1712158251897.webp]]
 
 ## 1. Patient
 knowledge and analysis of the patient’s clinical context.

@@ -1,10 +1,10 @@
 # XỬ TRÍ TĂNG HUYẾT ÁP ở bệnh nhân ĐỘT QUỴ NÃO CẤP | PGS. TS. Hồ Thượng Dũng
 
-[Xử trí THA ở bệnh nhân Đột quỵ não cấp PGS TS Hồ Thượng Dũng 2021 (youtube.com)](https://www.youtube.com/watch?v=ezDgTffcK3o)
+[[youtube.com)](https://www.youtube.com/watch?v=ezDgTffcK3o|Xử trí THA ở bệnh nhân Đột quỵ não cấp PGS TS Hồ Thượng Dũng 2021 (youtube.com)]]
 
 > [[THA trong đột quỵ]]
 
-![[XỬ TRÍ TĂNG HUYẾT ÁP ở bệnh nhân ĐỘT QUỴ NÃO CẤP - PGS. TS. Hồ Thượng Dũng-1715617893313.jpeg]]
+![[../200 FILES/201 Image/image/XỬ TRÍ TĂNG HUYẾT ÁP ở bệnh nhân ĐỘT QUỴ NÃO CẤP - PGS. TS. Hồ Thượng Dũng-1715617893313.webp]]
 
 ![[XỬ TRÍ TĂNG HUYẾT ÁP ở bệnh nhân ĐỘT QUỴ NÃO CẤP - PGS. TS. Hồ Thượng Dũng-20240528195616577.webp]]
 

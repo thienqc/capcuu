@@ -18,7 +18,7 @@ Trouble:: respiratory depression, vasodilation (hypotension), laryngospasm, Preg
 ==Fentanyl 0.5mg 1A pha NaCl 0.9% đủ 50ml, bolus 5ml, BTĐ 5 ml/h==
 
 
-[Sublimaze (fentanyl)(medscape.com)](https://reference.medscape.com/drug/sublimaze-fentanyl-343311)
+[[fentanyl)(medscape.com)](https://reference.medscape.com/drug/sublimaze-fentanyl-343311|Sublimaze (fentanyl)(medscape.com)]]
 > Analgesia: 1-2 mcg/kg IV bolus or 25-100 mcg/dose PRN or 1-2 mcg/kg/hr by continuous IV infusion or 25-200 mcg/hr  
 > 
 > Severe pain: 50-100 mcg/dose IV/IM q1-2hr PRN (patients with prior opioid exposure may tolerate higher initial doses)

@@ -35,8 +35,8 @@ CLS chỉ định kèm theo:
 
 
 
-![[TIẾP CẬN TĂNG HUYẾT ÁP Ở CẤP CỨU-1715618193076.jpeg]]
-![[TIẾP CẬN TĂNG HUYẾT ÁP Ở CẤP CỨU-1715614760863.jpeg]]
-![[XỬ TRÍ CẤP CỨU TĂNG HUYẾT ÁP - PGS. TS. Hồ Thượng Dũng-1715615509248.jpeg]]
-![[XỬ TRÍ CẤP CỨU TĂNG HUYẾT ÁP - PGS. TS. Hồ Thượng Dũng-1715615519589.jpeg]]![[XỬ TRÍ CẤP CỨU TĂNG HUYẾT ÁP - PGS. TS. Hồ Thượng Dũng-1715615578333.jpeg]]
-![[XỬ TRÍ CẤP CỨU TĂNG HUYẾT ÁP - PGS. TS. Hồ Thượng Dũng-1715615613886.jpeg]]
+![[../200 FILES/201 Image/image/TIẾP CẬN TĂNG HUYẾT ÁP Ở CẤP CỨU-1715618193076.webp]]
+![[../200 FILES/201 Image/image/TIẾP CẬN TĂNG HUYẾT ÁP Ở CẤP CỨU-1715614760863.webp]]
+![[../200 FILES/201 Image/image/XỬ TRÍ CẤP CỨU TĂNG HUYẾT ÁP - PGS. TS. Hồ Thượng Dũng-1715615509248.webp]]
+![[../200 FILES/201 Image/image/XỬ TRÍ CẤP CỨU TĂNG HUYẾT ÁP - PGS. TS. Hồ Thượng Dũng-1715615519589.webp]]![[../200 FILES/201 Image/image/XỬ TRÍ CẤP CỨU TĂNG HUYẾT ÁP - PGS. TS. Hồ Thượng Dũng-1715615578333.webp]]
+![[../200 FILES/201 Image/image/XỬ TRÍ CẤP CỨU TĂNG HUYẾT ÁP - PGS. TS. Hồ Thượng Dũng-1715615613886.webp]]

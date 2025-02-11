@@ -3,14 +3,14 @@
 https://www.youtube.com/live/Uyi02IHDPIQ?si=_tyZT1UGJrXeGIVf
 
 
-![[Thuốc Giảm đau-1712073391744.jpeg]]
-![[Thuốc Giảm đau-1712073760346.jpeg]]
-![[Thuốc Giảm đau-1712073780755.jpeg]]
-![[NSAIDS-Thuốc Giảm đau-1712073812670.jpeg]]
-![[Thuốc Giảm đau-1712073836653.jpeg]]
-![[Thuốc Giảm đau-1712073865502.jpeg]]
-![[Thuốc Giảm đau-1712073903159.jpeg]]
-![[Thuốc Giảm đau-1712073910042.jpeg]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1712073391744.webp]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1712073760346.webp]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1712073780755.webp]]
+![[../200 FILES/201 Image/image/NSAIDS-Thuốc Giảm đau-1712073812670.webp]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1712073836653.webp]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1712073865502.webp]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1712073903159.webp]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1712073910042.webp]]
 
 ## Uptodate
 [Approach to the management of acute pain in adults - UpToDate](https://www.uptodate.com/contents/approach-to-the-management-of-acute-pain-in-adults)
@@ -41,22 +41,22 @@ For further information on management of acute pain, refer to UpToDate content o
 
 Δ Due to its prolonged half-life (ie, ~24 hours) onset of full analgesic effect of meloxicam may be delayed relative to shorter-acting NSAIDs.
 
-![[Thuốc Giảm đau-1711639844703.jpeg]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1711639844703.webp]]
 
 ## Phác đồ BV Thủ Đức
 
-![[Thuốc Giảm đau-1711640942573.jpeg]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1711640942573.webp]]
 
 ## Rosens book
-![[Thuốc Giảm đau-1711642172147.jpeg]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1711642172147.webp]]
 
 
-![[Thuốc Giảm đau-1711642256836.jpeg]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1711642256836.webp]]
 
-![[Thuốc Giảm đau-1711642268655.jpeg]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1711642268655.webp]]
 
-![[Thuốc Giảm đau-1711642295250.jpeg]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1711642295250.webp]]
 
-![[Thuốc Giảm đau-1711642229382.jpeg]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1711642229382.webp]]
 
-![[Thuốc Giảm đau-1711642317718.jpeg]]
+![[../200 FILES/201 Image/image/Thuốc Giảm đau-1711642317718.webp]]

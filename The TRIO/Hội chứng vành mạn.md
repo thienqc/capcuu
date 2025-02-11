@@ -1,6 +1,6 @@
 
-[Tiếp cận điều trị hội chứng vành mạn - ThS. Vũ.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/Noi%20tong%20quat/Trai%20TIM%20MACH/100%20Ti%E1%BA%BFp%20c%E1%BA%ADn%20%C4%91i%E1%BB%81u%20tr%E1%BB%8B%20h%E1%BB%99i%20ch%E1%BB%A9ng%20v%C3%A0nh%20m%E1%BA%A1n%20-%20ThS.%20V%C5%A9.pdf)
-[Note điều trị hội chứng vành mạn.docx](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/Noi%20tong%20quat/Trai%20TIM%20MACH/100%20Note%20%C4%91i%E1%BB%81u%20tr%E1%BB%8B%20h%E1%BB%99i%20ch%E1%BB%A9ng%20v%C3%A0nh%20m%E1%BA%A1n.docx)
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/Noi tong quat/Trai TIM MACH/100 Tiếp cận điều trị hội chứng vành mạn - ThS. Vũ.pdf|Tiếp cận điều trị hội chứng vành mạn - ThS. Vũ.pdf]]
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/Noi tong quat/Trai TIM MACH/100 Note điều trị hội chứng vành mạn.docx|Note điều trị hội chứng vành mạn.docx]]
 
 ## Phân tầng nguy cơ cao biến cố tim mạch
 

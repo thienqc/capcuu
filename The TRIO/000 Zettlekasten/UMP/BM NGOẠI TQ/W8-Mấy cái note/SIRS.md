@@ -1,5 +1,5 @@
 # HC đáp ứng viêm toàn thân
-[SIRS, Sepsis, and Septic Shock Criteria (mdcalc.com)](https://www.mdcalc.com/calc/1096/sirs-sepsis-septic-shock-criteria)
+[[mdcalc.com)](https://www.mdcalc.com/calc/1096/sirs-sepsis-septic-shock-criteria|SIRS, Sepsis, and Septic Shock Criteria (mdcalc.com)]]
 
 
 2/4 tiêu chuẩn

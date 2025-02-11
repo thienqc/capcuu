@@ -1,5 +1,5 @@
 ## PDF
-[22-HPTN - Tâm thần - Y2016.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/200%20PDF_GUI%20SINH%20VIEN_thienqc/22-HPTN%20-%20T%C3%A2m%20th%E1%BA%A7n%20-%20Y2016.pdf)
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/200 PDF_GUI SINH VIEN_thienqc/22-HPTN - Tâm thần - Y2016.pdf|22-HPTN - Tâm thần - Y2016.pdf]]
 ## File sub
 [[Buổi 2 - Máu - Y đức - Hành vi Tâm thần#BM TÂM THẦN]]
 

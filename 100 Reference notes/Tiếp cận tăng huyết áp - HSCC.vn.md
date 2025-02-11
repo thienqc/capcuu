@@ -4,7 +4,7 @@ cssclasses:
 ---
 # TIẾP CẬN TĂNG HUYẾT ÁP - HSCC.vn
 
-[Tiếp cận tăng huyết áp cấp cứu (hscc.vn)](https://vip.hscc.vn/default.asp?id=bantin&idnhom=38&idtin=201)
+[[hscc.vn)](https://vip.hscc.vn/default.asp?id=bantin&idnhom=38&idtin=201|Tiếp cận tăng huyết áp cấp cứu (hscc.vn)]]
 
 [[Tiếp cận tăng huyết áp cấp cứu.pdf]]
 

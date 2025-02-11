@@ -1,7 +1,7 @@
-[Nội Y4 - Cheat sheets.pdf](file://D:\OneDrive%20-%20UMP\TOT%20NGHIEP\Noi%20tong%20quat\Nội%20Y4%20-%20Cheat%20sheets.pdf)
-[TIEP CAN HOI CHUNG VANH CAP CAP NHAT 2020 (slide).pdf](file://D:\OneDrive%20-%20UMP\TOT%20NGHIEP\Noi%20tong%20quat\Trai%20TIM%20MACH\000%20TIEP%20CAN%20HOI%20CHUNG%20VANH%20CAP%20CAP%20NHAT%202020%20(slide).pdf)
-[Tiếp cận điều trị hội chứng mạch vành cấp - TS Sỹ.pdf](file://D:\OneDrive%20-%20UMP\TOT%20NGHIEP\Noi%20tong%20quat\Trai%20TIM%20MACH\000%20Tiếp%20cận%20điều%20trị%20hội%20chứng%20mạch%20vành%20cấp%20-%20TS%20Sỹ.pdf)
-[000 Note điều trị hội chứng vành cấp Y16.docx](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/Noi%20tong%20quat/Trai%20TIM%20MACH/000%20Note%20%C4%91i%E1%BB%81u%20tr%E1%BB%8B%20h%E1%BB%99i%20ch%E1%BB%A9ng%20v%C3%A0nh%20c%E1%BA%A5p%20Y16.docx)
+[[file://D:\OneDrive - UMP\TOT NGHIEP\Noi tong quat\Nội Y4 - Cheat sheets.pdf|Nội Y4 - Cheat sheets.pdf]]
+[[slide).pdf](file://D:\OneDrive - UMP\TOT NGHIEP\Noi tong quat\Trai TIM MACH\000 TIEP CAN HOI CHUNG VANH CAP CAP NHAT 2020 (slide|TIEP CAN HOI CHUNG VANH CAP CAP NHAT 2020 (slide).pdf]].pdf)
+[[file://D:\OneDrive - UMP\TOT NGHIEP\Noi tong quat\Trai TIM MACH\000 Tiếp cận điều trị hội chứng mạch vành cấp - TS Sỹ.pdf|Tiếp cận điều trị hội chứng mạch vành cấp - TS Sỹ.pdf]]
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/Noi tong quat/Trai TIM MACH/000 Note điều trị hội chứng vành cấp Y16.docx|000 Note điều trị hội chứng vành cấp Y16.docx]]
 
 
 ## Chẩn đoán

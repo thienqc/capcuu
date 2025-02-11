@@ -6,10 +6,10 @@ aliases:
 
 ![[Vận mạch trong sốc-20240808231725172.webp]]
 
-[HDSD-vận-mạch-trong-sốc-BS-Pha-dịch.pdf](<file:///G:\My Drive\Soc\HDSD-vận-mạch-trong-sốc-BS-Pha-dịch.pdf>)
+[[<file:///G:\My Drive\Soc\HDSD-vận-mạch-trong-sốc-BS-Pha-dịch.pdf>|HDSD-vận-mạch-trong-sốc-BS-Pha-dịch.pdf]]
 
 ![[HDSD vận mạch và tăng co bóp trong sốc-20240618180723627.webp]]
-[Bài 13. Các thuốc vân mạnh trong hồi sức - BS. Nguyễn Dương Mỹ Duyên (youtube.com)](https://www.youtube.com/watch?v=G89hF0rgk1U)
+[[youtube.com)](https://www.youtube.com/watch?v=G89hF0rgk1U|Bài 13. Các thuốc vân mạnh trong hồi sức - BS. Nguyễn Dương Mỹ Duyên (youtube.com)]]
 
 ## Tổng quan về thuốc vận mạch
 - Thuốc vận mạch (vaspressor) được chỉ định ở những BN vẫn còn hạ HA mặc dù đã được bù dịch đầy đủ
@@ -53,6 +53,6 @@ Fig. 3 Algorithm for vasopressor management. In patients with ==vasodilatory sho
 
 [[Thuốc vận mạch và tăng sức bóp cơ tim (Vasopressor & Inotrope) - Bs Tín 06-2024]]
 
-- [b] [Thuốc vận mạch Noradrenalin, dopamin, dobutamine (youtube.com)](https://www.youtube.com/watch?v=6J8ZTnAnKCY)
+- [[youtube.com)](https://www.youtube.com/watch?v=6J8ZTnAnKCY|b]]
 
 

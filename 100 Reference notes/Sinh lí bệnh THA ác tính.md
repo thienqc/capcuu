@@ -1,5 +1,5 @@
 # SINH LÍ BỆNH THA ÁC TÍNH
-![[Sinh lí bệnh THA ác tính-1715875038816.jpeg]]
+![[../200 FILES/201 Image/image/Sinh lí bệnh THA ác tính-1715875038816.webp]]
 
 > Acute hypertension-mediated end organ damage in malignant hypertension. In malignant hypertension, a sudden increase in vascular re- sistance and pressure-induced natriuresis trigger a vicious circle leading to renin–angiotensin system activation and a further increase in blood pres- sure and microcirculatory damage. Autoregulation failure and microcirculatory damage are at the foundation of the target organ damage associated with malignant hypertension. RAS, renin–angiotensin system
 

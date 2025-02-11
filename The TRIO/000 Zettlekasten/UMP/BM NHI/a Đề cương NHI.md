@@ -1,20 +1,3 @@
-# Pretest
-## Sơ sinh
-- [[Pretest VÀNG DA]]
-- [[Pretest NKSS]]
-## Nhiễm - TK
-- Pretest VIÊM MÀNG NÃO
-- Pretest PHÁT TRIỂN TÂM VẬN
-
-## Cấp cứu
-- Pretest SUY HÔ HẤP
-- [[z Pretest SỐC TRẺ EM]]
-
-## Tim mạch
-- Pretest TIM BẨM SINH
-- Pretest TÍM
-
----
 # Lí thuyết
 - [[Suy tim ở trẻ em (Y6)]]
 - Bệnh Kawasaki
@@ -47,6 +30,3 @@ CẤP CỨU
 - [[Sốc ở trẻ em]]
 - [[CẤP CỨU - Tiếp cận trẻ suy hô hấp|Suy hô hấp]]
 
-[[(NHI) TÌNH HUỐNG CUỐI TRẠI]]
-
-![[Pasted image 20230327213235.png]]

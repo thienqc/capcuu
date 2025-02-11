@@ -3,10 +3,10 @@ aliases:
   - Cardiogenic Shock
 ---
 # SỐC TIM
-![[Sốc tim-1716731752550.jpeg]]
+![[../200 FILES/201 Image/image/Sốc tim-1716731752550.webp]]
 
-[Sốc tim (hscc.vn)](https://vip.hscc.vn/default.asp?id=bantin&idnhom=36&idtin=173)
+[[hscc.vn)](https://vip.hscc.vn/default.asp?id=bantin&idnhom=36&idtin=173|Sốc tim (hscc.vn)]]
 
-![[Sốc tim-1716731872707.jpeg]]
+![[../200 FILES/201 Image/image/Sốc tim-1716731872707.webp]]
 
 ![[Sốc tim-20240601211207037.webp]]

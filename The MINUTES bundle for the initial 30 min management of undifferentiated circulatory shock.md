@@ -2,7 +2,7 @@
 
 ![[The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock-20240729173624504.webp]]
 
-[The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock.pdf](<file:///G:\My Drive\Soc\The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock.pdf>)
+[[<file:///G:\My Drive\Soc\The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock.pdf>|The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock.pdf]]
 
 
 |                               | Guidelines                               | First 30-60 min                                                                                                                  |
@@ -161,4 +161,4 @@ U – Ultrasound (minutes 10–20)
 ---
 [^8]: [Heterogeneous impact of hypotension on organ perfusion and outcomes: a narrative review. British Journal of Anaesthesia | 10.1016/j.bja.2021.06.048](https://sci-hub.st/10.1016/j.bja.2021.06.048)
 
-[^15]: [Circulatory Shock. New England Journal of Medicine, 369(18), 1726–1734 | 10.1056/NEJMra1208943](https://sci-hub.st/10.1056/NEJMra1208943)
+[[18), 1726–1734 | 10.1056/NEJMra1208943](https://sci-hub.st/10.1056/NEJMra1208943|^15]]

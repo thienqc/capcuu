@@ -8,7 +8,7 @@
 
 ![[CHÓNG MẶT MOC-20240529000323971.webp]]
 
-[10-minute consultation: Vertigo - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC552814/)
+[[nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC552814/|10-minute consultation: Vertigo - PMC (nih.gov)]]
 
 
 > [!danger] BEFAST

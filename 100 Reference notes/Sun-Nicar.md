@@ -5,7 +5,7 @@ aliases:
 # Nicardipine
 `Nicardipine 10mg/50ml`
 
-![[Sun-Nicar-1715698405009.jpeg|300]]
+![[../200 FILES/201 Image/image/Sun-Nicar-1715698405009.webp|300]]
 
 [SUN-NICAR 10MG.50ML.pdf - Google Drive](https://drive.google.com/file/d/16AeoPTr8_lk12P2jCmRsLJV8CI7syt6X/view)
 
@@ -13,7 +13,7 @@ aliases:
 - [[Tăng huyết áp cấp cứu]]
 - CHỐNG CHỈ ĐỊNH: [[SUY TIM CẤP]]
 
-![[Nicardipine.jpeg]]
+![[../200 FILES/201 Image/image/Nicardipine.webp]]
 
 10mg=50ml
 v=50 ml/h -> 10mg/h

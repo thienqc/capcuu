@@ -1,6 +1,6 @@
 
-📘 [Sach nhi khoa tap 1.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/Nhi%20khoa/Sach%20nhi%20khoa%20tap%201.pdf)
-📘 [Sach nhi khoa tap 2.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/Nhi%20khoa/Sach%20nhi%20khoa%20tap%202.pdf)
+📘 [[file:///D:/OneDrive - UMP/TOT NGHIEP/Nhi khoa/Sach nhi khoa tap 1.pdf|Sach nhi khoa tap 1.pdf]]
+📘 [[file:///D:/OneDrive - UMP/TOT NGHIEP/Nhi khoa/Sach nhi khoa tap 2.pdf|Sach nhi khoa tap 2.pdf]]
 
 
 

@@ -8,10 +8,10 @@ cssclasses:
 *BS. Nguyễn Huỳnh Đức Thiện*
 
 ---
-![[Dau nguc - CERTAIN - hscc.jpeg]]
+![[../200 FILES/201 Image/image/Dau nguc - CERTAIN - hscc.webp]]
 
 ---
-![[TIẾP CẬN CẤP CỨU ĐAU NGỰC-1716690569561.jpeg]] 
+![[../200 FILES/201 Image/image/TIẾP CẬN CẤP CỨU ĐAU NGỰC-1716690569561.webp]] 
 
 ---
 ## Chẩn đoán

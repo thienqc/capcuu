@@ -20,7 +20,7 @@ Về tổng thể, một số nghiên cứu ủng hộ việc kiểm soát đư�
 🔴 `10mmol/L=180 mg/dL`
 ![[Kiểm soát đường huyết ở BN nặng-20240808210506703.webp]]
 ### Phác đồ truyền insulin tĩnh mạch
-[Glucose Control in the ICU (hscc.vn)](https://vip.hscc.vn/default.asp?id=bantin&idnhom=6&idtin=467)
+[[hscc.vn)](https://vip.hscc.vn/default.asp?id=bantin&idnhom=6&idtin=467|Glucose Control in the ICU (hscc.vn)]]
 Khởi đầu truyền insulin
 - Bắt đầu truyền insulin.
 - Insulin truyền tiêu chuẩn 100 UI insulin người Regular trong 100 mL NaCl 0.9% (hoặc 50 UI insulin người Regular trong NaCl 0.9% đủ 50mL).

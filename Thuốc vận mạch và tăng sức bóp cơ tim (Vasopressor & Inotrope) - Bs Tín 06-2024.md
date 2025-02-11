@@ -1,5 +1,5 @@
 # Thuốc vận mạch và tăng sức bóp cơ tim (Vasopressor & Inotrope) - Bs Tín 06-2024
-[Thuốc vận mạch và tăng sức bóp cơ tim (Vasopressor & Inotrope) - Bs Tín 06-2024 (youtube.com)](https://www.youtube.com/watch?v=w83-rmC9NZ4&t=13s)
+[[Vasopressor & Inotrope) - Bs Tín 06-2024 (youtube.com)](https://www.youtube.com/watch?v=w83-rmC9NZ4&t=13s|Thuốc vận mạch và tăng sức bóp cơ tim (Vasopressor & Inotrope) - Bs Tín 06-2024 (youtube.com)]]
 
 ![[Thuốc vận mạch và tăng sức bóp cơ tim (Vasopressor & Inotrope) - Bs Tín 06-2024-20240618214106912.webp]]
 ![[Thuốc vận mạch và tăng sức bóp cơ tim (Vasopressor & Inotrope) - Bs Tín 06-2024-20240618214138532.webp]]

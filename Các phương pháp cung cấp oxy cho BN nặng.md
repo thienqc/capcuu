@@ -1,5 +1,5 @@
 # Các phương pháp cung cấp oxy cho BN nặng
-[Cafe Hồi Sức #14: Các phương pháp cung cấp oxy cho bệnh nhân nặng - Bs. Đặng Thanh Tuấn (youtube.com)](https://www.youtube.com/watch?v=crugff9VLzI)
+[[youtube.com)](https://www.youtube.com/watch?v=crugff9VLzI|Cafe Hồi Sức #14: Các phương pháp cung cấp oxy cho bệnh nhân nặng - Bs. Đặng Thanh Tuấn (youtube.com)]]
 
 ## Các phương pháp thở oxy
 1- Thiết bị có thể cung cấp FiO2 (biên độ FiO2) là bao nhiêu?

@@ -24,6 +24,6 @@ Sử dụng thuốc hạ sốt làm hạ thấp điểm điều nhiệt, cơ th�
 - Đổ mồ hôi: thoát nhiệt ra ngoài
 - Giãn mạch: thoát nhiệt ra ngoài
 
-[Nghịch lý sốt - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195085/)
+[[nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195085/|Nghịch lý sốt - PMC (nih.gov)]]
 
-[2023 - Leone - Ten tips on fever.pdf](<file:///G:\My Drive\2023 - Leone - Ten tips on fever.pdf>)
+[[<file:///G:\My Drive\2023 - Leone - Ten tips on fever.pdf>|2023 - Leone - Ten tips on fever.pdf]]

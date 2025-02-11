@@ -13,7 +13,7 @@ Emergent_Indications:: CHF, angina
 
 Trouble:: hypotension, methemoglobinemia, Preg C
 
-![[Nitroglycerin.jpeg]]
+![[../../200 FILES/201 Image/image/Nitroglycerin.webp]]
 
 [A.T Nitroglycerin inj.pdf - Google Drive](https://drive.google.com/file/d/1tDsncXCIihjfNZdBrQBrKcq2N0GExTFf/view)
 

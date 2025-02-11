@@ -5,7 +5,7 @@ aliases:
 # Acute mesenteric ischaemia
 *Nhồi máu mạc treo*
 
-![[Acute mesenteric ischaemia-1712673247622.jpeg]]
+![[../200 FILES/201 Image/image/Acute mesenteric ischaemia-1712673247622.webp]]
 
 [[Managing acute mesenteric ischaemia.pdf]]
 

@@ -2,7 +2,7 @@
 ## NHI - Thận
 `5 CÂU`
 Anh bảo sẽ mé mé với cái đề để sau bữa học tốt nghiệp không đụng tới thận nhi. Tất cả các phân môn là THLS. KHó là phần Nhi cơ sở
-[[Thận nhi 2023]]
+[[UMP/BM NHI/Thận nhi 2023]]
 ### [[HỘI CHỨNG THẬN HƯ (TE)]]
 ### [[NHIỄM TRÙNG TIỂU]]
 ### [[VIÊM CẦU THẬN CẤP]]  

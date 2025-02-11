@@ -133,7 +133,7 @@ Khi có >= 1 yếu tố sau đây
 	- Fenofibrate 160 mg/ngày
 - Heparin: ?
 
-![[Viêm tuỵ cấp tăng TG.jpeg]]
+![[../200 FILES/201 Image/image/Viêm tuỵ cấp tăng TG.webp]]
 
 ### Ngoại khoa
 - Chỉ định hội chẩn ngoại khoa trong các trường hợp sau:

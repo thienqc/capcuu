@@ -1,8 +1,8 @@
-📁 [Ly thuyet San Phu khoa](file:///"D:\OneDrive%20-%20UMP\TOT%20NGHIEP\San%20Phu%20khoa\Ly%20thuyet")
-📄 [San Y3.pdf](file:///"D:\OneDrive%20-%20UMP\TOT%20NGHIEP\San%20Phu%20khoa\Ly%20thuyet\San%20Y3.pdf")
-📄 [San-Y4.pdf](file:///D:\OneDrive%20-%20UMP\Y4\Obstetrics\Li%20thuyet\San-Y4.pdf)
-📄 [phu-y6-li-thuyet.pdf](file:///"D:\OneDrive%20-%20UMP\Y6\PHU\phu-y6-li-thuyet.pdf")
-📁 [Rất là nhiều ĐỀ](file:///"D:\OneDrive%20-%20UMP\NOI%20TRU\Rat%20la%20nhieu%20DE")
+📁 [[file:///"D:\OneDrive - UMP\TOT NGHIEP\San Phu khoa\Ly thuyet"|Ly thuyet San Phu khoa]]
+📄 [[file:///"D:\OneDrive - UMP\TOT NGHIEP\San Phu khoa\Ly thuyet\San Y3.pdf"|San Y3.pdf]]
+📄 [[file:///D:\OneDrive - UMP\Y4\Obstetrics\Li thuyet\San-Y4.pdf|San-Y4.pdf]]
+📄 [[file:///"D:\OneDrive - UMP\Y6\PHU\phu-y6-li-thuyet.pdf"|phu-y6-li-thuyet.pdf]]
+📁 [[file:///"D:\OneDrive - UMP\NOI TRU\Rat la nhieu DE"|Rất là nhiều ĐỀ]]
 Y3
 [[VÔ KINH – RỐI LOẠN PHÓNG NOÃN]]
 Y4

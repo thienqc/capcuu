@@ -1,10 +1,11 @@
 [
   "omnisearch",
-  "text-extractor",
-  "quickadd",
-  "obsidian-text-format",
+  "obsidian-vault-changelog",
   "dataview",
-  "obsidian-style-settings",
-  "oz-clear-unused-images",
   "image-converter",
+  "obsidian-linter",
+  "obsidian-text-format",
+  "various-complements",
+  "find-unlinked-files",
+  "obsidian-style-settings"
 ]

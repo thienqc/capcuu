@@ -26,15 +26,15 @@ Nó bao gồm các công cụ hỗ trợ quyết định điện toán (số hó
 1.  Our Story. What is CERTAIN ?
 
 
-![[Thay doi tinh trang y thuc - CERTAIN - hscc.jpeg]]
-![[Kho tho - CERTAIN - hscc.jpeg]]
-![[Huyet ap thap - CERTAIN - hscc.jpeg]]
-![[Roi loan nhip tim - CERTAIN - hscc.jpeg]]
-![[Dau nguc - CERTAIN - hscc.jpeg]]
+![[../200 FILES/201 Image/image/Thay doi tinh trang y thuc - CERTAIN - hscc.webp]]
+![[../200 FILES/201 Image/image/Kho tho - CERTAIN - hscc.webp]]
+![[../200 FILES/201 Image/image/Huyet ap thap - CERTAIN - hscc.webp]]
+![[../200 FILES/201 Image/image/Roi loan nhip tim - CERTAIN - hscc.webp]]
+![[../200 FILES/201 Image/image/Dau nguc - CERTAIN - hscc.webp]]
 
-![[Dau bung - CERTAIN - hscc.jpeg]]
-![[Chan thuong - CERTAIN - hscc.jpeg]]
-![[Ngo doc qua lieu thuoc - CERTAIN - hscc.jpeg]]
+![[../200 FILES/201 Image/image/Dau bung - CERTAIN - hscc.webp]]
+![[../200 FILES/201 Image/image/Chan thuong - CERTAIN - hscc.webp]]
+![[../200 FILES/201 Image/image/Ngo doc qua lieu thuoc - CERTAIN - hscc.webp]]
 [[Hội chứng khoang bụng - CERTAIN - hscc]]
 [[Toan chuyển hoá - hscc]]
 

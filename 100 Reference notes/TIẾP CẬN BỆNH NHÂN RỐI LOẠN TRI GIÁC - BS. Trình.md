@@ -56,4 +56,4 @@ Nhận thức = chất (định hướng không gian,...)
 [[Cocktail Coma]]
 
 
-[Evaluation and treatment of altered mental status patients in the emergency department: Life in the fast lane. World Journal of Emergency Medicine, 3(4), 270 | 10.5847/wjem.j.issn.1920-8642.2012.04.006](https://sci-hub.st/10.5847/wjem.j.issn.1920-8642.2012.04.006)
+[[4), 270 | 10.5847/wjem.j.issn.1920-8642.2012.04.006](https://sci-hub.st/10.5847/wjem.j.issn.1920-8642.2012.04.006|Evaluation and treatment of altered mental status patients in the emergency department: Life in the fast lane. World Journal of Emergency Medicine, 3(4), 270 | 10.5847/wjem.j.issn.1920-8642.2012.04.006]]

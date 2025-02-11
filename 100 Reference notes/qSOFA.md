@@ -1,7 +1,7 @@
 # qSOFA
 quick
 Identifies high-risk patients for in-hospital mortality with suspected infection outside the ICU.
-[qSOFA (Quick SOFA) Score for Sepsis (mdcalc.com)](https://www.mdcalc.com/calc/2654/qsofa-quick-sofa-score-sepsis)
+[[Quick SOFA) Score for Sepsis (mdcalc.com)](https://www.mdcalc.com/calc/2654/qsofa-quick-sofa-score-sepsis|qSOFA (Quick SOFA) Score for Sepsis (mdcalc.com)]]
 
 
 2/3 tiêu chuẩn

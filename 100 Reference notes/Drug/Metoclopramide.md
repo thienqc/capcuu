@@ -17,7 +17,7 @@ Trouble:: tardive dyskinesia, extrapyramidal symptoms, dystonia, methemoglobinem
 
 [Elitan.pdf - Google Drive](https://drive.google.com/file/d/1gzsXxfsrjztLOVyT8wBtngW911SEl7kA/view)
 [Metoclopramide: Uses, Dosage, Side Effects - Drugs.com](https://www.drugs.com/metoclopramide.html)
-[Reglan, Metozolv ODT (metoclopramide) dosing, indications, interactions, adverse effects, and more (medscape.com)](https://reference.medscape.com/drug/reglan-metozolv-odt-metoclopramide-342051)
+[[metoclopramide) dosing, indications, interactions, adverse effects, and more (medscape.com)](https://reference.medscape.com/drug/reglan-metozolv-odt-metoclopramide-342051|Reglan, Metozolv ODT (metoclopramide) dosing, indications, interactions, adverse effects, and more (medscape.com)]]
 
 **Metoclopramid hydroclorid 10mg/2ml**
 > Elitan 2A pha NaCl 0.9% TMC
@@ -25,4 +25,4 @@ Trouble:: tardive dyskinesia, extrapyramidal symptoms, dystonia, methemoglobinem
 Chống chỉ định
 - [[Xuất huyết tiêu hoá]], [[tắc ruột cơ học]], [[THỦNG DẠ DÀY]]
 
-![[Elitan-chong-chi-dinh.jpeg]]
+![[../../200 FILES/201 Image/image/Elitan-chong-chi-dinh.webp]]

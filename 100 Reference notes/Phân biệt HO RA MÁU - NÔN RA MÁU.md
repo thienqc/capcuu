@@ -9,5 +9,5 @@
 | Nội soi phế quản                                         | Nội soi thực quản - dạ dày - tá tràng                               | cần thăm khám MŨI HỌNG                                           |                                                                                                                                                      |
 | Chảy máu từ HH dưới (dưới nắp thanh môn)                 |                                                                     |                                                                  | (1) ói ra máu sau đó hít vào phổi<br>(2) chảy máu từ HH trên/miệng -> kích thích px ho<br>(3) đàm khạc ra có màu đỏ giống máu (nhưng không phải máu) |
 
-![[Phân biệt HO RA MÁU - NÔN RA MÁU-1712678649492.jpeg]]
+![[../200 FILES/201 Image/image/Phân biệt HO RA MÁU - NÔN RA MÁU-1712678649492.webp]]
 

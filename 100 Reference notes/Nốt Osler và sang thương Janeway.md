@@ -9,7 +9,7 @@ Bệnh nhân [[viêm nội tâm mạc nhiễm trùng]] (VNTMNT) do sùi Osler tr
 
 ## 1. Nốt OSLER
 
-![[Nốt Osler-1713795011554.jpeg]]
+![[../200 FILES/201 Image/image/Nốt Osler-1713795011554.webp]]
 
 - Là các nốt có đường kính 1mm - 2cm, thường gồ lên mặt da, có màu đỏ sẫm hoặc tím và ấn vào bệnh nhân sẽ đau nên người ta tóm tắt nó trong 3 chữ "Đỏ - Đậu - Đau": màu đỏ, kích cỡ bằng hạt đâu và sờ đau.
 
@@ -19,7 +19,7 @@ Bệnh nhân [[viêm nội tâm mạc nhiễm trùng]] (VNTMNT) do sùi Osler tr
 
 ## 2. Sang thương JANEWAY
 
-![[sang thương Janeway-1713795019806.jpeg]]![[sang thương Janeway-1713795025441.jpeg]]
+![[../200 FILES/201 Image/image/sang thương Janeway-1713795019806.webp]]![[../200 FILES/201 Image/image/sang thương Janeway-1713795025441.webp]]
 
 - Là các dát hoặc sẩn xuất huyết, bờ không đều, không đau.
 

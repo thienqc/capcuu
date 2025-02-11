@@ -19,9 +19,9 @@ aliases:
 	- Xuất hiện sóng U, T dẹt → âm, ST chênh xuống.
 	- [[Rối loạn nhịp tim]]: [[Ngoại tâm thu thất]] hoặc [[Ngoại tâm thu nhĩ|Nhĩ]], cơn [[nhịp nhanh thất]], cơn [[nhịp nhanh nhĩ]], [[xoắn đỉnh]], [[block nhĩ thất]]
 
-![[hạ kali máu-1713427194494.jpeg]]
+![[../200 FILES/201 Image/image/hạ kali máu-1713427194494.webp]]
 ## Phân độ và điều trị
-![[hạ kali máu-1713427250724.jpeg]]
+![[../200 FILES/201 Image/image/hạ kali máu-1713427250724.webp]]
 
 
 > [!Summary] Y lệnh

@@ -1,5 +1,5 @@
-[400 Note điều trị Phù phổi cấp.docx](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/Noi%20tong%20quat/Trai%20TIM%20MACH/400%20Note%20%C4%91i%E1%BB%81u%20tr%E1%BB%8B%20Ph%C3%B9%20ph%E1%BB%95i%20c%E1%BA%A5p.docx)
-[400 Tiếp cận điều trị phù phổi cấp - PGS Trang.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/Noi%20tong%20quat/Trai%20TIM%20MACH/400%20Ti%E1%BA%BFp%20c%E1%BA%ADn%20%C4%91i%E1%BB%81u%20tr%E1%BB%8B%20ph%C3%B9%20ph%E1%BB%95i%20c%E1%BA%A5p%20-%20PGS%20Trang.pdf)
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/Noi tong quat/Trai TIM MACH/400 Note điều trị Phù phổi cấp.docx|400 Note điều trị Phù phổi cấp.docx]]
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/Noi tong quat/Trai TIM MACH/400 Tiếp cận điều trị phù phổi cấp - PGS Trang.pdf|400 Tiếp cận điều trị phù phổi cấp - PGS Trang.pdf]]
 
 ## Lâm sàng
 - Bệnh sử: nổi bật nhất là ==khó thở==. Nếu em nào ko bik bơi mà bị các bạn nhấn xuống nước thì sẽ hoảng loạn vô cùng. PPC được gọi là chết đuối trên cạn vì phổi ngập nước, ko trao đổi khí được, phải ==ngồi để thở, người tím ngắt== ra. Ngoài ra là ==ho ra đàm bọt hồng==. Nếu ngnhan là nmct cấp thì có thể có đau thắt ngực  

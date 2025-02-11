@@ -1,7 +1,7 @@
 # CRP
 *C Reactive Protein*
 
-[C Reactive Protein - StatPearls - NCBI Bookshelf (nih.gov)](https://www.ncbi.nlm.nih.gov/books/NBK441843/)
+[[nih.gov)](https://www.ncbi.nlm.nih.gov/books/NBK441843/|C Reactive Protein - StatPearls - NCBI Bookshelf (nih.gov)]]
 
 - Do gan sản xuất, đáp ứng với tình trạng VIÊM
 - Giai đoạn cấp tính

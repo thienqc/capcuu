@@ -20,7 +20,7 @@
 	- Có quan tâm RLĐM thì Bilan đông máu
 ![[Buổi 5-Hệ Hô hấp (Nội)-1687359268008.jpeg]]
 
-![[HO RA MÁU - BM Nội-1712680141974.jpeg]]
+![[../../../../../200 FILES/201 Image/image/HO RA MÁU - BM Nội-1712680141974.webp]]
 
 ## Xử trí cấp cứu HO RA MÁU:
 - Ổn định cấp cứu: THông thoáng đường thở, hỗ trợ O2
@@ -55,6 +55,6 @@ _Nội soi phế quản_: Thấy được vị trí chảy máu trực tiếp �
 >  5. An thần nếu NKQ + Ức chế ho (Terpin Codein)
 >  6. Theo dõi/ DSA/…
 
-![[HO RA MÁU - BM Nội-1712681236459.jpeg]]
+![[../../../../../200 FILES/201 Image/image/HO RA MÁU - BM Nội-1712681236459.webp]]
 - Adrenail 1mg 1A + NaCl 0.9% đủ 10ml, chia làm 3 lần PKD
 	- Dùng khi HRM lượng nhiều, máu khó cầm

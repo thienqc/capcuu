@@ -45,7 +45,7 @@ Positional changes such as flexing, extending, rotating, or laterally bending th
 
 The onset of vertigo and nystagmus with these maneuvers establishes vertigo as the patient's symptom, if the vertiginous sensation is the same as the patient previously experienced. The examiner notes features of the symptoms and signs to aid in the distinction between central and peripheral causes of vertigo ([table 3](https://www.uptodate.com/contents/image?imageKey=NEURO%2F73213&topicKey=NEURO%2F5099&source=see_link)) \[[20](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness/abstract/20)\].
 
-Other bedside tests of vestibuloocular function are discussed separately. (See ["Evaluation of the patient with vertigo", section on 'Other vestibular signs'](https://www.uptodate.com/contents/evaluation-of-the-patient-with-vertigo?sectionName=Other%20vestibular%20signs&topicRef=5099&anchor=H22&source=see_link#H22).)
+Other bedside tests of vestibuloocular function are discussed separately. (See [[https://www.uptodate.com/contents/evaluation-of-the-patient-with-vertigo?sectionName=Other vestibular signs&topicRef=5099&anchor=H22&source=see_link#H22]].)
 
 Postural instability — The effects of lesions of the vestibular system upon postural stability are variable, but it is common for patients with vertigo to have difficulty maintaining steady upright posture when walking, standing, and even sitting unsupported, particularly when the symptoms are acute.
 
@@ -78,7 +78,7 @@ Psychiatric disorders may be the primary cause of nonspecific dizziness in some 
 
 Nonspecific dizziness is sometimes related to hyperventilation. This usually occurs in settings that are at least mildly stressful. Dizziness that accompanies hyperventilation, anxiety, or depression often builds up gradually, waxes and wanes over a period of 20 minutes or longer, and gradually resolves. There may be no sensation of "air hunger" since these patients are hyperventilating only to a slight degree.
 
-Less intense versions of presyncope or vertigo may be experienced by the patient as nonspecific dizziness (see ['Vertigo'](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H3) above and ['Presyncope'](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H6) above). Nonspecific dizziness (as well as vertigo) may follow head trauma or whiplash injuries \[[30](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness/abstract/30)\]. Hypoglycemic episodes may also produce a nonspecific sensation of dizziness as the chief symptom \[[31](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness/abstract/31)\]. In addition, patients should be asked about medications, especially antidepressants and anticholinergics; a variety of medications produce dizziness as a side effect or as a symptom of abrupt drug withdrawal \[[32,33](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness/abstract/32,33)\].
+Less intense versions of presyncope or vertigo may be experienced by the patient as nonspecific dizziness (see [[https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H3]] above and [[https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H6]] above). Nonspecific dizziness (as well as vertigo) may follow head trauma or whiplash injuries \[[30](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness/abstract/30)\]. Hypoglycemic episodes may also produce a nonspecific sensation of dizziness as the chief symptom \[[31](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness/abstract/31)\]. In addition, patients should be asked about medications, especially antidepressants and anticholinergics; a variety of medications produce dizziness as a side effect or as a symptom of abrupt drug withdrawal \[[32,33](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness/abstract/32,33)\].
 
 There are no physical signs that are diagnostic of nonspecific dizziness. Most patients are healthy, young individuals without detectable disease involving the neurologic, cardiovascular, or otolaryngologic systems. Purposeful hyperventilation is one means to confirm that diagnosis. The patient is coached to hyperventilate until they become dizzy, then to identify whether or not the dizziness mimics spontaneously occurring symptoms. If so, the patient will be convinced, as well as the physician, that hyperventilation is the etiology. However, the examiner must observe the eyes of the patient to see if there is nystagmus; some pathologic vestibular lesions are exacerbated or unmasked by hyperventilation. If nystagmus is seen, the diagnosis is a vestibular lesion, not hyperventilation.
 
@@ -115,15 +115,15 @@ INFORMATION FOR PATIENTSUpToDate offers two types of patient education materials
 
 Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
 
-●Basics topics (see ["Patient education: Vertigo (a type of dizziness) (The Basics)"](https://www.uptodate.com/contents/vertigo-a-type-of-dizziness-the-basics?topicRef=5099&source=see_link))
+●Basics topics (see [[a type of dizziness) (The Basics)"](https://www.uptodate.com/contents/vertigo-a-type-of-dizziness-the-basics?topicRef=5099&source=see_link|"Patient education: Vertigo (a type of dizziness) (The Basics)"]])
 
-●Beyond the Basics topics (see ["Patient education: Vertigo (Beyond the Basics)"](https://www.uptodate.com/contents/vertigo-beyond-the-basics?topicRef=5099&source=see_link))
+●Beyond the Basics topics (see [[Beyond the Basics)"](https://www.uptodate.com/contents/vertigo-beyond-the-basics?topicRef=5099&source=see_link|"Patient education: Vertigo (Beyond the Basics)"]])
 
 ## SUMMARY
 
 ●**Initial approach** – A complaint of dizziness is nonspecific and requires further clarification.
 
-The cause of dizziness (vertigo, presyncope, disequilibrium, or nonspecific dizziness) is best elucidated by the history and confirmed by physical examination. (See ['General approach'](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H2) above.)
+The cause of dizziness (vertigo, presyncope, disequilibrium, or nonspecific dizziness) is best elucidated by the history and confirmed by physical examination. (See [[https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H2]] above.)
 
 ●**Clinical features suggesting vertigo** – Most patients with dizziness have vertigo. Most patients experience vertigo as an illusion of movement, not necessarily spinning, of themselves or the environment.
 
@@ -131,16 +131,16 @@ A key historical aspect of vertigo is exacerbation by head movement.
 
 The presence of nystagmus suggests that the dizziness is vertigo.
 
-Associated hearing loss or tinnitus suggests peripheral vertigo; associated brainstem signs suggest central vertigo. (See ['Vertigo'](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H3) above.)
+Associated hearing loss or tinnitus suggests peripheral vertigo; associated brainstem signs suggest central vertigo. (See [[https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H3]] above.)
 
 ●**Clinical features suggesting presyncope** – Presyncope is usually experienced as a sensation of impending faint.
 
-This diagnosis is further suggested by the occurrence of dizziness only in the upright posture, in patients with cardiac disease, and/or when associated pallor is described by onlookers. (See ['Presyncope'](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H6) above.)
+This diagnosis is further suggested by the occurrence of dizziness only in the upright posture, in patients with cardiac disease, and/or when associated pallor is described by onlookers. (See [[https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H6]] above.)
 
-●**Disequilibrium** – Dizziness that represents disequilibrium or a sense of imbalance may be the presenting symptom of a peripheral neuropathy, parkinsonism, cerebellar disease, and/or cervical myelopathy. (See ['Disequilibrium'](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H7) above.)
+●**Disequilibrium** – Dizziness that represents disequilibrium or a sense of imbalance may be the presenting symptom of a peripheral neuropathy, parkinsonism, cerebellar disease, and/or cervical myelopathy. (See [[https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H7]] above.)
 
-●**Nonspecific dizziness** – Nonspecific dizziness may have some clinical features of the other syndromes and has a wide differential diagnosis that may include milder forms of vertigo, presyncope, and disequilibrium, as well as medication side effects, psychiatric disease, and metabolic derangements. (See ['Nonspecific dizziness'](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H8) above.)
+●**Nonspecific dizziness** – Nonspecific dizziness may have some clinical features of the other syndromes and has a wide differential diagnosis that may include milder forms of vertigo, presyncope, and disequilibrium, as well as medication side effects, psychiatric disease, and metabolic derangements. (See [[https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H8]] above.)
 
-Multifactorial dizziness may also be difficult to categorize. Older patients in particular often have multiple etiologic contributors to their dizziness. (See ['Dizziness in older patients'](https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H9) above.)
+Multifactorial dizziness may also be difficult to categorize. Older patients in particular often have multiple etiologic contributors to their dizziness. (See [[https://www.uptodate.com/contents/approach-to-the-patient-with-dizziness#H9]] above.)
 
 ACKNOWLEDGMENTThe UpToDate editorial staff acknowledges William T Branch, Jr, MD, who contributed to earlier versions of this topic review.

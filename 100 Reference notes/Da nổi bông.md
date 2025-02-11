@@ -9,5 +9,5 @@ Da nổi bông (mottling score) là tình trạng thay đổi màu sắc da do g
 - (5) nổi bông quá nếp bẹn.
 Ý nghĩa: điểm càng cao càng có tiên lượng xấu, nhất là  ==khi >3==.
 
-![[Da nổi bông-1716731442162.jpeg]]
+![[../200 FILES/201 Image/image/Da nổi bông-1716731442162.webp]]
 

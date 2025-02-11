@@ -49,8 +49,8 @@ Cần phải tham vấn với bác sĩ phẫu thuật thẩm mỹ hoặc chuyên
 
 ## Kiểm soát cơn đau
 
-![[Khâu vết thương-1710947411994.jpeg]]
-![[Khâu vết thương-1710947418680.jpeg]]
+![[../200 FILES/201 Image/image/Khâu vết thương-1710947411994.webp]]
+![[../200 FILES/201 Image/image/Khâu vết thương-1710947418680.webp]]
 
 *VT ở ngón tay, ngón chân nên được GÂY TÊ VÙNG*
 
@@ -73,11 +73,11 @@ Thiết bị dùng để sửa chữa vết rách trên da (bao gồm hướng d
 
 •Vết thương dài, thẳng (đường khâu ( hình 22 ))
 
-![[Khâu vết thương-1710947200951.jpeg]]
+![[../200 FILES/201 Image/image/Khâu vết thương-1710947200951.webp]]
 
-![[Khâu vết thương-1710947225637.jpeg]]
+![[../200 FILES/201 Image/image/Khâu vết thương-1710947225637.webp]]
 
-![[Khâu vết thương-1710947271672.jpeg]]
+![[../200 FILES/201 Image/image/Khâu vết thương-1710947271672.webp]]
 (A)(B): kĩ thuật đâm kim 90 độ => đúng => miệng vết thương đều nhau
 (C)(D): kĩ thuật đâm kim sai => miệng vết thương bị lật ngược vào trong, đáy vết thương bị hẹp
 

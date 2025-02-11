@@ -32,5 +32,5 @@
 
 
 ## Tài liệu
-[Tiếp cận chẩn đoán hội chứng vành cấp (youtube.com)](https://www.youtube.com/watch?v=BR_ZPlAHygU)
-👍 [Cập nhật khuyến cáo về Hội chứng mạch vành cấp từ ESC 2023 (youtube.com)](https://www.youtube.com/watch?v=rsgkbRbu52U)
+[[youtube.com)](https://www.youtube.com/watch?v=BR_ZPlAHygU|Tiếp cận chẩn đoán hội chứng vành cấp (youtube.com)]]
+👍 [[youtube.com)](https://www.youtube.com/watch?v=rsgkbRbu52U|Cập nhật khuyến cáo về Hội chứng mạch vành cấp từ ESC 2023 (youtube.com)]]

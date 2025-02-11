@@ -38,9 +38,9 @@
 
 
 
-![[Cơn hen cấp (cấp cứu).jpeg]]
+![[../200 FILES/201 Image/image/Cơn hen cấp (cấp cứu).webp]]
 
-![[Cơn hen cấp-1710775065692.jpeg]]
+![[../200 FILES/201 Image/image/Cơn hen cấp-1710775065692.webp]]
 > [!Summary] Case [[19268781]] - PĐ Tín - cơn hen cấp/đau ngực
 > NaCl 0.9% 500ml 1 chai TTM LX g/ph
 > Paracetamol 1g TTM C g/ph

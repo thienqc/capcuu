@@ -1,5 +1,5 @@
 # Nhìn lại vai trò của IVC - Ths.BSNT.Nguyễn Tú Anh
-[Nhìn lại vai trò của IVC - Ths.BSNT.Nguyễn Tú Anh (youtube.com)](https://www.youtube.com/watch?v=yJpy6ypH0rg)
+[[youtube.com)](https://www.youtube.com/watch?v=yJpy6ypH0rg|Nhìn lại vai trò của IVC - Ths.BSNT.Nguyễn Tú Anh (youtube.com)]]
 ![[Nhìn lại vai trò của IVC - Ths.BSNT.Nguyễn Tú Anh-20240811083055183.webp]]
 ![[Nhìn lại vai trò của IVC - Ths.BSNT.Nguyễn Tú Anh-20240811083115878.webp]]
 ![[Nhìn lại vai trò của IVC - Ths.BSNT.Nguyễn Tú Anh-20240811083207607.webp]]

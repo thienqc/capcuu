@@ -4,8 +4,7 @@
   "directoriesToIgnore": [],
   "filesToIgnore": [],
   "fileTypesToIgnore": [
-    ".md",
-    " .pdf"
+    ".md"
   ],
   "linksToIgnore": [],
   "tagsToIgnore": [],

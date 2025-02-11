@@ -27,11 +27,11 @@
 ![[Xu tri soc phan ve.png]]
 
 
-![[Phản vệ-1715932353375.jpeg]]
+![[../200 FILES/201 Image/image/Phản vệ-1715932353375.webp]]
 
-![[Phản vệ-1715932385352.jpeg]]
+![[../200 FILES/201 Image/image/Phản vệ-1715932385352.webp]]
 
-![[Phản vệ-1715932418502.jpeg]]
+![[../200 FILES/201 Image/image/Phản vệ-1715932418502.webp]]
 
 Mục tiêu: nâng và duy trì ổn định HA tối đa của người lớn lên ≥ 90mmHg, trẻ em ≥ 70mmHg và không còn các dấu hiệu về hô hấp như thở rít, khó thở; dấu hiệu về tiêu hóa như nôn mửa, ỉa chảy.
 

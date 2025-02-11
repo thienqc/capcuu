@@ -14,4 +14,4 @@ HÔ TRÁI - CHUYỂN CÙNG
 
 [[Tiếp cận RL toan-kiềm dựa vào BE]]
 
-![[Đọc Khí máu động mạch-1716476381694.jpeg]]
+![[../200 FILES/201 Image/image/Đọc Khí máu động mạch-1716476381694.webp]]

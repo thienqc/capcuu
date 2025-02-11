@@ -1,9 +1,9 @@
 
-[30_HE NOI TIET_UNG THU_HUU PHUC-old.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/200%20PDF_GUI%20SINH%20VIEN_thienqc/30_HE%20NOI%20TIET_UNG%20THU_HUU%20PHUC-old.pdf)
-[39_Hệ hô hấp_Ung thư_BS.Phan Đỗ Phương Thảo.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/200%20PDF_GUI%20SINH%20VIEN_thienqc/39_H%E1%BB%87%20h%C3%B4%20h%E1%BA%A5p_Ung%20th%C6%B0_BS.Phan%20%C4%90%E1%BB%97%20Ph%C6%B0%C6%A1ng%20Th%E1%BA%A3o.pdf)
-[56-He tieu hoa-Ung thu-Nguyen thi thoai an.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/200%20PDF_GUI%20SINH%20VIEN_thienqc/56-He%20tieu%20hoa-Ung%20thu-Nguyen%20thi%20thoai%20an.pdf)
-[70_SẢN PHỤ KHOA _ UNG THƯ _ BS. ĐOÀN TRỌNG NGHĨA.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/200%20PDF_GUI%20SINH%20VIEN_thienqc/70_S%E1%BA%A2N%20PH%E1%BB%A4%20KHOA%20_%20UNG%20TH%C6%AF%20_%20BS.%20%C4%90O%C3%80N%20TR%E1%BB%8CNG%20NGH%C4%A8A.pdf)
-[79_Roiloandacoquan_Ung thu_QuanAnhTien.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/200%20PDF_GUI%20SINH%20VIEN_thienqc/79_Roiloandacoquan_Ung%20thu_QuanAnhTien.pdf)
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/200 PDF_GUI SINH VIEN_thienqc/30_HE NOI TIET_UNG THU_HUU PHUC-old.pdf|30_HE NOI TIET_UNG THU_HUU PHUC-old.pdf]]
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/200 PDF_GUI SINH VIEN_thienqc/39_Hệ hô hấp_Ung thư_BS.Phan Đỗ Phương Thảo.pdf|39_Hệ hô hấp_Ung thư_BS.Phan Đỗ Phương Thảo.pdf]]
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/200 PDF_GUI SINH VIEN_thienqc/56-He tieu hoa-Ung thu-Nguyen thi thoai an.pdf|56-He tieu hoa-Ung thu-Nguyen thi thoai an.pdf]]
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/200 PDF_GUI SINH VIEN_thienqc/70_SẢN PHỤ KHOA _ UNG THƯ _ BS. ĐOÀN TRỌNG NGHĨA.pdf|70_SẢN PHỤ KHOA _ UNG THƯ _ BS. ĐOÀN TRỌNG NGHĨA.pdf]]
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/200 PDF_GUI SINH VIEN_thienqc/79_Roiloandacoquan_Ung thu_QuanAnhTien.pdf|79_Roiloandacoquan_Ung thu_QuanAnhTien.pdf]]
 
 ## File sub
 [[Buổi 6 - Hệ Hô hấp (còn lại)#UNG THƯ]]

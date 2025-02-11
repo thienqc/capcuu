@@ -9,7 +9,7 @@ aliases:
 
 > [!important] Chú ý
 > - [[D-Dimer]] cut-off: 500 ng/ml hoặc ==0.5 mg/L==
-> - [](D-Dimer.md) Troponin?
+> - [[D-Dimer]] Troponin?
 
 
 ## Triệu chứng
@@ -28,7 +28,7 @@ Sign
 
 => Đánh giá well score
 
-[Wells' Criteria for Pulmonary Embolism (mdcalc.com)](https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism)
+[[mdcalc.com)](https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism|Wells' Criteria for Pulmonary Embolism (mdcalc.com)]]
 
 Wells criteria and modified Wells criteria: Clinical assessment for pulmonary embolism
 

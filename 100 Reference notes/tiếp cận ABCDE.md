@@ -34,5 +34,5 @@
 
 
 ## Tham khảo
->  [Initial assessment and treatment with the Airway, Breathing, Circulation, Disability, Exposure (ABCDE) approach - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3273374/)
+>  [[ABCDE) approach - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3273374/|Initial assessment and treatment with the Airway, Breathing, Circulation, Disability, Exposure (ABCDE) approach - PMC (nih.gov)]]
 

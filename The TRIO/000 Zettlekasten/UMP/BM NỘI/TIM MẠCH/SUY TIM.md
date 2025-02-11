@@ -1,4 +1,4 @@
-[500 Điều trị suy tim - PGS Châu Ngọc Hoa.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/Noi%20tong%20quat/Trai%20TIM%20MACH/500%20%C4%90i%E1%BB%81u%20tr%E1%BB%8B%20suy%20tim%20-%20PGS%20Ch%C3%A2u%20Ng%E1%BB%8Dc%20Hoa.pdf)
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/Noi tong quat/Trai TIM MACH/500 Điều trị suy tim - PGS Châu Ngọc Hoa.pdf|500 Điều trị suy tim - PGS Châu Ngọc Hoa.pdf]]
 
 - VÒng xoắn bệnh lý
 ![[Buổi 7-Hệ Tim mạch (Nội)-1687360860097.jpeg]]

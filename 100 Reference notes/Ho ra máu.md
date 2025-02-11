@@ -4,11 +4,11 @@ aliases:
 ---
 # HO RA MÁU
 
-![[Ho ra máu-1712677287419.jpeg]]
+![[../200 FILES/201 Image/image/Ho ra máu-1712677287419.webp]]
 
 [Hemoptysis: Evaluation and Management | AAFP](https://www.aafp.org/pubs/afp/issues/2015/0215/p243.html)
 ## Bệnh sử
-![[Ho ra máu-1712677136154.jpeg]]
+![[../200 FILES/201 Image/image/Ho ra máu-1712677136154.webp]]
 ### Bệnh hiện tại
 - Bao nhiêu máu đã được ho ra trong 24 đến 48 giờ qua?
 - Là máu trộn với đờm? Đờm trong, trắng hay có mủ?

@@ -6,4 +6,4 @@ Dear @All Thông qua trường hợp cấp cứu bé nhii 3 tuổi cách đây 3
 4. Các bs leader nên nghĩ đến [[đường truyền tủy xương]] -IO access trước tiên ở những trường hợp ngưng tim hoặc sốc mât bù
 5. Cân nhắc có sự hiện diện của nhà (như hình ảnh đính kèm) vì những lợi ích của nó. Tóm lại là hôm rồi bs thông khí quá mức nhiệt tình cho BN !!!
 
-![[PALS-1716515645323.jpeg]]
+![[../200 FILES/201 Image/image/PALS-1716515645323.webp]]

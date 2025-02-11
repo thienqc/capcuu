@@ -10,9 +10,3 @@ CÂU HỎI
 - Báo cáo trưởng kíp trực và lãnh đạo khoa, trực lãnh đạo và phối hợp BV bệnh viện
 - Đe dọa tính mạng -> Code Grey, tạm lánh khỏi nơi làm việc, báo cáo lãnh đạo
 
-
-![[Đề TỐT NGHIỆP 2022 - 1 (hệ NỘI) - Câu 114]]
-![[Đề TỐT NGHIỆP 2022 - 1 (hệ NỘI) - Câu 115]]
-![[Đề TỐT NGHIỆP 2022 - 2 (hệ NỘI) - Câu 114]]
-![[Đề TỐT NGHIỆP 2022 - 2 (hệ NỘI) - Câu 115]]
-

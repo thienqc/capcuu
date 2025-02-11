@@ -1,7 +1,7 @@
 # TĂNG HUYẾT ÁP - Sub BM nội
 
-[200 Note điều trị THA Y16.docx](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/Noi%20tong%20quat/Trai%20TIM%20MACH/200%20Note%20điều%20trị%20THA%20Y16.docx)
-[200 Tiếp cận điều trị Tăng huyết áp 2021 - GS Bình.pdf](file:///D:/OneDrive%20-%20UMP/TOT%20NGHIEP/Noi%20tong%20quat/Trai%20TIM%20MACH/200%20Tiếp%20cận%20điều%20trị%20Tăng%20huyết%20áp%202021%20-%20GS%20Bình.pdf)
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/Noi tong quat/Trai TIM MACH/200 Note điều trị THA Y16.docx|200 Note điều trị THA Y16.docx]]
+[[file:///D:/OneDrive - UMP/TOT NGHIEP/Noi tong quat/Trai TIM MACH/200 Tiếp cận điều trị Tăng huyết áp 2021 - GS Bình.pdf|200 Tiếp cận điều trị Tăng huyết áp 2021 - GS Bình.pdf]]
 
 
 

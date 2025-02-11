@@ -32,7 +32,7 @@
 
 
 ---
-**Options for oxygenation and ventilatory support** – The following are options for oxygenation and ventilatory support (see ['Options for oxygenation or ventilatory support'](https://www.uptodate.com/contents/approach-to-the-adult-with-dyspnea-in-the-emergency-department?source=history_widget#H1805423171) above):
+**Options for oxygenation and ventilatory support** – The following are options for oxygenation and ventilatory support (see [[https://www.uptodate.com/contents/approach-to-the-adult-with-dyspnea-in-the-emergency-department?source=history_widget#H1805423171]] above):
 
 
 

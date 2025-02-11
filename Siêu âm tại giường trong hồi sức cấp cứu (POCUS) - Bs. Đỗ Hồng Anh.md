@@ -1,5 +1,5 @@
 # Siêu âm tại giường trong hồi sức cấp cứu (POCUS) - Bs. Đỗ Hồng Anh
-[Cafe Hồi Sức - kì 26: Siêu âm tại giường trong hồi sức cấp cứu (POCUS) - Bs. Đỗ Hồng Anh - YouTube](https://www.youtube.com/watch?v=ym-uAOoGAkY)
+[[POCUS) - Bs. Đỗ Hồng Anh - YouTube](https://www.youtube.com/watch?v=ym-uAOoGAkY|Cafe Hồi Sức - kì 26: Siêu âm tại giường trong hồi sức cấp cứu (POCUS) - Bs. Đỗ Hồng Anh - YouTube]]
 
 ![[Siêu âm tại giường trong hồi sức cấp cứu (POCUS) - Bs. Đỗ Hồng Anh-20240808190506525.webp]]
 ![[Siêu âm tại giường trong hồi sức cấp cứu (POCUS) - Bs. Đỗ Hồng Anh-20240808190536253.webp]]
