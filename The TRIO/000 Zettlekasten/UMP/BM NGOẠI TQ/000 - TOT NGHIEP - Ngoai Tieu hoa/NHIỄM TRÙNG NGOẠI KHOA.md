@@ -1,2 +1,2 @@
-- Nhiễm trùng vết mổ và vết thương  
+- Nhiễm trùng vết mổ và vết thương  
 - Nguyên tắc điều trị.
