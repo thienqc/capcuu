@@ -1,5 +1,0 @@
-# ECG trong ACS
-
-![[ECG trong ACS-20240611061805727.webp]]
-
-![[ECG trong ACS-20240611062043003.webp]]

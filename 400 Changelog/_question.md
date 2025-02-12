@@ -1,5 +1,0 @@
-
-```dataview
-TASK
-WHERE status="?"
-```

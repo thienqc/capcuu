@@ -1,7 +1,0 @@
----
-aliases: 
-tags:
-  - drug
----
-# {{Name}}
-

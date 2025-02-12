@@ -1,1 +1,0 @@
-[[NHIỄM TRÙNG TIỂU]]
