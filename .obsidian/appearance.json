@@ -1,0 +1,13 @@
+{
+  "accentColor": "#007db3",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "MCL Wide Views"
+  ],
+  "theme": "moonstone",
+  "showViewHeader": true,
+  "showRibbon": true
+}
