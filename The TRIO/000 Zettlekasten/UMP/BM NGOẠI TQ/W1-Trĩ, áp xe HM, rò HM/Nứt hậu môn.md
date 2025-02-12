@@ -1,0 +1,1 @@
+Là vết rách ở vùng da hậu môn phía dưới đường lược
