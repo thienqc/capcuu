@@ -1,0 +1,7 @@
+- Điều trị
+	- Sơ sinh: giữ ống động mạch: TTM PGE1
+	- **Chỉ định nong van bằng bóng**: (Xem lại trong sách)
+		- Grad RV/PA thì tâm thu > 50mmHg
+		- Grad RV/PA thì tâm thu > 30 mmHg và TCLS
+		- Sơ sinh có RL chức năng thất P hoặc thiểu sản thất P nhẹ hoặc tím nặng
+	- **Phẫu thuật thiểu sản hoặc hẹp van nặng**

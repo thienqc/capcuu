@@ -1,0 +1,4 @@
+- Đa phần gặp trong con to
+- _Thời gian sinh đầu-vai > 60s_
+- Dự phòng bằng mổ lấy thai ở con to 4,5-5kg, chú ý ở mẹ có ĐTĐ thai kỳ
+- Thủ thật McRobert đã giải quyết 70% trường hợp

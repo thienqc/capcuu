@@ -1,0 +1,3 @@
+- Oxytocin ngoại sinh
+- 3 con gò/10p
+- ĐỌc âm tính (3 yếu tố đều thỏa) hay dương tính (khi xuất hiện nhịp giảm muộn lặp lại hơn 50% số cơn co tử cung) hay nghi ngờ dựa vào tim thai căn bản, dao động nội tại, nhịp giảm muộn

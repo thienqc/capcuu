@@ -1,0 +1,11 @@
+*Liên quan tương tác miễn dịch giữa mẹ và con*
+- 2 quá trình liên quản bản chất IgG
+- Hồng cầu của con và mẹ khác nhau
+	- Trình diện HC lạ của con kích hoạt đáp ứng miễn dịch của cơ thể người mẹ
+	- Mẹ có mang kháng thể IgG chống hồng cầu con trước khi mang thai
+- _Bất tương đồng Rh_
+	- _Đứa 1 bình thường_
+	- _Đứa 2 tán huyết_
+	- _Đứa 3 tán huyết nặng hơn, có khi tử vong_
+- _Bất tương đồng ABO_
+	- _Đứa 1,2,3,4/… đều tán huyết và tán huyết như nhau_

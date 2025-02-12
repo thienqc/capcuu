@@ -1,0 +1,23 @@
+- BN LỚN tuổi, béo phì, đáo đường
+- YTNC: Tiếp xúc với Estrogen càng lâu => Nguy cơ càng tăng # với Ung thư buồng trứng
+![[UNG THƯ NỘI MẠC TỬ CUNG-1686927741002.jpeg]]
+- Tiên lượng
+	- Chủ yếu dựa trên Giai đoạn
+- **ĐIều trị chính yếu là PT và xạ trị**
+- Phẫu trị
+	- Bắt buộc cắt cả TC + 2 phần phụ +/- nạo hạch chậu 2 bên
+- Xạ trị: thường được chỉ định xạ trị bổ túc sau mổ cho những trường hợp còn khu trú tại chỗ giai đoạn I-III. Xạ trị đơn thuần trong K NMTC là xạ trong và xạ ngoài Xạ tân hỗ trợ là làm u nhỏ lại để thuận lợi trong PT (thường dùng xạ trong)
+- Hóa trị là vai trò điều trị bổ túc
+- Nội tiết: thường dùng progestin: Medroxyprogesterone acetate, hydroxyprogesterone, caproat và megestrol acetate
+- Chỉ định điều trị theo giai đoạn:
+	- GĐ sớm:
+		- IA, IB, grad 1: PT đơn thuần
+		- IB + grad >=2; GĐ II: Phẫu thuật + xạ trị hậu phẫu
+	- GĐ muộn:
+		- Bệnh khu trú vùng chậu GĐ III:
+			- Còn PT được: PT cắt tử cung toàn phần + 2 phần phụ + nạo hạch chậu 2 bên + Xạ trị hậu phẫu
+			- Không PT được: Xạ trị phối hợp (trong và ngoài)
+		- Bệnh đã lan khỏi vùng chậu:
+			- Đánh giá tình trạng đáp ứng nội tiết dựa vào thụ thể nội tiết ER, PR và grad mô học
+				- Thụ thể dương tính + Grad thấp => Điều trị nội tiết
+				- THụ thể âm tính, Grad cao => Hóa trị

@@ -1,0 +1,61 @@
+Có 2 phần chính là chẩn đoán và điều trị
+### Chẩn đoán
+- Dịch tế:
+	- Tuổi
+	- Nghề nghiệp và thói quen ăn uống: nuôi heo, mổ heo, tiết canh heo: S.suis
+	- Chấn thương sọ não, dò DNT, cắt lách: Phế cầu
+	- PT thần kinh: S.aureus
+	- Dịch bệnh gần đây: Não mô cầu, VNNB
+- LS
+	- TCCN
+		- Sốt
+		- Tam chứng màng não: đau đầu, nôn vọt, táo bón
+	- TCTT
+		- Dấu màng não: cổ gượng, kerng, bruzinski
+		- Tổn thương não: tri giác, RL cơ trơn, RL vận động
+		- Các đặc điểm TCTT gợi ý tác nhân  
+			- XH dưới da: Não mô cầu, S.suis (tử ban)
+			- Nhọt da, âm thổi ở tim: tụ cầu
+			- Bóng nước: HSV, tay chân miệng
+			- Chấm xuất huyết Dengue
+			- Viêm tai giữa, viêm xoang, rale ở phổi: Phế cầu
+			- Cushing do thuốc: Vi khuẩn gram âm
+- CLS:
+	- **DNT phải học chống chỉ định**
+		- GCS <11
+		- Co giật
+		- Dấu TK định vị
+		- TALNS (phù gai thị, tam chứng cushing)
+		- RL đông máu, sinh hiệu, NT nơi chọc dò => CCĐ tương đối
+	- => khi có CCĐ: CT-scan sọ não KHÔNG CẢN QUANG
+	- Nghi + CCĐ chọc dò => Cấy máu + cho KS liều đầu
+	- Chú ý khi làm DNT
+		- DNT 3 lọ + Đường huyết chọc dò
+		- Bệnh cảnh liên quan thì thêm HSV PCR (Chẩn đoán phân biệt viêm màng não) Viêm não tổn thương nhân bèo
+	- Phân tích dịch não tủy
+	  ![[NHIỄM-1687353484958.jpeg]]
+### Điều trị
+- Kháng sinh: kháng sinh ban đầu theo TÁC NHÂN mà nghĩ đến
+	- Theo độ tuổi, bệnh nền và tiền sử
+		- Chú ý có Ampicillin + Cepha III: <1th, 1-23th, > 50 tuổi
+		- ***2-50 tuổi: Cepha III thôi + Vancomycin***
+			- _Khi nào dùng Vancomycin: là khi tỉ lệ kháng S.peu là > 30% thì dùng ngay từ đầu_
+			- => BS Hoàng: PHỐI HỢP LUÔN
+		- Nếu là _S.suis: thì chỉ dùng Ceftriaxone_
+  ![[NHIỄM-1687353489720.jpeg]]
+- Dexamethaxone: Chỉ hiệu quả trong Hib, S. pneu, **S. suis**
+	- **_0.4 mg/kg mỗi 12 h x 4 ngày_**
+	- Chú ý là chỉ dùng 4 ngày sẽ có câu KS + Dexa 14 ngày và câu KS 14 ngày + Dexa 4 ngày
+	- Ngừa điếc
+	- Cho trước kháng sinh 15p
+- Theo dõi:
+	- Cải thiện hoặc hết lâm snagf
+	- DNT: lúc chẩn đoán, sau 24-48h, trước khi kết thúc
+	- Biến chứng: 7 nhóm biến chứng: (1 câu)
+		- NT
+		- Co giật
+		- **_Liệt dây TK sọ: Dây VIII (điếc Suis ),_** liệt ½ người (15%)
+		- TALNS
+		- Viêm tắc TM xoang hang
+		- **Nội tiết: SiADH, mất muối do nã**o
+		- VMN tái phát nhiều lầN

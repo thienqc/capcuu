@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"36c9d77035634a14","x":-220,"y":-161,"width":380,"height":100,"type":"text","text":"<p align= \"center\" style=\"font-size:28px;font-weight:bold\">ĐAU BỤNG CẤP</p>"},
+		{"id":"bb21b095829a10f2","x":370,"y":-182,"width":329,"height":142,"type":"text","text":"**Đau hông lưng**\n- Nhiễm trùng đường tiểu\n- Sỏi thận"},
+		{"id":"859723633964b7cd","x":-200,"y":-700,"width":341,"height":299,"type":"text","text":"**Đau thượng vị**\n- Thủng loét dạ dày - tá tràng\n- Viêm tuỵ cấp\n- Viêm đường mật\n- Viêm túi mật\n- Viêm dạ dày\n- Chứng khó tiêu\n- Nhồi máu cơ tim"},
+		{"id":"671b93454a2d6f0a","x":339,"y":-700,"width":360,"height":360,"type":"text","text":"**Đau hạ sườn trái**\n- Thủng loét dạ dày - tá tràng\n- Viêm tuỵ cấp\n- Viêm đường mật\n- Viêm túi mật\n- Viêm dạ dày\n- Nhồi máu cơ tim\n- Lách to\n- Áp xe lách\n- Nhồi máu lách"},
+		{"id":"a39d45868d40d98c","x":-685,"y":-700,"width":360,"height":360,"type":"text","text":"**Đau hạ sườn phải**\n- Áp xe gan\n- Viêm gan cấp do thuốc/ siêu vi\n- [[Viêm đường mật]]\n- [[Viêm túi mật]]\n- Nhồi máu cơ tim\n- Viêm phổi, viêm mủ màng phổi, thuyên tắc phổi, nhồi máu phổi\n- Viêm dây TK liên sườn"},
+		{"id":"6480ec3ed21cf51d","x":-685,"y":-162,"width":250,"height":101,"type":"text","text":"**Đau vùng quanh rốn**\n- Tắc mạch mạc treo\n- "},
+		{"id":"173e4a94d8b9750a","x":409,"y":80,"width":290,"height":380,"type":"text","text":"**Đau hố chậu trái và hạ vị**\n- Bệnh tiết niệu, sinh dục\n- Viêm túi thừa\n- [[UNG THƯ ĐẠI TRỰC TRÀNG (UB)]]\n- [[THOÁT VỊ BẸN & THÀNH BỤNG|Thoát vị]]\n- Bệnh khớp háng\n- Viêm đại tràng tiết nhày ([[IBS]])"},
+		{"id":"16ee985603dcd60a","x":-685,"y":110,"width":320,"height":350,"type":"text","text":"**Đau hố chậu phải**\n- [[VIÊM RUỘT THỪA]]\n- Viêm túi thừa\n- Viêm hạch mạc treo\n- Thiếu máu ruột\n- Thai ngoài tử cung\n- Viêm phần phụ\n- Xoắn phần phụ\n- Lạc nội mạc tử cung\n- Viêm/áp xe cơ thắt lưng chậu"}
+	],
+	"edges":[
+		{"id":"69057db75934ea0d","fromNode":"36c9d77035634a14","fromSide":"bottom","toNode":"16ee985603dcd60a","toSide":"top"},
+		{"id":"98d1816bad57d71b","fromNode":"36c9d77035634a14","fromSide":"bottom","toNode":"173e4a94d8b9750a","toSide":"top"},
+		{"id":"9b012eedf29e9251","fromNode":"36c9d77035634a14","fromSide":"top","toNode":"a39d45868d40d98c","toSide":"bottom"},
+		{"id":"df4c8491ecf5c039","fromNode":"36c9d77035634a14","fromSide":"top","toNode":"671b93454a2d6f0a","toSide":"bottom"},
+		{"id":"46297164c91291ba","fromNode":"36c9d77035634a14","fromSide":"top","toNode":"859723633964b7cd","toSide":"bottom"},
+		{"id":"83b0d763caf43cbf","fromNode":"36c9d77035634a14","fromSide":"right","toNode":"bb21b095829a10f2","toSide":"left"},
+		{"id":"db30b80fcf7aed80","fromNode":"36c9d77035634a14","fromSide":"left","toNode":"6480ec3ed21cf51d","toSide":"right"}
+	]
+}

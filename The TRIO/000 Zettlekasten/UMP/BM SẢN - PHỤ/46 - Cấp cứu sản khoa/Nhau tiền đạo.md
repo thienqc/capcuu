@@ -1,0 +1,22 @@
+- Đánh giá lượng máu mất dựa trên lượng máu thoát ra ngoài
+- Nhau tiền đạo có thể mất máu mà không có cơn co tử cung
+- Nhau tiền đạo/ Vết mỗ cũ là YTNC cao của nhau cài răng lược => cần HAH (MRI) để xác định và đánh giá mức độ nhau cài răng lược
+	- Nhau cài răng lược cần có sự phối hợp các bs chuyên sản khoa- niệu khoa ngoại khoa- nhi khoa- hồi sức gây mê. Mổ chủ động đối với nhau cài răng lược percreta vào thời điểm 34-35 tuần
+- Nguyên nhân
+	- Đa phần bệnh nhân đã biết trước nguyên nhân
+
+---
+
+- Nhau tiền đạo là nhau bám ở đoạn dưới tử cung.  
+- Chẩn đoán:  
+	- ==Siêu âm ngả âm đạo== có độ nhạy và độ chuyên cao trong chẩn đoán nhau tiền đạo.  
+	- Thời điểm xác định chẩn đoán: 28 tuần vô kinh.  
+- Một số điểm quan trọng:  
+	- Chảy máu trong nhau tiền đạo có thể rất nhiều và cần phải theo dõi chính xác. Do đó, cần chú ý: KHÔNG khám âm đạo bằng tay khi thai phụ có xuất huyết trong ½ sau thai kỳ cho đến khi xác định vị trí bánh nhau qua siêu âm.  
+	- Nhau tiền đạo trên đối tượng có **vết mổ cũ** là yếu tố nguy cơ cao của ==nhau cài răng lược==. Chẩn đoán nhau cài răng lược nên sử dụng các công cụ chẩn đoán hình ảnh để xác định và đánh giá mức độ NCRL.  
+	- Nhau cài răng lược gia tăng nguy cơ chảy máu trầm trọng và gia tăng khả năng cắt tử cung (7%). 
+	- Xác định dấu hiệu mạch máu tiền đạo trong thai kỳ là quan trọng và giúp cải thiện kết cục thai kỳ
+- Xử trí:  
+	- Nhau tiền đạo ra máu ít với thai chưa trưởng thành có thể điều trị mong đợi và theo dõi ngoại viện có thể áp dụng cho một số trường hợp có chọn lọc. 
+	- ==**Mổ lấy thai**== cần thiết cho tất cả các trường hợp nhau tiền đạo toàn phần. Mổ lấy thai có nguy cơ chảy máu nhiều, cần thiết phải can thiệp phải thực hiện kỹ thuật cầm máu ngoại khoa (thắt động mạnh tử cung, thuyên tắc mạch) và có thể cần thiết cắt tử cung, do đó cần một đội ngũ chuyên nghiệp.  
+	- Nhau cài răng lược cần có sự phối hợp các bs chuyên sản khoa- niệu khoa- ngoại khoa - nhi khoa - hồi sức gây mê. Mổ chủ động đối với nhau cài răng lược percreta vào thời điểm 34-35 tuần.

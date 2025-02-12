@@ -1,0 +1,17 @@
+- Là một biến chứng của tật TBS hẹp đường ra thất phải và có shunt trong buồng tím
+- Sơ đồ sinh lý bệnh
+### Điều trị
+- Tư thế gối ngực
+- Thở oxy lưu lượng cao
+- An thần
+- _Toan hóa máu thì dùng NatriBicar 1-2 mEq/kg_
+- _Sơ sinh thì => PGE1 giữ_
+- **_Ức chế beta, truyền điện giải, Norepinerphrine_**
+- Truyền dung dịch điện giải, đặt nội khí quản
+- Phẫu thuật tạm thời:
+	- BT shunt cổ điển: ĐMP P với Đm dưới đòn/thân cánh tay đầu P
+	- BT shunt cải biên: ĐMP trái với ĐM dưới đòn T
+	- Waterson: ĐMC lên với ĐMP P
+	- Pott: ĐM chủ xuống với ĐMP T
+- Phẫu thuật hoàn toàn
+	- Các nhánh ĐM phổi không quá nhỏ (tiêu chuẩn Mc Goon và Nakata)

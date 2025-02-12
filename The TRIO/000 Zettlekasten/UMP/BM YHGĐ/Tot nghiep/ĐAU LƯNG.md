@@ -1,0 +1,34 @@
+- Biết chỉ định chuyển tuyến
+- **RED FLAG: 4 dấu hiệu**
+	- Tiền căn chấn thương ung thư, HIV, Thuốc UCMD, Thuốc đường tĩnh mạch (Nhiễm trùng…)
+	- _Sụt cân/sốt không rõ nguyên nhân_
+	- Đau lưng không giảm khi nghỉ, đau ban đêm
+	- _CHèn ép thần kinh: (không có bao gồm test thần kinh mà chỉ có biểu hiện trực tiếp thôi)_
+		- Mất cảm giác theo kiểu yên ngựa (ĐÙI, BẸN, MÔNG – CẢM GIÁC)
+		- RL chức năng đại tràng/ bàng _quang (bí tiểu) (TK TỰ CHỦ)_
+		- RL cương/Yếu liệt/Giảm hoặc mất phản xạ chi (VẬN ĐỘNG)
+- _Bệnh nguy hiểm (VIIMMN)_ (MM, nhiễm trùng, chấn thương, ung thư, chuyển hóa, thần kinh => ĐÚng trong mọi cái tiếp cận YHGĐ
+	- V-Vascular-Mạch máu: Tắc động mạch, phình ĐM chủ bụng
+	- I-Inflamation-Viêm: nhiễm trùng, lao, tự miễn
+	- I-Injury-Chấn thương: gãy xẹp, loãng xương
+	- M-Marligement-Ung thư: K di căn, K đốt sống
+	- N-Neurology-Thần kinh: Chèn ép chùm đuôi ngừa
+- Bệnh thường gặp:
+	- Thương gặp nhất là _căng cơ lưng_
+	- Bệnh nguy hiểm thường gặp
+- Bệnh đồng mắc:
+	- UT, ĐTĐ, HIV, SGMD, Loãng xương, tự miễn
+- Bệnh bỏ sót: Combo Lo ắng / trầm cảm / suy kiệt
+- HẦU HẾT ĐAU LƯNG CẤP LÀ KHÔNG CÓ CHỈ ĐỊNH CLS (KỂ CẢ XQ) trừ khi có RED FLAG
+	- Đau cứng khớp khi nghỉ: CTM, CS, CRP, ALP (bệnh xương)
+	- Đo điện cơ
+CASE
+![[Buổi 4 - CXK - Hệ sinh sản-1687394248962.jpeg]]
+- BN nam 30 tuổi, CN vệ sinh. Đau 2 ngày trước khi đang vệ sinh sàn cả ngày, tăng khi vận động giảm khi nghỉ 7/10, không lan, khoogn té ngẫ chấn thương, không có dấu hiệu thần kinh. KHÔNG CÓ DẤU HIỆU BÁO ĐỘNG
+	- _Chỉ định NSAID, giãn cơ, nghỉ ngơi, VLTL, giáo dục tư thế đúng, theo dõi trong 1 tháng_
+	- Đây là điều trị của đau lưng dạng căng cơ
+	- ĐAU CĂNG CƠ CẤP KHÔNG có RED FLAG thì không có chụp X quang
+![[Buổi 4 - CXK - Hệ sinh sản-1687394242838.jpeg]]  
+- BN nam tương tự, đau kèm yếu cơ 2 chân 3/5, cơ dựng sống căng cứng 2 bên, mức độ đau nhiều 9/10, Lasegue (+)
+	- Hỏi dấu REDFLAG nào?? => thì chỉ có yếu 2 chi
+	- Lasegue dương không phải là RED FLAG của đau lưng

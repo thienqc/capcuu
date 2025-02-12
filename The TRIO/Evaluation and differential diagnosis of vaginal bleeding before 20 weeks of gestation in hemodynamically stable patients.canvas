@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"61f5c17381dd0e2d","x":-297,"y":-408,"width":250,"height":60,"type":"text","text":"Hỏi bệnh sử, khám, đặt mỏ vịt và SIÊU ÂM"},
+		{"id":"fca038acd07379af","x":-87,"y":-5,"width":425,"height":216,"type":"text","text":"Δ: sảy thai hoàn toàn/không hoàn toàn\n- Sản phẩm tống xuất từ âm đạo\n- Sản phẩm tống xuất trong mô BN thu thập\n- Siêu âm trước đo ghi nhận có thai trong tử cung"},
+		{"id":"81c62402d9c72f40","x":463,"y":-5,"width":250,"height":296,"type":"text","text":"Loại trừ THAI NGOÀI TỬ CUNG\nΔ#\n- Thai rất sớm (trước khi có dấu hiệu mang thai (túi thai, yolk-sac, phôi))\n- Sảy thai hoàn toàn\n"},
+		{"id":"84eaacc8c0fa31f1","x":213,"y":-190,"width":250,"height":50,"type":"text","text":"Cổ tử cung mở?"},
+		{"id":"799876deec791dee","x":-765,"y":-190,"width":309,"height":50,"type":"text","text":"Hoạt động tim của phôi/thai?"},
+		{"id":"f4dad87f7e8f8b3d","x":-960,"y":-51,"width":250,"height":93,"type":"text","text":"Chảy máu từ âm đạo hay cổ tử cung"},
+		{"id":"66093137cc265b53","x":-540,"y":-57,"width":250,"height":199,"type":"text","text":"Δ: Thai lưu, ngoại trừ trong giai đoạn sớm của TCN 1 (<6w, khi tim thai chưa đc ghi nhận trên siêu âm)"},
+		{"id":"400ced8208f1d676","x":-1260,"y":192,"width":250,"height":99,"type":"text","text":"Chẩn đoán và quản lí tổn thương khi thích hợp"},
+		{"id":"f40523ecaa5aec3e","x":-780,"y":211,"width":258,"height":102,"type":"text","text":"Cổ tử cung có bình thường (không dãn và/hoặc xoá mở)"},
+		{"id":"a9abf580118488ee","x":-1100,"y":440,"width":357,"height":85,"type":"text","text":"Δ: doạ sảy thai hoặc trong giai đoạn sớm, chảy máu do làm tổ"},
+		{"id":"a0c9c2e77c71e852","x":-652,"y":449,"width":372,"height":171,"type":"text","text":"Δ: CTC dãn và/hoặc xoá mở là phù hợp với sảy thai không hoàn toàn hoặc doạ sảy thai và thường kèm theo đau/chuột rút\nCTC dãn và/hoặc xoá mở không đau gợi ý suy chức năng CTC"},
+		{"id":"675ccdf6e11f3e52","x":-900,"y":660,"width":1263,"height":640,"type":"file","file":"200 Files/image/Pasted image 20230721075608.png"},
+		{"id":"7c4e54740a83091b","x":-900,"y":1427,"width":1263,"height":413,"type":"text","text":"\n\n\\* Trong ba tháng đầu tiên của thai kỳ khi hoạt động của tim thường không được nhìn thấy bằng siêu âm, việc chẩn đoán phôi thai không thể sống được dựa trên các yếu tố như đường kính túi thai trung bình và chiều dài đầu-mông. Tham khảo các chủ đề UpToDate về siêu âm chẩn đoán thai lưu. Lặp lại siêu âm sau 7 đến 10 ngày có thể được yêu cầu để chẩn đoán thai kỳ khả thi hay không khả thi.\n\n¶ Đánh giá thai ngoài tử cung bao gồm sự kết hợp giữa nồng độ hCG nhiều lần và kiểm tra siêu âm. Tham khảo chủ đề UpToDate về chẩn đoán thai ngoài tử cung để biết thông tin chi tiết.\n\nΔ Nếu không có thai trong tử cung trên siêu âm nhưng tử cung không trống, thì nên nghĩ đến bệnh nguyên bào nuôi thai kỳ nếu siêu âm cho thấy một khối không đồng nhất ở trung tâm tử cung. Tham khảo các chủ đề UpToDate về bệnh nguyên bào nuôi thai kỳ để biết thông tin chi tiết.\n\n◊ Chảy máu do cấy ghép là một chẩn đoán loại trừ. Nó được đặc trưng bởi một lượng nhỏ đốm hoặc chảy máu khoảng 10 đến 14 ngày sau khi thụ tinh (khoảng thời gian trễ kinh).\n\n§ Suy cổ tử cung được đặc trưng bởi sự giãn nở và/hoặc xóa cổ tử cung trong tam cá nguyệt thứ hai khi không có các cơn co thắt hoặc các cơn co thắt yếu không đều có vẻ không đủ để giải thích cho sự giãn nở và xóa cổ tử cung. Màng bào thai có thể được nhìn thấy ở hoặc ngoài lỗ thông."}
+	],
+	"edges":[
+		{"id":"206d4e513004d9b0","fromNode":"61f5c17381dd0e2d","fromSide":"bottom","toNode":"799876deec791dee","toSide":"top","label":"Thai trong\ntử cung"},
+		{"id":"f7887077df291ebf","fromNode":"61f5c17381dd0e2d","fromSide":"bottom","toNode":"84eaacc8c0fa31f1","toSide":"top","label":"Không thai trong\ntử cung"},
+		{"id":"ddb29272e8ad4e08","fromNode":"799876deec791dee","fromSide":"bottom","toNode":"f4dad87f7e8f8b3d","toSide":"top","label":"CÓ"},
+		{"id":"f7ea1f28acd0e150","fromNode":"84eaacc8c0fa31f1","fromSide":"bottom","toNode":"fca038acd07379af","toSide":"top","label":"CÓ"},
+		{"id":"c060266e64b8f608","fromNode":"84eaacc8c0fa31f1","fromSide":"bottom","toNode":"81c62402d9c72f40","toSide":"top","label":"KHÔNG"},
+		{"id":"1c023e456264e3d0","fromNode":"799876deec791dee","fromSide":"bottom","toNode":"66093137cc265b53","toSide":"top","label":"KHÔNG"},
+		{"id":"62030210718f1d33","fromNode":"f4dad87f7e8f8b3d","fromSide":"bottom","toNode":"400ced8208f1d676","toSide":"top","label":"CÓ"},
+		{"id":"273a96561c287bde","fromNode":"f4dad87f7e8f8b3d","fromSide":"bottom","toNode":"f40523ecaa5aec3e","toSide":"top","label":"KHÔNG, máu chảy\ntừ tử cung"},
+		{"id":"a520aba7a8408b98","fromNode":"f40523ecaa5aec3e","fromSide":"bottom","toNode":"a9abf580118488ee","toSide":"top","label":"CÓ"},
+		{"id":"306de2843c29359c","fromNode":"f40523ecaa5aec3e","fromSide":"bottom","toNode":"a0c9c2e77c71e852","toSide":"top","label":"KHÔNG"}
+	]
+}
