@@ -1,11 +1,12 @@
 [
   "omnisearch",
-  "obsidian-vault-changelog",
   "dataview",
   "image-converter",
   "obsidian-linter",
   "obsidian-text-format",
   "various-complements",
   "find-unlinked-files",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obisidian-note-linker",
+  "obsidian-mkdocs-publisher"
 ]

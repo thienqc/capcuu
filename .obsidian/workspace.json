@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7922b8f94e1c7b7c",
+        "id": "6970b0dd9aaf51b0",
         "type": "tabs",
         "children": [
           {
-            "id": "a56eb7cf00607153",
+            "id": "62aeb19c0009b57d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Reference notes/BEFAST.md",
+                "file": "The TRIO/Hội chứng vành cấp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BEFAST"
+              "title": "Hội chứng vành cấp"
             }
           }
         ],
@@ -34,7 +34,6 @@
       {
         "id": "b359fb8fec33c345",
         "type": "tabs",
-        "dimension": 79.93981945837513,
         "children": [
           {
             "id": "edb7e91c91f0e010",
@@ -77,33 +76,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "f51738bda1dc2d14",
-        "type": "tabs",
-        "dimension": 20.060180541624874,
-        "children": [
-          {
-            "id": "e27c7d007465a11d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 MOC/MOC.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "MOC"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 714.5
+    "width": 455.5
   },
   "right": {
     "id": "7f751dc339b87c09",
@@ -119,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RS - 001 Airway.md",
+                "file": "The TRIO/Hội chứng vành cấp.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RS - 001 Airway"
+              "title": "Backlinks for Hội chứng vành cấp"
             }
           },
           {
@@ -152,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "100 Reference notes/BEFAST.md"
+                "file": "The TRIO/Hội chứng vành cấp.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for BEFAST"
+              "title": "File properties for Hội chứng vành cấp"
             }
           },
           {
@@ -173,55 +149,12 @@
               "title": "Outline of RS - 001 Airway"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c1f47da5a4632509",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f02034c68955e6d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "100 Reference notes/BEFAST.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.713275462622443,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of BEFAST"
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,38 +162,45 @@
       "command-palette:Open command palette": true,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": true,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "a56eb7cf00607153",
+  "active": "edb7e91c91f0e010",
   "lastOpenFiles": [
-    "100 Reference notes/Approach to the adult with nontraumatic chest pain in the emergency department - UpToDate.md",
-    "100 Reference notes/Approach to diagnosis and evaluation of acute decompensated heart failure in adults.md",
-    "2023 ESC Guidelines for the management of acute coronary syndromes.md",
-    "The TRIO/000 Zettlekasten/UMP/BM NHI/a Đề cương NHI.md",
+    "The TRIO/Excalidraw/Ung buou cheatsheet.md",
+    "The TRIO/Excalidraw/Noi TK.md",
+    "The TRIO/Excalidraw/K CTC.md",
+    "The TRIO/Excalidraw",
+    "100 Reference notes/Fluid and electrolytes/Treatment of severe hypovolemia or hypovolemic shock in adults - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Treatment of metabolic alkalosis - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Treatment of hypernatremia in adults - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Treatment and prevention of hyperkalemia in adults - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Simple and mixed acid-base disorders - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Pathogenesis, consequences, and treatment of metabolic acidosis in chronic kidney disease - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Overview of the treatment of hyponatremia in adults - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Osmotic demyelination syndrome (ODS) and overly rapid correction of hyponatremia - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Fasting ketosis and alcoholic ketoacidosis - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Exercise-associated hyponatremia - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Etiology and evaluation of hypernatremia in adults - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Clinical manifestations of hyperkalemia in adults - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Clinical manifestations and treatment of hypokalemia in adults - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Causes of metabolic alkalosis - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Causes of lactic acidosis - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Causes of hypotonic hyponatremia in adults - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Causes of hypokalemia in adults - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Approach to the adult with metabolic acidosis - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes/Causes and evaluation of hyperkalemia in adults - UpToDate.md",
+    "100 Reference notes/Fluid and electrolytes",
+    "100 Reference notes/Adult signs and symptoms/Treatment of neutropenic fever syndromes in adults with hematologic malignancies and hematopoietic cell transplant recipients (high-risk patients) - UpToDate.md",
+    "100 Reference notes/Adult signs and symptoms/New-onset urticaria - UpToDate.md",
+    "100 Reference notes/Adult signs and symptoms/Fever of unknown origin in adults Evaluation and management - UpToDate.md",
+    "100 Reference notes/Adult signs and symptoms/Fever of unknown origin in adults Etiologies - UpToDate.md",
+    "100 Reference notes/Adult signs and symptoms",
+    "200 FILES/201 Image/ĐỘT QUỴ-20250212082635983.webp",
+    "200 FILES/201 Image/UNG THƯ CỔ TỬ CUNG-20250212082507248.webp",
     "The TRIO/200 Files/image/Pasted image 20230327213235.png",
-    "The TRIO/000 Zettlekasten/UMP/BM NHIỄM/BẠCH HẦU.md",
-    "The TRIO/000 Zettlekasten/UMP/BM YHGĐ/Tot nghiep/Các khuyến cáo tầm soát ung thư.md",
-    "The TRIO/000 Zettlekasten/Buổi 16 - RL đa cơ quan.md",
-    "The TRIO/000 Zettlekasten/Buổi 15 - Hệ thận niệu - RL đa cơ quan (Nhi-Nhiễm).md",
-    "The TRIO/000 Zettlekasten/Buổi 7 - Hệ Tim mạch (Nội).md",
-    "The TRIO/000 Zettlekasten/Buổi 10 - Hệ tiêu hóa (Ngoại).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 3 (5.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 4 (6.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 5 (7.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 6 (10.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 7 (11.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 8 (12.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 9 (13.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 10 (14.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 11 (17.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 12 (18.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 13 (19.7).md",
-    "The TRIO/000 Zettlekasten/UMP/BM NHI/Thận nhi 2023.md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/3 tuần tốt nghiệp Y17.md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 1 (3.7).md",
-    "The TRIO/000 Zettlekasten/3 tuan tot nghiep Y17/Ngày 2 (4.7).md",
-    "The TRIO/Y ĐỨC.md",
     "The TRIO/200 Files/image/image/Buổi 4 - CXK - Hệ sinh sản-1687393548713.jpeg",
     "The TRIO/200 Files/image/image/BẤT THƯỜNG CẶN LẮNG NƯỚC TIỂU-1690700522826.jpeg",
     "The TRIO/200 Files/image/image/BẤT THƯỜNG CẶN LẮNG NƯỚC TIỂU-1690700492232.jpeg",
@@ -268,8 +208,6 @@
     "The TRIO/200 Files/image/image/BÀN TAY-1690939850439.jpeg",
     "The TRIO/200 Files/image/image/Azir.jpeg",
     "The TRIO/200 Files/image/image/AUB-1687875128570.jpeg",
-    "The TRIO/200 Files/image/image/Antidote.jpeg",
-    "200 FILES/201 Image/image/TIẾP CẬN CẤP CỨU ĐAU NGỰC-1716690569561.webp",
     "The TRIO/200 Files/image/~$0 Note điều trị suy tim Y16.docx",
     "000 MOC/CC",
     "200 FILES/Các PP theo dõi huyết động CK1 2021.pdf",
@@ -277,9 +215,6 @@
     "200 FILES/201 Image/Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902204120200.webp.0.pdnSave",
     "200 FILES/201 Image/Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203854084.webp.0.pdnSave",
     "200 FILES/201 Image/Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203902978.webp.0.pdnSave",
-    "200 FILES/201 Image/Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203948645.webp.0.pdnSave",
-    "200 FILES/202 PDF/Khau vet thuong/Basic principles of wound management - UpToDate.pdf",
-    "200 FILES/202 PDF/Adult medical emergencies/Acid peptic disease/Causes of upper gastrointestinal bleeding in adults - UpToDate.pdf",
     "Khó thở cấp.canvas"
   ]
 }
