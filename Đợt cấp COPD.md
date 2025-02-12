@@ -14,3 +14,4 @@ aliases:
 
 [[Điều trị đợt cấp COPD - UMC]]
 
+[[GOLD 2025 - Quản lí đợt cấp COPD]]

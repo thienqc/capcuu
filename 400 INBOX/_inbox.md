@@ -1,3 +1,14 @@
+
+`250212`
+- [CAFE HỒI SỨC slide](https://drive.google.com/drive/folders/1H1ZO6vXQ-xqV-bgtiZdWvBjn09ypNiJt)
+- [Giảm đau trong chấn thương](https://www.tiktok.com/@dr_icu/video/7467648693873708305)
+- [Sử dụng kháng sinh trong ngoại khoa](https://www.tiktok.com/@dr_icu/photo/7458718452652543250)
+- [Kháng sinh trong ICU](https://www.tiktok.com/@dr_icu/photo/7454583627897163026)
+- [Liệu pháp oxy và thông khí hỗ trợ](https://www.tiktok.com/@dr_icu/video/7467624436657655058)
+- [Thở máy không xâm lấn (NonInvasive Ventilator – NIV) và Oxy lưu lượng cao ( High Flow Nasal Cannula Oxygenation – HFNC)](https://admin.ump.edu.vn/uploads/ckeditor/files/THO%20MAY%20KHONG%20XAM%20LAN%20va%20OXY%20LUU%20LUONG%20CAO%20-%20BS%20B_Duy.pdf)
+- 
+
+
 `250208`
 - [Tổn thương thận cấp ở bệnh nhân xơ gan 2024 từ ADQI và ICA](https://drive.google.com/file/d/14rQmD9hreVZZX-5WBaJelH2guGzlAw8c/view)
 - [Cập nhật về hội chứng gan thận 2025 từ sinh lý bệnh đến điều trị](https://drive.google.com/file/d/1-TTwPBvRTMOTvBqfKp0wdw6UlwOScaAl/view)

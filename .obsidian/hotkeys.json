@@ -266,5 +266,14 @@
   ],
   "obsidian-advanced-slides:reload-advanced-slides-preview": [],
   "obsidian-advanced-slides:open-advanced-slides-preview": [],
-  "various-complements:reload-custom-dictionaries": []
+  "various-complements:reload-custom-dictionaries": [],
+  "webviewer:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ]
 }

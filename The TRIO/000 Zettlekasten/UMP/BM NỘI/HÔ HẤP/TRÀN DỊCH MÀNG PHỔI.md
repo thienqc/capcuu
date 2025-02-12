@@ -1,3 +1,4 @@
+# TRÀN DỊCH MÀNG PHỔI
 - Đánh giá Dịch màng phổi
 	- Phải rõ là bao nhiêu lọ (bao nhiêu hũ):
 ![[Buổi 5-Hệ Hô hấp (Nội)-1687359462553.jpeg]]
