@@ -5,7 +5,8 @@
 	- Tiêu chảy mạn tính >=30 ngày
 - Hội chứng lị = tiêu phân lỏng + MÁU trong phân
 
-![[Dau mat nuoc.excalidraw]]
+![[../../../../../../200 FILES/201 Image/TIẾP CẬN TIÊU CHẢY CẤP-20250214181449298.webp]]
+
 ![[So do xu tri Tieu chay cap.jpeg]]
 
 - Phác đồ A: bù sau nôn/tiêu chảy
