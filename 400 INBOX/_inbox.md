@@ -1,3 +1,13 @@
+`250223`
+- [Điều trị AECOPD bằng kháng sinh](https://www.tiktok.com/@dr_icu/video/7443424951887039762?_r=1&_t=ZS-8tvJmXftk8m)
+- [How I personalize fluid therapy in septic shock](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A2902e990-74db-3ebb-bf4a-0d46f301da74&fbclid=IwY2xjawIeBBJleHRuA2FlbQIxMQABHZUwlOIuL7dPwWNOCv4bCApywF_mWNzUdtg6udimdQPxgbXPCVCoaxgfnQ_aem_nUFIc_vmDhxQC3Sb8fGdrA&sfnsn=mo)
+- [Beta-lactam administration, which one is the best for the planet](https://link.springer.com/epdf/10.1007/s00134-024-07697-w?sharing_token=VW_XAhyPpLwm2A-AGOtN7_e4RwlQNchNByi7wbcMAY5SoTOTYtMKjLoZu5O6E6U-7_MpnIl59__kLsEcPHH2lHn5HozJvcbnvGEn2HjBdXBLDMftnOC4ouKoshhTnrho69_fd92VKnjaJ9pGzNwAwM0JFHS7V4kE4X20lnBBHfs%3D)
+- [Thận trọng khi đọc KMĐM](https://www.facebook.com/100026500849589/posts/1661361838090495/?mibextid=xfxF2i&rdid=h0OCtcY0anB0hSXq)
+- [Shock - BS Hồ Hoàng Kim](https://vt.tiktok.com/ZSM6nd7vB/)
+- [Diagnostic workup for patients with suspected acute heart failure](https://www.facebook.com/100006679656740/posts/4193185627580718/?mibextid=xfxF2i&rdid=q5DtK3juTolLtK58)
+- [Practical Guidelines on Fluid Therapy](https://drive.google.com/file/d/1HCuI2pkaQQfPEpLUEhn4cdkxiet12-ZD/)
+- [Society of Critical Care Medicine Guidelines on Adult Critical Care Ultrasonography: Focused Update 2024](https://drive.google.com/file/d/1ssi2qz6f-KqM26IAYv7fcW1MncBPGMf5/edit)
+
 `250214`
 - [Hôn mê](https://vt.tiktok.com/ZSM8VAtcW/)
 - [NSAIDs trong điều trị đau cấp tính](https://vt.tiktok.com/ZSM8VjbmB/)
