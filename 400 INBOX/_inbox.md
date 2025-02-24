@@ -1,3 +1,8 @@
+`250224`
+- [Lưu đồ tiếp cận Sốc](https://vt.tiktok.com/ZSMSLjp8V/)
+- [Algorithm for emergency medicine](https://drive.google.com/file/d/1rEqCjExwW7-GR3eiLe9dI2ylgZ9IXkTb/)
+- [Acute Respiratory Failure in Children: A Clinical Update on Diagnosis](https://drive.google.com/file/d/1sQGStbis94egKGg_CF0CC-eksUzOkfOf/)
+
 `250223`
 - [Điều trị AECOPD bằng kháng sinh](https://www.tiktok.com/@dr_icu/video/7443424951887039762?_r=1&_t=ZS-8tvJmXftk8m)
 - [How I personalize fluid therapy in septic shock](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A2902e990-74db-3ebb-bf4a-0d46f301da74&fbclid=IwY2xjawIeBBJleHRuA2FlbQIxMQABHZUwlOIuL7dPwWNOCv4bCApywF_mWNzUdtg6udimdQPxgbXPCVCoaxgfnQ_aem_nUFIc_vmDhxQC3Sb8fGdrA&sfnsn=mo)
