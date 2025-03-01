@@ -1,3 +1,8 @@
+`250228`
+- [Cập nhật HCVC từ ACC/AHA 2025](https://www.facebook.com/100002281745061/posts/9277633228989310/)
+- [Điều trị rối loạn lipid máu 2025](https://www.facebook.com/819395749/posts/10162464924855750/)
+- [Suspected sepsis: recognition, diagnosis and early management](https://drive.google.com/file/d/1ta6UWw0Nlizu9GtRYKxQQpaGqXm1305x)
+
 `250224`
 - [Lưu đồ tiếp cận Sốc](https://vt.tiktok.com/ZSMSLjp8V/)
 - [Algorithm for emergency medicine](https://drive.google.com/file/d/1rEqCjExwW7-GR3eiLe9dI2ylgZ9IXkTb/)
