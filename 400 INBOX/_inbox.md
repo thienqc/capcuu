@@ -1,3 +1,7 @@
+`250306`
+- https://www.pulmpeeps.com/tag/pleural-effusion/
+- [[ECG in drug overdoses and poisoning]]
+
 `250228`
 - [Cập nhật HCVC từ ACC/AHA 2025](https://www.facebook.com/100002281745061/posts/9277633228989310/)
 - [Điều trị rối loạn lipid máu 2025](https://www.facebook.com/819395749/posts/10162464924855750/)

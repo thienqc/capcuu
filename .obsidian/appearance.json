@@ -7,7 +7,7 @@
   "enabledCssSnippets": [
     "MCL Wide Views"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "showViewHeader": true,
   "showRibbon": true
 }
