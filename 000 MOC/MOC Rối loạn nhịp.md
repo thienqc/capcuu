@@ -21,3 +21,10 @@
 ![[Bradycardia - nhip cham - AHA.webp]]
 
 [[Dysrhythmias]]
+
+--> [[../100 Reference notes/QUY TRÌNH KỸ THUẬT TẠO NHỊP TIM TẠM THỜI NGOÀI DA|QUY TRÌNH KỸ THUẬT TẠO NHỊP TIM TẠM THỜI NGOÀI DA]]
+
+
+[[Cardiac Arrhythmias and Conduction Abnormalities - The Washington Manual of Critical Care Third Edition 2018]]
+[[Tachyarrhythmias & Bradyarrhythmias - Algorithm for emergency medicine]]
+[[Cardiac Arrhythmias - ICU protocol vol 1]]
