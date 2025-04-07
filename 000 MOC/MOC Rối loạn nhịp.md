@@ -28,3 +28,9 @@
 [[Cardiac Arrhythmias and Conduction Abnormalities - The Washington Manual of Critical Care Third Edition 2018]]
 [[Tachyarrhythmias & Bradyarrhythmias - Algorithm for emergency medicine]]
 [[Cardiac Arrhythmias - ICU protocol vol 1]]
+
+[7. Cập nhật chẩn đoán và xử trí bệnh nhân rối loạn nhịp tim - YouTube](https://www.youtube.com/watch?v=h9iFD92iYBI)
+[Xử trí cấp cứu rối loạn nhịp tim thường gặp - ThS.BS. Đặng Minh Hải](https://www.youtube.com/watch?v=HOg5AdM_0iQ)
+[Xử trí cấp cứu rối loạn nhịp - YouTube](https://www.youtube.com/watch?v=mWs98-vbmgo)
+[Bài 20. Rối loạn nhịp trong hồi sức - BS. Lương Cao Sơn - YouTube](https://www.youtube.com/watch?v=nSS9JDvk_iA)
+[Chuyên đề 08: Rối loạn nhịp nhanh/chậm tại Cấp cứu | Bs Trần Dương Thông - YouTube](https://www.youtube.com/watch?v=i5kcKHKz-NQ)
