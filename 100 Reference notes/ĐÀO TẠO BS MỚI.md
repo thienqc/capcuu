@@ -11,7 +11,7 @@ Hô# ĐÀO TẠO BÁC SĨ MỚI
 | [[MOC Rối loạn nhịp]]                                                                                   | Bs.chức      | Đã hướng dẫn |              |
 | [[Kiểm soát đường thở cấp cứu]]                                                                         | Bs.chức      | Đã hướng dẫn |              |
 | [[MOC Suy hô hấp]]                                                                                      | BS.An        | Em           | 10/5         |
-| [[../000 MOC/CC/003 - Shock]]                                                                                             | Bs.chức      | Nam          | 15/5         |
+| [[../000 MOC/CC/003 - Shock]]                                                                           | Bs.chức      | Nam          | 15/5         |
 | 🟢 [[MOC TĂNG HUYẾT ÁP]]                                                                                | Bs.chức      | ==Thiện==    | 17/5         |
 | [[Quy trình truyền dịch và đánh giá đáp ứng dịch]]                                                      | Bs.chức      | Quý          | 27/5         |
 | [[MOC Tiếp cận rối loạn ý thức]]                                                                        | BS.giang     | Trình        | 4/6          |
@@ -29,7 +29,7 @@ Hô# ĐÀO TẠO BÁC SĨ MỚI
 | Tiếp cận chẩn đoán và xử trí sốc nhiễm trùng                                                            | Bs.chức      | Nam          | 17/7         |
 | Tiếp cận chẩn đoán và xử trí xuất huyết tiêu hóa & XHTH ở BN sử dụng kháng đông, kháng kết tập tiểu cầu | Bs Nhân      | Quý          | 19/7         |
 | 🔵 [[Tiếp cận chẩn đoán và xử trí sốt xuất huyết]]                                                      | Bs.chức      | ==Lâm==      | 24/7         |
-| Truyền máu và xử trí tai biến truyền máu                                                                | Bs.chức      | Quý          | 26/7         |
+| [[Truyền máu và tai biến truyền máu]]                                                                   | Bs.chức      | Quý          | 26/7         |
 | 🔵 [[Tiếp cận và xử trí các loại rối loạn điện giải Kali]]                                              | BS.giang     | ==Lâm==      | 31/7         |
 | [[Tiếp cận và xử trí các loại rối loạn điện giải Natri]]                                                | BS.giang     | Kỳ           | 2/8          |
 | [[Tiếp cận và xử trí các loại rối loạn kiềm toan]]                                                      | BS.Đại       | Em           | 4/8          |

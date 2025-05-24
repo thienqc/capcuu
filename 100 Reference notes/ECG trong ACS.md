@@ -5,3 +5,5 @@
 ![[ECG trong ACS-20240611062043003.webp]]
 
 ![[../200 FILES/201 Image/ECG trong ACS-20250317192101400.webp]]
+
+![[../200 FILES/201 Image/ECG trong ACS-20250520232619250.webp]]
