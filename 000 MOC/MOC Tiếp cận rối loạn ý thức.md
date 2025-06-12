@@ -2,11 +2,11 @@
 tags:
   - MOC
 ---
-# TIẾP CẬN RỐI LOẠN Ý THỨC  
-  
-## Depressed Consciousness and Coma - Rosen 2022  
-![Tiếp cận rối loạn ý thức-20240528235903329.webp](../200%20FILES/201%20Image/Ti%E1%BA%BFp%20c%E1%BA%ADn%20r%E1%BB%91i%20lo%E1%BA%A1n%20%C3%BD%20th%E1%BB%A9c-20240528235903329.webp)  
-  
-[TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình](../100%20Reference%20notes/TI%E1%BA%BEP%20C%E1%BA%ACN%20B%E1%BB%86NH%20NH%C3%82N%20R%E1%BB%90I%20LO%E1%BA%A0N%20TRI%20GI%C3%81C%20-%20BS.%20Tr%C3%ACnh.md)  
-  
+# TIẾP CẬN RỐI LOẠN Ý THỨC  
+  
+## Depressed Consciousness and Coma - Rosen 2022  
+![Tiếp cận rối loạn ý thức-20240528235903329.webp](../200%20FILES/201%20Image/Ti%E1%BA%BFp%20c%E1%BA%ADn%20r%E1%BB%91i%20lo%E1%BA%A1n%20%C3%BD%20th%E1%BB%A9c-20240528235903329.webp)  
+  
+[TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình](../100%20Reference%20notes/TI%E1%BA%BEP%20C%E1%BA%ACN%20B%E1%BB%86NH%20NH%C3%82N%20R%E1%BB%90I%20LO%E1%BA%A0N%20TRI%20GI%C3%81C%20-%20BS.%20Tr%C3%ACnh.md)  
+  
 [HÔN MÊ TRÊN BỆNH NHÂN ĐÁI THÁO ĐƯỜNG - Nội tiết Y4](../H%C3%94N%20M%C3%8A%20TR%C3%8AN%20B%E1%BB%86NH%20NH%C3%82N%20%C4%90%C3%81I%20TH%C3%81O%20%C4%90%C6%AF%E1%BB%9CNG%20-%20N%E1%BB%99i%20ti%E1%BA%BFt%20Y4.md)
