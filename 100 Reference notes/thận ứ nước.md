@@ -2,5 +2,5 @@
 aliases:
   - hydronephrosis
 ---
-# Thận ứ nước  
+# Thận ứ nước  
 *hydronephrosis*
