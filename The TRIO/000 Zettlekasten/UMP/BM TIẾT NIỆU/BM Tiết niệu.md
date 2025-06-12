@@ -1,7 +1,7 @@
-## PDF  
-[61_HE THAN NIEU_TIET NIEU_PHAM DUC MINH.pdf](61_HE%20THAN%20NIEU_TIET%20NIEU_PHAM%20DUC%20MINH.pdf)  
-  
-## File sub  
-[Buổi 15 - Hệ thận niệu - RL đa cơ quan (Nhi-Nhiễm) > TIẾT NIỆU](../../Bu%E1%BB%95i%2015%20-%20H%E1%BB%87%20th%E1%BA%ADn%20ni%E1%BB%87u%20-%20RL%20%C4%91a%20c%C6%A1%20quan%20(Nhi-Nhi%E1%BB%85m).md#TIẾT%20NIỆU)  
-  
+## PDF  
+[61_HE THAN NIEU_TIET NIEU_PHAM DUC MINH.pdf](61_HE%20THAN%20NIEU_TIET%20NIEU_PHAM%20DUC%20MINH.pdf)  
+  
+## File sub  
+[Buổi 15 - Hệ thận niệu - RL đa cơ quan (Nhi-Nhiễm) > TIẾT NIỆU](../../Bu%E1%BB%95i%2015%20-%20H%E1%BB%87%20th%E1%BA%ADn%20ni%E1%BB%87u%20-%20RL%20%C4%91a%20c%C6%A1%20quan%20(Nhi-Nhi%E1%BB%85m).md#TIẾT%20NIỆU)  
+  
 [Đề TỐT NGHIỆP 2023 - NGOẠI NIỆU](%C4%90%E1%BB%81%20T%E1%BB%90T%20NGHI%E1%BB%86P%202023%20-%20NGO%E1%BA%A0I%20NI%E1%BB%86U.md)
