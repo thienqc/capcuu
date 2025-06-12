@@ -129,6 +129,11 @@ KCL 500mg 3A pha NaCl 0.9% 500ml, TTM LXXX g/ph
   
 ---  
 ## NMCT  
+  
+> - Aspirin 81mg 4v (u)  
+> - Brilinta (Ticargrelor) 90 mg 2v (u)  
+> - Lipitor (Atorvastatin) 40 mg 2v (u)  
+> - Heparin 5000UI/ml (0.2 lọ) lấy 1ml (5000UI) TMC (ghi rõ thời gian tiêm) (liều 70-100UI/kg)  
 ### STEMI  
 - Dưới 12h (PCI)  
 	- Aspirin 320mg PO  
