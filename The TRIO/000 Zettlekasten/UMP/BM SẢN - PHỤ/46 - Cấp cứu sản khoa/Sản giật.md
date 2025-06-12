@@ -1,5 +1,5 @@
-- Xử trí:  
-	- Theo dõi chặt chẽ  
-	- Kiểm soát huyết áp  
-	- Dự kiến thời gian chấm dứt thai kỳ  
+- Xử trí:  
+	- Theo dõi chặt chẽ  
+	- Kiểm soát huyết áp  
+	- Dự kiến thời gian chấm dứt thai kỳ  
 	- MgSO4
