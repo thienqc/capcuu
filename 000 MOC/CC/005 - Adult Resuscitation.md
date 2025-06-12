@@ -2,5 +2,5 @@
 tags:
   - CC
 ---
-# 005 - Adult Resuscitation  
-[CPR](../../CPR.md)  
+# 005 - Adult Resuscitation  
+[CPR](../../CPR.md)  

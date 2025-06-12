@@ -42,6 +42,18 @@
 ![Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203531399.webp](./200%20FILES/201%20Image/Ti%E1%BA%BFp%20c%E1%BA%ADn%20R%E1%BB%91i%20lo%E1%BA%A1n%20%C4%91i%E1%BB%87n%20gi%E1%BA%A3i%20(H%E1%BA%A1%20natri%20+%20T%C4%83ng%20natri%20+%20H%E1%BA%A1%20&%20t%C4%83ng%20kali)%20%E1%BB%9F%20BN%20n%E1%BA%B7ng%20-%20Bs%20T%C3%ADn-20240902203531399.webp)  
 ![Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203831086.webp](./200%20FILES/201%20Image/Ti%E1%BA%BFp%20c%E1%BA%ADn%20R%E1%BB%91i%20lo%E1%BA%A1n%20%C4%91i%E1%BB%87n%20gi%E1%BA%A3i%20(H%E1%BA%A1%20natri%20+%20T%C4%83ng%20natri%20+%20H%E1%BA%A1%20&%20t%C4%83ng%20kali)%20%E1%BB%9F%20BN%20n%E1%BA%B7ng%20-%20Bs%20T%C3%ADn-20240902203831086.webp)  
   
+> - (1) ==[Furosemide](./100%20Reference%20notes/Drug/Furosemide.md) 20mg 2-4A TMC==  
+> - (2) ==[Actrapid](./100%20Reference%20notes/Drug/Insulin%20Regular.md) `100UI/ml` 10UI (0.1ml) TMC==  
+> 	- (2a) nếu ĐHMM >250ml/dL --> không cần duy trì đường  
+> 	- (2b) nếu ĐHMM <250 mg/dL --> ngay lập tức lấy ==100ml [Glucose](./Glucose.md) 30% TTM CCC g/ph== (25g Glucose trong 5 phút)  
+> 	- (2c) nếu ĐHMM <126 mg/dL --> 2b + ==duy trì [Glucose](./Glucose.md) 10% 250ml TTM XV g/ph== (25g Glucose trong 5h)  
+> - (3) ==[Salbutamol](Salbutamol.md) 5mg 4A pha loãng PKD== (10-20mg)  
+> - (4) NaHCO3   
+> - (5) ==[Calci clorid](Calci%20clorid.md) 500mg/5ml 1-2 A TMC ==(canxi clorua 500-1000 mg IV trong 2-3 phút)  
+  
+  
+  
+  
 ### HẠ KALI  
 ![Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203854084.webp](./200%20FILES/201%20Image/Ti%E1%BA%BFp%20c%E1%BA%ADn%20R%E1%BB%91i%20lo%E1%BA%A1n%20%C4%91i%E1%BB%87n%20gi%E1%BA%A3i%20(H%E1%BA%A1%20natri%20+%20T%C4%83ng%20natri%20+%20H%E1%BA%A1%20&%20t%C4%83ng%20kali)%20%E1%BB%9F%20BN%20n%E1%BA%B7ng%20-%20Bs%20T%C3%ADn-20240902203854084.webp)  
 ![Tiếp cận Rối loạn điện giải (Hạ natri + Tăng natri + Hạ & tăng kali) ở BN nặng - Bs Tín-20240902203902978.webp](./200%20FILES/201%20Image/Ti%E1%BA%BFp%20c%E1%BA%ADn%20R%E1%BB%91i%20lo%E1%BA%A1n%20%C4%91i%E1%BB%87n%20gi%E1%BA%A3i%20(H%E1%BA%A1%20natri%20+%20T%C4%83ng%20natri%20+%20H%E1%BA%A1%20&%20t%C4%83ng%20kali)%20%E1%BB%9F%20BN%20n%E1%BA%B7ng%20-%20Bs%20T%C3%ADn-20240902203902978.webp)  

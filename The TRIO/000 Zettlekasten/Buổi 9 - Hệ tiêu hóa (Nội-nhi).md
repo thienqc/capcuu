@@ -1,24 +1,24 @@
-# HỆ TIÊU HÓA  
-## NỘI TỔNG QUÁT  
-`13 câu`  
-### [Ợ NÓNG, Ợ TRỚ, KHÓ TIÊU – GERD, VIÊM DẠ DÀY TÁ TRÀNG](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/%E1%BB%A2%20N%C3%93NG,%20%E1%BB%A2%20TR%E1%BB%9A,%20KH%C3%93%20TI%C3%8AU%20%E2%80%93%20GERD,%20VI%C3%8AM%20D%E1%BA%A0%20D%C3%80Y%20T%C3%81%20TR%C3%80NG.md)  
-### [ĐAU BỤNG CẤP – VIÊM TỤY CẤP](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/%C4%90AU%20B%E1%BB%A4NG%20C%E1%BA%A4P%20%E2%80%93%20VI%C3%8AM%20T%E1%BB%A4Y%20C%E1%BA%A4P.md)  
-### [BÁNG BỤNG – XƠ GAN](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/B%C3%81NG%20B%E1%BB%A4NG%20%E2%80%93%20X%C6%A0%20GAN.md)  
-### [XHTH – do tăng áp cửa và không tăng áp cửa](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/XHTH%20%E2%80%93%20do%20t%C4%83ng%20%C3%A1p%20c%E1%BB%ADa%20v%C3%A0%20kh%C3%B4ng%20t%C4%83ng%20%C3%A1p%20c%E1%BB%ADa.md)  
-### [TIÊU CHẢY – TÁO BÓN](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/TI%C3%8AU%20CH%E1%BA%A2Y%20%E2%80%93%20T%C3%81O%20B%C3%93N.md)  
-### [BẤT THƯỜNG CHỨC NẶNG GAN – TĂNG MEN GAN](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/B%E1%BA%A4T%20TH%C6%AF%E1%BB%9CNG%20CH%E1%BB%A8C%20N%E1%BA%B6NG%20GAN%20%E2%80%93%20T%C4%82NG%20MEN%20GAN.md)  
-  
-CÂU HỎI  
-- Thời điểm truyền Albumin trong chọc tháo lượng lớn trong điều trị báng bụng độ 3    
-	_THƯỜNG TRUYỀN NGAY TRONG THỜI ĐIỂM CHỌC_.--> Phải chọc ra mới biết bao nhiêu dịch thì mới quyết định truyền bao nhiêu albumin chứ trước đó đâu biết bao nhiêu đâu mà truyền.    
-	Có thể truyền trước khi chọc. Dự đoán chọc nhiều nên truyền trước thôi!  
-  
-  
-## NHI  
-`8 câu`  
-### [TIẾP CẬN NÔN ÓI](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/TI%E1%BA%BEP%20C%E1%BA%ACN%20N%C3%94N%20%C3%93I.md)  
-### [TIẾP CẬN ĐAU BỤNG TE](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/TI%E1%BA%BEP%20C%E1%BA%ACN%20%C4%90AU%20B%E1%BB%A4NG%20TE.md)  
-### [TIẾP CẬN TIÊU CHẢY CẤP](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/TI%E1%BA%BEP%20C%E1%BA%ACN%20TI%C3%8AU%20CH%E1%BA%A2Y%20C%E1%BA%A4P.md)  
-### [SUY DINH DƯỠNG](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/SUY%20DINH%20D%C6%AF%E1%BB%A0NG.md)  
-### [BÉO PHÌ](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/B%C3%89O%20PH%C3%8C.md)  
+# HỆ TIÊU HÓA  
+## NỘI TỔNG QUÁT  
+`13 câu`  
+### [Ợ NÓNG, Ợ TRỚ, KHÓ TIÊU – GERD, VIÊM DẠ DÀY TÁ TRÀNG](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/%E1%BB%A2%20N%C3%93NG,%20%E1%BB%A2%20TR%E1%BB%9A,%20KH%C3%93%20TI%C3%8AU%20%E2%80%93%20GERD,%20VI%C3%8AM%20D%E1%BA%A0%20D%C3%80Y%20T%C3%81%20TR%C3%80NG.md)  
+### [ĐAU BỤNG CẤP – VIÊM TỤY CẤP](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/%C4%90AU%20B%E1%BB%A4NG%20C%E1%BA%A4P%20%E2%80%93%20VI%C3%8AM%20T%E1%BB%A4Y%20C%E1%BA%A4P.md)  
+### [BÁNG BỤNG – XƠ GAN](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/B%C3%81NG%20B%E1%BB%A4NG%20%E2%80%93%20X%C6%A0%20GAN.md)  
+### [XHTH – do tăng áp cửa và không tăng áp cửa](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/XHTH%20%E2%80%93%20do%20t%C4%83ng%20%C3%A1p%20c%E1%BB%ADa%20v%C3%A0%20kh%C3%B4ng%20t%C4%83ng%20%C3%A1p%20c%E1%BB%ADa.md)  
+### [TIÊU CHẢY – TÁO BÓN](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/TI%C3%8AU%20CH%E1%BA%A2Y%20%E2%80%93%20T%C3%81O%20B%C3%93N.md)  
+### [BẤT THƯỜNG CHỨC NẶNG GAN – TĂNG MEN GAN](./UMP/BM%20N%E1%BB%98I/TI%C3%8AU%20HO%C3%81/B%E1%BA%A4T%20TH%C6%AF%E1%BB%9CNG%20CH%E1%BB%A8C%20N%E1%BA%B6NG%20GAN%20%E2%80%93%20T%C4%82NG%20MEN%20GAN.md)  
+  
+CÂU HỎI  
+- Thời điểm truyền Albumin trong chọc tháo lượng lớn trong điều trị báng bụng độ 3    
+	_THƯỜNG TRUYỀN NGAY TRONG THỜI ĐIỂM CHỌC_.--> Phải chọc ra mới biết bao nhiêu dịch thì mới quyết định truyền bao nhiêu albumin chứ trước đó đâu biết bao nhiêu đâu mà truyền.    
+	Có thể truyền trước khi chọc. Dự đoán chọc nhiều nên truyền trước thôi!  
+  
+  
+## NHI  
+`8 câu`  
+### [TIẾP CẬN NÔN ÓI](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/TI%E1%BA%BEP%20C%E1%BA%ACN%20N%C3%94N%20%C3%93I.md)  
+### [TIẾP CẬN ĐAU BỤNG TE](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/TI%E1%BA%BEP%20C%E1%BA%ACN%20%C4%90AU%20B%E1%BB%A4NG%20TE.md)  
+### [TIẾP CẬN TIÊU CHẢY CẤP](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/TI%E1%BA%BEP%20C%E1%BA%ACN%20TI%C3%8AU%20CH%E1%BA%A2Y%20C%E1%BA%A4P.md)  
+### [SUY DINH DƯỠNG](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/SUY%20DINH%20D%C6%AF%E1%BB%A0NG.md)  
+### [BÉO PHÌ](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/B%C3%89O%20PH%C3%8C.md)  
 ### [TƯ VẤN CHẾ ĐỘ ĂN](./UMP/BM%20NHI/BM%20NHI%20-%20Tot%20nghiep/TIEU%20HOA/T%C6%AF%20V%E1%BA%A4N%20CH%E1%BA%BE%20%C4%90%E1%BB%98%20%C4%82N.md)
