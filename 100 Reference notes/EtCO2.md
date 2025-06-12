@@ -1,6 +1,6 @@
-# EtCO2  
-  
-  
-- đặt nkq    
-- ngưng tim    
+# EtCO2  
+  
+  
+- đặt nkq    
+- ngưng tim    
 - tắc nghẽn hô hấp
